@@ -1,7 +1,7 @@
 import { test } from 'node:test'
 import assert from 'node:assert/strict'
 import {
-  emptyProgress, load, save, exportProgress, importProgress, isModuleUnlocked, isExamUnlocked,
+  emptyProgress, load, save, clear, exportProgress, importProgress, isModuleUnlocked, isExamUnlocked,
   nextModuleId, recordQuizResult, STORAGE_KEY, type Progress,
 } from './progress.ts'
 
@@ -65,4 +65,30 @@ test('import rejects garbage with an Error', () => {
   assert.throws(() => importProgress('not base64!!'), Error)
   assert.throws(() => importProgress(btoa('"just a string"')), Error)
   assert.throws(() => importProgress(btoa(JSON.stringify({ version: 2 }))), Error)
+})
+
+test('import sanitises badly shaped v1 data instead of letting it crash the app', () => {
+  const code = (x: unknown) => btoa(JSON.stringify(x))
+  assert.deepEqual(importProgress(code({ version: 1, exam: { attempts: [null] } })).exam, { attempts: [] })
+  assert.deepEqual(importProgress(code({ version: 1, modules: { m01: null } })).modules, {})
+  assert.deepEqual(importProgress(code({ version: 1, exam: { attempts: [], inProgress: {} } })).exam, { attempts: [] })
+})
+
+test('load sanitises a stored inProgress with the wrong shape', () => {
+  const s = mem()
+  s.setItem(STORAGE_KEY, JSON.stringify({ version: 1, modules: { m01: { passed: 'yes' } }, exam: { attempts: [{ score: 1 }], inProgress: { questions: [] } } }))
+  assert.deepEqual(load(s), emptyProgress())
+})
+
+test('blocked or full storage never throws', () => {
+  Object.defineProperty(globalThis, 'localStorage', { configurable: true, get() { throw new Error('SecurityError') } })
+  try {
+    assert.deepEqual(load(), emptyProgress())
+    assert.doesNotThrow(() => save(emptyProgress()))
+    assert.doesNotThrow(() => clear())
+  } finally {
+    delete (globalThis as { localStorage?: unknown }).localStorage
+  }
+  const full = { ...mem(), setItem: () => { throw new Error('QuotaExceededError') } }
+  assert.doesNotThrow(() => save(emptyProgress(), full))
 })

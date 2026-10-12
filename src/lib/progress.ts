@@ -42,35 +42,52 @@ const defaultStorage = (): StorageLike => globalThis.localStorage
 
 export const emptyProgress = (): Progress => ({ version: 1, modules: {}, exam: { attempts: [] } })
 
-/** Validates loosely and normalises; throws on anything that is not a v1 progress object. */
+const isObj = (v: unknown): v is Record<string, unknown> => !!v && typeof v === 'object' && !Array.isArray(v)
+const isNum = (v: unknown): v is number => typeof v === 'number' && Number.isFinite(v)
+const isStr = (v: unknown): v is string => typeof v === 'string'
+
+const isModuleProgress = (v: unknown): v is ModuleProgress =>
+  isObj(v) && typeof v.passed === 'boolean' && isNum(v.bestScore) && isNum(v.attempts) && isStr(v.lastAttemptAt) &&
+  (v.scrollPos === undefined || isNum(v.scrollPos))
+
+const isExamAttempt = (v: unknown): v is ExamAttempt =>
+  isObj(v) && isStr(v.startedAt) && isStr(v.finishedAt) && isNum(v.score) && isObj(v.byModule) &&
+  Object.values(v.byModule).every((r) => isObj(r) && isNum(r.correct) && isNum(r.total))
+
+const isExamInProgress = (v: unknown): v is ExamInProgress =>
+  isObj(v) && Array.isArray(v.questions) && v.questions.every((q) => isObj(q) && isStr(q.id) && Array.isArray(q.order)) && Array.isArray(v.answers) && Array.isArray(v.flagged) &&
+  isNum(v.current) && isNum(v.elapsedBefore) && isStr(v.startedAt) && isStr(v.resumedAt)
+
+/** Throws on anything that is not a v1 progress object; inside one, silently drops entries with the wrong shape. */
 export function coerce(x: unknown): Progress {
-  if (!x || typeof x !== 'object' || Array.isArray(x)) throw new Error('That is not a progress code')
-  const o = x as Record<string, unknown>
-  if (o.version !== 1) throw new Error('Unsupported progress version')
-  const modules = o.modules && typeof o.modules === 'object' && !Array.isArray(o.modules) ? (o.modules as Progress['modules']) : {}
-  const exam = o.exam && typeof o.exam === 'object' ? (o.exam as Partial<Progress['exam']>) : {}
+  if (!isObj(x)) throw new Error('That is not a progress code')
+  if (x.version !== 1) throw new Error('Unsupported progress version')
+  const modules: Progress['modules'] = {}
+  if (isObj(x.modules)) for (const [id, m] of Object.entries(x.modules)) if (isModuleProgress(m)) modules[id] = m
+  const exam = isObj(x.exam) ? x.exam : {}
   // Only add optional keys when present, so save→load round-trips deep-equal (no `key: undefined` noise).
-  const out: Progress = { version: 1, modules, exam: { attempts: Array.isArray(exam.attempts) ? exam.attempts : [] } }
-  if (exam.inProgress && typeof exam.inProgress === 'object') out.exam.inProgress = exam.inProgress
-  if (typeof o.lastVisited === 'string') out.lastVisited = o.lastVisited
+  const out: Progress = { version: 1, modules, exam: { attempts: Array.isArray(exam.attempts) ? exam.attempts.filter(isExamAttempt) : [] } }
+  if (isExamInProgress(exam.inProgress)) out.exam.inProgress = exam.inProgress
+  if (isStr(x.lastVisited)) out.lastVisited = x.lastVisited
   return out
 }
 
-export function load(storage: StorageLike = defaultStorage()): Progress {
+// Storage can be blocked (privacy modes) or full; progress then just doesn't persist, the app still works.
+export function load(storage?: StorageLike): Progress {
   try {
-    const raw = storage.getItem(STORAGE_KEY)
+    const raw = (storage ?? defaultStorage()).getItem(STORAGE_KEY)
     return raw ? coerce(JSON.parse(raw)) : emptyProgress()
   } catch {
     return emptyProgress()
   }
 }
 
-export function save(p: Progress, storage: StorageLike = defaultStorage()): void {
-  storage.setItem(STORAGE_KEY, JSON.stringify(p))
+export function save(p: Progress, storage?: StorageLike): void {
+  try { (storage ?? defaultStorage()).setItem(STORAGE_KEY, JSON.stringify(p)) } catch { /* not persisted */ }
 }
 
-export function clear(storage: StorageLike = defaultStorage()): void {
-  storage.removeItem(STORAGE_KEY)
+export function clear(storage?: StorageLike): void {
+  try { (storage ?? defaultStorage()).removeItem(STORAGE_KEY) } catch { /* nothing to clear */ }
 }
 
 const toBase64 = (s: string) => btoa(Array.from(new TextEncoder().encode(s), (b) => String.fromCharCode(b)).join(''))

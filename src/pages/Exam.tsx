@@ -28,7 +28,8 @@ function startOrResume(): { questions: DrawnQuestion[]; ip: ExamInProgress } {
       return q ? [applyOrder(q, order)] : []
     })
     // Content changed under us (a question vanished) → the saved answers no longer line up, so start again.
-    if (questions.length === saved.questions.length && questions.length === Math.min(EXAM_SIZE, examBank.length)) {
+    const fits = questions.length === saved.questions.length && questions.length === Math.min(EXAM_SIZE, examBank.length)
+    if (fits && saved.answers.length === questions.length && saved.current >= 0 && saved.current < questions.length) {
       return { questions, ip: { ...saved, resumedAt: now } }
     }
   }
@@ -70,6 +71,7 @@ function ExamRun() {
   const [now, setNow] = useState(Date.now)
   const ipRef = useRef(ip)
   const finished = useRef(false)
+  const reviewTitle = useRef<HTMLHeadingElement>(null)
 
   const save = (next: ExamInProgress) => {
     if (finished.current) return
@@ -104,6 +106,9 @@ function ExamRun() {
     }
   }, []) // mount-only; reads current state through ipRef
 
+  // The button that opened review is gone; move focus to the review heading.
+  useEffect(() => { if (view === 'review') reviewTitle.current?.focus() }, [view])
+
   const total = questions.length
   const answered = ip.answers.filter((a) => a !== null).length
   const unanswered = total - answered
@@ -134,7 +139,7 @@ function ExamRun() {
 
   if (view === 'review') {
     return (
-      <Layout title="Review your answers" back={{ href: '#/', label: 'Home' }} action={meta}>
+      <Layout title="Review your answers" back={{ href: '#/', label: 'Home' }} action={meta} titleRef={reviewTitle}>
         <div className="stat-row">
           <div className="stat"><b>{answered}</b>answered</div>
           <div className="stat"><b>{unanswered}</b>unanswered</div>

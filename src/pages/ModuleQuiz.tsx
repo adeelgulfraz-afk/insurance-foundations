@@ -26,9 +26,12 @@ function QuizRun({ m, onRetry }: { m: Module; onRetry: () => void }) {
   const [answers, setAnswers] = useState<(number | null)[]>(() => Array(questions.length).fill(null))
   const [result, setResult] = useState<number | null>(null)
   const nextRef = useRef<HTMLButtonElement>(null)
+  const scoreRef = useRef<HTMLHeadingElement>(null)
   const submitted = answers[i] !== null
 
   useEffect(() => { if (submitted) nextRef.current?.focus() }, [submitted, i])
+  // "See score" unmounts with the question; land focus on the score so it is announced.
+  useEffect(() => { if (result !== null) scoreRef.current?.focus() }, [result])
 
   const choose = (k: number) => {
     if (submitted) return // one tap submits; no changing it afterwards
@@ -55,9 +58,9 @@ function QuizRun({ m, onRetry }: { m: Module; onRetry: () => void }) {
       : `${result}/${QUIZ_SIZE} — not quite. You need ${QUIZ_PASS}. Have another go, the questions change each time.`
     return (
       <Layout title={title} back={back}>
-        <section className="card" role="status" aria-live="polite">
+        <section className="card">
           <p className="eyebrow">Quiz score</p>
-          <p className={`score-big ${passedNow ? 'pass' : 'fail'}`}>{result}/{QUIZ_SIZE}</p>
+          <h2 ref={scoreRef} tabIndex={-1} className={`score-big ${passedNow ? 'pass' : 'fail'}`}>{result}/{QUIZ_SIZE}</h2>
           <p>{headline}</p>
         </section>
         <div className="btn-row">

@@ -1,13 +1,14 @@
-import type { ReactNode } from 'react'
+import type { ReactNode, Ref } from 'react'
 
 interface LayoutProps {
   title?: string
   back?: { href: string; label: string }
   action?: ReactNode
+  titleRef?: Ref<HTMLHeadingElement>
   children: ReactNode
 }
 
-export default function Layout({ title, back, action, children }: LayoutProps) {
+export default function Layout({ title, back, action, titleRef, children }: LayoutProps) {
   return (
     <>
       {(back || action) && (
@@ -19,7 +20,7 @@ export default function Layout({ title, back, action, children }: LayoutProps) {
         </header>
       )}
       <main>
-        {title && <h1>{title}</h1>}
+        {title && <h1 ref={titleRef} tabIndex={-1}>{title}</h1>}
         {children}
       </main>
     </>
