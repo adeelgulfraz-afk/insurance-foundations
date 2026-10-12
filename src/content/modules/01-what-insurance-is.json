@@ -275,7 +275,7 @@
     {
       "id": "m01-q19",
       "topic": "uninsurable risk",
-      "stem": "A colleague of Poppy's wants to insure herself against losing money on a cryptocurrency she has bought. Why will mainstream insurers decline?",
+      "stem": "A colleague of Poppy's wants to insure herself against the price of a cryptocurrency she has bought going down. Why will mainstream insurers decline?",
       "options": [
         "It is a fundamental risk affecting the whole of society",
         "It is a speculative risk, with the chance of a gain as well as a loss",
@@ -300,16 +300,16 @@
     },
     {
       "id": "m01-q21",
-      "topic": "premium as transfer price",
-      "stem": "Poppy pays £300 a year to insure her car. Which is the best description of what she is doing?",
+      "topic": "risk avoidance",
+      "stem": "After reading about motorbike accident rates, Poppy decides not to buy the motorbike she had been saving for. Which way of handling risk is she using?",
       "options": [
-        "Swapping a small, certain cost for protection against a larger, uncertain one",
-        "Saving money that she'll get back if she doesn't claim",
-        "Paying in advance for repairs she will definitely need",
-        "Handing ownership of the car over to the insurer"
+        "Risk avoidance",
+        "Risk reduction",
+        "Risk retention",
+        "Risk transfer"
       ],
       "answerIndex": 0,
-      "explanation": "The premium is the price of transferring the financial risk: a known, affordable cost in place of a possible large loss. It is not a savings account, and she keeps ownership of the car."
+      "explanation": "By not taking on the activity at all, she removes the risk completely, which is avoidance. Reduction would mean buying the bike but lowering the risk, for example with training or protective kit, and transfer would mean insuring it."
     },
     {
       "id": "m01-q22",
