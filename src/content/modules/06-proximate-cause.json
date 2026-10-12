@@ -1,0 +1,428 @@
+{
+  "id": "m06",
+  "order": 6,
+  "title": "Proximate cause",
+  "estimatedMinutes": 15,
+  "recap": [
+    "Proximate cause is the dominant, effective cause that set the chain in motion, not necessarily the last or nearest in time.",
+    "In an unbroken chain the first cause is proximate; a new and independent cause breaks the chain and takes over.",
+    "Natural consequences, like water and damage from firefighting, are treated as caused by the original peril.",
+    "If an excluded peril is the proximate cause the loss is excluded; with concurrent causes the exclusion wins unless the damage can be separated.",
+    "Wording can change the default: \"directly or indirectly\" widens exclusions, write-backs give cover back, \"solely and directly\" narrows cover."
+  ],
+  "sections": [
+    {
+      "heading": "What proximate cause really means",
+      "body": "When something goes wrong, there's rarely just one cause. A pipe bursts because it froze, it froze because the heating failed, and the heating failed because the boiler was old. A policy only pays for loss caused by the things it covers, so insurers need a way of deciding which cause actually counts.\n\nThat tool is **proximate cause**. In plain English, it's the dominant, effective cause that set the chain of events in motion and kept it running until the loss happened. It's the cause that did the real work in producing the result.\n\nIt is *not* necessarily the last thing that happened before the damage, or the one nearest in time. That trips people up, because \"proximate\" sounds like \"nearest\". In insurance it means nearest in effect, not in time. A storm that brought a tree down onto a roof three days before the rain poured in can still be the proximate cause of the water damage.\n\nCourts treat it as a practical, common-sense question rather than a philosophical one: looking at the whole story, what really caused this?\n\n### A clinical way to think about it\n\nYou already know this idea from death certification. Part I of the certificate works backwards: the immediate cause at the top (say, pneumonia), then what led to it, down to the underlying cause at the bottom (say, a stroke that left the patient immobile). Mortality statistics are built on the underlying cause, because that's what set everything going.\n\nProximate cause is the insurance version of the underlying cause, not the immediate one. Differential diagnosis works the same way: you're not just naming the symptom in front of you, you're asking what actually started the process.\n\n### Three kinds of peril\n\nA **peril** is simply an event that causes loss, such as fire, storm or theft. When you test a cause against a policy, it will fall into one of three groups:\n\n- **Insured perils**: events the policy says it covers, like fire or theft.\n- **Excluded perils** (also called excepted perils): events the policy specifically rules out, like war or wear and tear.\n- **Uninsured perils**: events the policy doesn't mention either way. Storm is uninsured on a policy that only covers fire.\n\nOnce you've found the proximate cause, you check which group it falls into. On who proves what, the policyholder broadly has to show the loss was caused by an insured peril; if the insurer wants to rely on an exclusion, it's up to the insurer to show the exclusion applies."
+    },
+    {
+      "heading": "Chains of events: one thing leads to another",
+      "body": "Most losses are a sequence: one event triggers the next, which triggers the next. These are **sequential causes**, often called a chain of events. The rule is simple. If the chain is unbroken, the first cause is the proximate cause, and everything that flows naturally from it is treated as caused by it.\n\n### Worked example: storm, power cut, freezer\n\nA storm brings down power lines. Your street loses electricity for two days, the freezer defrosts, and £300 of food spoils.\n\nThe storm caused the power cut, the power cut caused the defrost, and the defrost caused the spoiling. Each link follows naturally from the one before, so the storm is the proximate cause. The power cut and the warm freezer are just links in the chain.\n\nWhether there's a payout then depends on the policy. Many home contents policies include freezer cover for food spoiled by a change in temperature, and storm is a standard insured peril, so this would usually be paid. Now change one fact: the power was cut deliberately by the electricity supplier, which freezer cover often excludes. Same spoiled food, different proximate cause, potentially a different answer.\n\n### Worked example: fire and the fire brigade\n\nA kitchen fire starts at night. The fire brigade arrives, floods the ground floor with water to put it out, and breaks the back door to get in. Afterwards there's burn damage in the kitchen, water damage throughout the ground floor and a broken door.\n\nAll of it is treated as caused by the fire. The firefighters' actions were a natural, reasonable response to the fire, so they're part of the same chain, not a new cause. A policy covering fire covers the water and the door too, even though \"firefighting\" isn't listed as a peril anywhere. The same logic usually covers smoke damage, and damage done while reasonably moving belongings out of harm's way.\n\n### When the chain breaks\n\nA chain is broken by a **new and independent cause**: something that doesn't flow naturally from what went before and has enough force of its own to become the real driver. From that point on, the new cause is the proximate cause of any further loss. A delay alone doesn't break a chain, and nor does the damage changing type, as the fire example shows.\n\nTwo examples. A storm lifts a few roof tiles. The homeowner notices but leaves the gap for months, and rain slowly soaks the bedroom ceiling. The storm caused the missing tiles, but months of neglect caused the ruined ceiling. That neglect is a new cause, and most policies exclude gradual damage and lack of maintenance anyway.\n\nOr: fire guts a shop. A week later, while the building stands empty, thieves break in and steal the stock that survived. The theft is a deliberate act by someone else, not a natural consequence of the fire. It's a separate cause, so it's covered (or not) under the theft cover rather than as part of the fire loss."
+    },
+    {
+      "heading": "Concurrent causes: two things at once",
+      "body": "Sometimes two causes act at the same time rather than one after the other. These are **concurrent causes**. If both are insured, or one is insured and the other is simply uninsured (not mentioned), there's no real problem: the insured peril was a genuine, effective cause and nothing in the policy takes cover away, so the loss is covered.\n\nThe difficult cases are when one of the causes is excluded. Here it helps to know the two types:\n\n- **Independent concurrent causes**: each could have caused loss on its own. They happened together, but neither needed the other.\n- **Interdependent concurrent causes**: neither would have caused the loss on its own. They needed each other to produce the result.\n\nIf a clinical comparison helps, independent causes are like a patient with two separate injuries from two separate events, each needing treatment in its own right. Interdependent causes are more like a drug interaction: neither drug would cause harm alone, but together they do.\n\n### Independent causes: separate the damage if you can\n\nImagine a policy that covers storm but excludes flood. One night a storm tears tiles off the roof while, at the same time, a nearby river overflows and floods the ground floor. Two separate causes, two separate lots of damage.\n\nBecause the damage can be separated, the insurer pays for the roof (storm) and declines the ground floor (flood). If the two couldn't be pulled apart, so nobody could say which pound of loss came from which cause, the exclusion generally wins and the loss is excluded. The insurer has clearly said it won't pay for that peril.\n\n### Interdependent causes: the exclusion usually wins\n\nNow picture a hypothetical factory. Its heating system was installed with unsuitable materials (the policy excludes faulty design and materials), and an employee carelessly leaves it running unattended overnight (carelessness isn't excluded, so damage it causes is covered). Neither on its own would have started a fire. Together, they do.\n\nBecause the excluded cause was essential to the loss, the loss is excluded.\n\n### The rules in one place\n\n- Concurrent causes, one insured and none excluded: covered.\n- Independent causes, one insured and one excluded: pay the insured part if the damage can be separated; otherwise excluded.\n- Interdependent causes, one insured and one excluded: excluded."
+    },
+    {
+      "heading": "How exclusions interact with the chain",
+      "body": "The headline rule is this: if an excluded peril is the proximate cause, the loss is excluded. That includes damage done further down the chain by perils that would normally be insured, because in law that later damage was caused by the excluded peril.\n\n### Worked example: flood, electrical fault, fire\n\nA river bursts its banks and floods your friend's café. Water gets into the wiring, causes a short circuit, and the resulting fire spreads through the kitchen. Suppose her policy covers fire but excludes flood, which is common for premises in high-risk areas.\n\nTrace the chain: flood, then electrical fault, then fire. Nothing new or independent stepped in; each link followed naturally from the one before. So the flood is the proximate cause, and under the default rules the whole loss falls within the flood exclusion, including the fire damage, even though fire is an insured peril.\n\nIf the policy covered both flood and fire, everything would be paid. The answer always comes from tracing the actual chain.\n\n### What if the insured peril comes first?\n\nTurn it around. Lightning (an insured peril) strikes the café, causing a power surge that wrecks the coffee machine. The policy excludes \"mechanical or electrical breakdown\". The proximate cause is the lightning, so the default position is that the loss is covered: breakdown exclusions are usually aimed at machines that fail on their own, not ones damaged by an insured peril. This is exactly where the precise wording matters, which is the subject of the next section.\n\n### A checklist for any claim\n\n1. List the events in the order they happened.\n2. Find the proximate cause: the dominant, effective one that set things moving. Check whether anything new and independent broke the chain.\n3. Decide whether that cause is insured, excluded or uninsured.\n4. If two causes acted together, decide whether they were independent or interdependent, and apply the concurrent-cause rules.\n5. Read the wording. It may change any of the above."
+    },
+    {
+      "heading": "When the wording changes the rules",
+      "body": "Everything so far is the default position: what applies when the policy says nothing more. But insurer and policyholder are free to agree something different, and wording often does exactly that.\n\n### Widening an exclusion: \"directly or indirectly\"\n\nExclusions for catastrophic risks such as war, terrorism and radioactive contamination are often worded to cover loss \"directly or indirectly caused by, or contributed to by\" the excluded event. Those extra words mean the exclusion applies if the excluded event appears anywhere in the chain, even if it isn't the proximate cause.\n\nA hypothetical: a terrorist attack knocks out power across a district. Days later, your building's backup generator overheats and starts a fire. Under the default rules you might argue the generator fault was a new cause. With \"directly or indirectly\" wording, the insurer only needs to show the attack played a part somewhere along the way.\n\nSome exclusions go further and apply \"regardless of any other cause or event contributing concurrently or in any other sequence\". This is sometimes called anti-concurrent causation wording, and it takes the concurrent-cause and chain arguments off the table.\n\n### Narrowing an exclusion: write-backs\n\nWording can also give cover back. A **write-back** is a phrase that restores cover an exclusion would otherwise remove. A flood or earthquake exclusion might add \"but this exclusion shall not apply to subsequent fire damage\". In the café example, that would mean the fire damage is paid even though the flood damage still isn't.\n\n### Tightening cover: \"solely and directly\"\n\nThe wording that grants cover can be narrow too. Personal accident policies, which pay a set amount for accidental injury or death, often require the injury to be caused \"solely and directly\" by an accident, \"independently of any other cause\".\n\nPicture a man who has a heart attack while up a ladder, falls and breaks his arm. The insurer may argue the heart attack, an illness, set the whole chain going, so the injury wasn't caused solely by accident. Questions like this, about where illness ends and accident begins, come up regularly in health and protection work.\n\n### What this means for you as a broker\n\n- Read exclusions for phrases like \"directly or indirectly\", \"contributed to by\" and \"in any sequence\". They change how far an exclusion reaches.\n- Look for write-backs and make sure the client understands what they restore.\n- When a claim is declined, ask the insurer which proximate cause it relied on and which exact wording it's using.\n- When placing cover, think about the chains of events a client's business is genuinely exposed to, not just the obvious single perils."
+    }
+  ],
+  "whyItMatters": "Most claim disputes come down to \"what actually caused this?\". If you can trace the chain of events and read the exclusion wording, you can tell a client whether a decline stands up, and spot \"directly or indirectly\" clauses before you place the cover.",
+  "questions": [
+    {
+      "id": "m06-q01",
+      "topic": "definition",
+      "stem": "In insurance, what is meant by the proximate cause of a loss?",
+      "options": [
+        "The last event to happen before the damage occurred",
+        "The cause physically closest to the damaged property",
+        "The dominant, effective cause that set in motion the chain of events leading to the loss",
+        "Whichever cause the policyholder can most easily prove"
+      ],
+      "answerIndex": 2,
+      "explanation": "Proximate cause is about dominance and effectiveness: the cause that started things moving and drove them through to the loss. It is not simply the most recent event, despite what the word sounds like."
+    },
+    {
+      "id": "m06-q02",
+      "topic": "nearest in effect",
+      "stem": "The word \"proximate\" can mislead. In the insurance sense, the proximate cause is nearest to the loss in terms of what?",
+      "options": [
+        "Its effect or efficiency in producing the loss",
+        "Time",
+        "Physical location",
+        "The order in which the events were reported to the insurer"
+      ],
+      "answerIndex": 0,
+      "explanation": "Proximate means nearest in effect, not in time. A storm days earlier can still be the proximate cause of later water damage if it set the chain going."
+    },
+    {
+      "id": "m06-q03",
+      "topic": "clinical analogy",
+      "stem": "On a medical certificate of cause of death, which entry is the closest equivalent to an insurance proximate cause?",
+      "options": [
+        "The immediate cause listed at the top of Part I",
+        "The mode of dying, such as cardiac arrest",
+        "A condition in Part II that contributed but was not part of the main sequence",
+        "The underlying cause that started the sequence leading to death"
+      ],
+      "answerIndex": 3,
+      "explanation": "The underlying cause is what set the whole sequence going, which is exactly what proximate cause looks for. The immediate cause is just the final link in the chain."
+    },
+    {
+      "id": "m06-q04",
+      "topic": "unbroken chain",
+      "stem": "Where a loss results from an unbroken chain of events, which cause is normally treated as the proximate cause?",
+      "options": [
+        "The last event in the chain",
+        "The first event in the chain",
+        "The event that caused the most expensive damage",
+        "Each event equally, with the loss split between them"
+      ],
+      "answerIndex": 1,
+      "explanation": "In an unbroken chain each link flows naturally from the one before, so the first cause is treated as the driver of everything that follows. Proximate cause does not split a loss between the links."
+    },
+    {
+      "id": "m06-q05",
+      "topic": "breaking the chain",
+      "stem": "What breaks a chain of causation for proximate cause purposes?",
+      "options": [
+        "Any delay of more than 24 hours between events",
+        "A change in the type of damage, such as fire damage leading to water damage",
+        "A new and independent cause that does not flow naturally from what went before",
+        "The policyholder reporting the loss late"
+      ],
+      "answerIndex": 2,
+      "explanation": "Only a new, independent cause with enough force of its own breaks the chain. A time gap or a change in the kind of damage does not, by itself, do so."
+    },
+    {
+      "id": "m06-q06",
+      "topic": "storm and freezer",
+      "stem": "A storm brings down power lines near Poppy's flat. The electricity is off for two days and the food in her freezer spoils. What is the proximate cause of the spoiled food?",
+      "options": [
+        "The storm",
+        "The power cut",
+        "The rise in temperature inside the freezer",
+        "The electricity company's failure to restore power sooner"
+      ],
+      "answerIndex": 0,
+      "explanation": "The storm set the chain going, and the power cut and defrosting followed naturally from it. Those later events are links in the chain, not the proximate cause."
+    },
+    {
+      "id": "m06-q07",
+      "topic": "firefighting damage",
+      "stem": "A fire starts in the kitchen of Poppy's neighbour. Firefighters soak the ground floor with water and break the back door to get in. The home policy covers fire but says nothing about firefighting. How is the water and door damage normally treated?",
+      "options": [
+        "As uninsured, because firefighting is not listed as a peril",
+        "As claimable only under accidental damage cover, if the policy has it",
+        "As caused by a new and independent cause, the fire brigade, so outside the fire cover",
+        "As caused by the fire, so covered under the fire cover"
+      ],
+      "answerIndex": 3,
+      "explanation": "The firefighters' reasonable response is a natural part of the chain the fire started, so the fire is the proximate cause of that damage too. Human action that responds naturally to a peril does not break the chain."
+    },
+    {
+      "id": "m06-q08",
+      "topic": "neglect breaks chain",
+      "stem": "A storm lifts some tiles from her brother's roof. He doesn't get it fixed, and over the next five months rain slowly soaks through and ruins a bedroom ceiling. What is the most likely view of the ceiling damage?",
+      "options": [
+        "The storm is the proximate cause, so the ceiling is covered as storm damage",
+        "The months of neglect are a new cause that broke the chain, so the ceiling is unlikely to be covered as storm damage",
+        "Rain is an insured peril in its own right, so the ceiling is covered whatever happened before",
+        "The ceiling claim is split equally between the storm and the rain"
+      ],
+      "answerIndex": 1,
+      "explanation": "Leaving a known problem unrepaired for months is a new and independent cause that overtakes the storm's role. Policies also commonly exclude gradual damage and lack of maintenance."
+    },
+    {
+      "id": "m06-q09",
+      "topic": "concurrent causes",
+      "stem": "What are concurrent causes?",
+      "options": [
+        "Two or more causes operating at the same time to produce a loss",
+        "Causes that follow one another in an unbroken chain",
+        "Causes that are excluded by more than one section of the policy",
+        "A cause together with the consequence it directly produces"
+      ],
+      "answerIndex": 0,
+      "explanation": "Concurrent causes act at the same time, rather than one after the other. Causes that follow one another are sequential causes, or a chain of events."
+    },
+    {
+      "id": "m06-q10",
+      "topic": "interdependent causes",
+      "stem": "Two concurrent causes are described as interdependent. What does that mean?",
+      "options": [
+        "Each would have caused the loss on its own",
+        "One followed the other in sequence",
+        "Neither would have caused the loss on its own; they needed each other",
+        "Both are insured under the same section of the policy"
+      ],
+      "answerIndex": 2,
+      "explanation": "Interdependent causes only produce the loss in combination, like a drug interaction where neither drug is harmful alone. Causes that could each have done the damage alone are independent."
+    },
+    {
+      "id": "m06-q11",
+      "topic": "why it matters",
+      "stem": "Why does identifying the proximate cause matter when a claim is assessed?",
+      "options": [
+        "It sets the size of the excess the policyholder must pay",
+        "It decides which insurer in the market has to handle the claim",
+        "It determines whether the policyholder keeps their no-claims discount",
+        "Cover depends on whether that cause is an insured, excluded or uninsured peril"
+      ],
+      "answerIndex": 3,
+      "explanation": "Once the proximate cause is found, it is tested against the policy: insured perils are paid, excluded perils are not, and uninsured perils are generally not covered either. The other factors are decided by different parts of the policy."
+    },
+    {
+      "id": "m06-q12",
+      "topic": "inseparable damage",
+      "stem": "An insured peril and an excluded peril act independently at the same time, and the resulting damage cannot be separated. What is the usual position?",
+      "options": [
+        "The loss is covered, because an insured peril was involved",
+        "The loss is excluded, because the exclusion takes priority",
+        "The insurer pays a proportion based on which peril was stronger",
+        "The policyholder can choose which cause to claim under"
+      ],
+      "answerIndex": 1,
+      "explanation": "Where the damage cannot be pulled apart, the exclusion generally wins, because the insurer has clearly said it will not pay for that peril. If the damage could be separated, the insured part would be paid."
+    },
+    {
+      "id": "m06-q13",
+      "topic": "insured plus uninsured",
+      "stem": "Two interdependent causes produce a loss. One is an insured peril; the other is not mentioned in the policy at all. What is the usual outcome?",
+      "options": [
+        "The loss is not covered, because one cause was uninsured",
+        "Only half of the loss is covered",
+        "The loss is covered",
+        "The loss is covered only if the insured peril happened first"
+      ],
+      "answerIndex": 2,
+      "explanation": "The insured peril was a genuine, effective cause and nothing in the policy takes cover away. An uninsured cause, unlike an excluded one, does not defeat the claim."
+    },
+    {
+      "id": "m06-q14",
+      "topic": "insured plus excluded",
+      "stem": "Two interdependent concurrent causes produce a loss: one is insured and the other is specifically excluded. What is the usual outcome?",
+      "options": [
+        "The loss is excluded, because the excluded peril was essential to it",
+        "The loss is covered, because the insured peril was essential to it",
+        "The insurer pays half of the loss",
+        "The loss is covered if the insured peril was the larger contributor"
+      ],
+      "answerIndex": 0,
+      "explanation": "Neither cause would have done the damage alone, so the excluded peril was essential to the loss and the exclusion applies. Insurers are not made to pay for a loss that needed a peril they ruled out."
+    },
+    {
+      "id": "m06-q15",
+      "topic": "flood then fire",
+      "stem": "A river floods her friend's café. Water gets into the wiring, causes a short circuit, and a fire breaks out. The policy covers fire but excludes flood, with no other relevant wording. Under the default rules, what happens to the fire damage?",
+      "options": [
+        "It is covered, because fire is an insured peril",
+        "It is covered, because the short circuit broke the chain",
+        "Half is covered, because flood and fire were both involved",
+        "It is excluded, because flood is the proximate cause of the whole chain"
+      ],
+      "answerIndex": 3,
+      "explanation": "The fault and the fire followed naturally from the flood, so the flood is the proximate cause of all of it. When an excluded peril is the proximate cause, later damage from insured perils in the same chain is excluded too."
+    },
+    {
+      "id": "m06-q16",
+      "topic": "write-back effect",
+      "stem": "The café's flood exclusion adds: \"this exclusion shall not apply to subsequent fire damage\". Floodwater causes an electrical fault and a fire. What is the likely result?",
+      "options": [
+        "Both the flood damage and the fire damage are covered",
+        "The fire damage is covered, but the flood damage is not",
+        "Neither is covered, because flood is still the proximate cause",
+        "The flood damage is covered, but the fire damage is not"
+      ],
+      "answerIndex": 1,
+      "explanation": "The write-back restores cover for fire that follows the excluded peril, so the fire damage is paid. The flood damage itself is still caught by the exclusion."
+    },
+    {
+      "id": "m06-q17",
+      "topic": "directly or indirectly",
+      "stem": "What is the effect of an exclusion worded to apply to loss \"directly or indirectly caused by\" an event such as war?",
+      "options": [
+        "It applies if the excluded event appears anywhere in the chain, even if it is not the proximate cause",
+        "It applies only if the excluded event is the last cause before the loss",
+        "It applies only if the excluded event is the sole cause of the loss",
+        "It works exactly like an ordinary exclusion, because the extra words add nothing"
+      ],
+      "answerIndex": 0,
+      "explanation": "The extra words widen the exclusion beyond the default rule, so the insurer only needs to show the excluded event played a part somewhere along the way. That is why these phrases matter so much in catastrophe exclusions."
+    },
+    {
+      "id": "m06-q18",
+      "topic": "write-back meaning",
+      "stem": "In policy wording, what is a \"write-back\"?",
+      "options": [
+        "A clause allowing the insurer to cancel the policy after a claim",
+        "A letter from the insurer explaining why a claim was declined",
+        "Wording that restores cover an exclusion would otherwise remove",
+        "A clause requiring the policyholder to repay a claim if fraud is found"
+      ],
+      "answerIndex": 2,
+      "explanation": "A write-back narrows an exclusion by giving back part of the cover, such as fire damage that follows a flood. Brokers need to spot them and explain them to clients."
+    },
+    {
+      "id": "m06-q19",
+      "topic": "solely and directly",
+      "stem": "Her uncle has a personal accident policy that pays for injury caused \"solely and directly\" by accident. He has a heart attack while up a ladder, falls and breaks his arm. Why might the insurer dispute the claim?",
+      "options": [
+        "Because falls from ladders are always excluded from personal accident cover",
+        "Because personal accident policies pay only on death, not on injury",
+        "Because personal accident policies only cover accidents at work",
+        "Because an illness, the heart attack, set the chain going, so the injury was not caused solely by accident"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"Solely and directly\" wording narrows cover, so if an illness started the chain the injury may not count as purely accidental. Where illness ends and accident begins is a common question in health and protection claims."
+    },
+    {
+      "id": "m06-q20",
+      "topic": "burden of proof",
+      "stem": "Poppy's friend claims for water damage she says was caused by a storm. The insurer says the real cause was wear and tear, which the policy excludes. Who generally has to prove what?",
+      "options": [
+        "She must prove both that a storm caused the loss and that wear and tear did not",
+        "She must show the loss was caused by an insured peril; the insurer must show the exclusion applies",
+        "The insurer must prove everything, because she is a consumer",
+        "Her broker must prove the cause, because the broker arranged the cover"
+      ],
+      "answerIndex": 1,
+      "explanation": "The policyholder broadly has to bring the loss within an insured peril, and an insurer relying on an exclusion has to show it applies. She does not have to disprove every exclusion herself."
+    },
+    {
+      "id": "m06-q21",
+      "topic": "uninsured peril",
+      "stem": "What is an \"uninsured peril\"?",
+      "options": [
+        "A peril the policy specifically rules out, such as war",
+        "A peril the policyholder failed to disclose when buying the policy",
+        "A peril the policy neither covers nor specifically excludes",
+        "A peril that no insurer in the market will cover"
+      ],
+      "answerIndex": 2,
+      "explanation": "An uninsured peril is simply not mentioned, like storm on a fire-only policy. That is different from an excluded peril, which the policy expressly rules out, and the difference matters when causes act together."
+    },
+    {
+      "id": "m06-q22",
+      "topic": "sequential causes",
+      "stem": "Causes that happen one after another, each triggering the next, are known as what?",
+      "options": [
+        "Sequential causes",
+        "Concurrent causes",
+        "Independent causes",
+        "Contributory causes"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sequential causes form a chain of events, and in an unbroken chain the first cause is proximate. Concurrent causes, by contrast, act at the same time."
+    },
+    {
+      "id": "m06-q23",
+      "topic": "theft after fire",
+      "stem": "Fire guts a shop. A week later, while the building stands empty, thieves break in and steal the stock that survived. How is the theft most likely treated?",
+      "options": [
+        "As part of the fire loss, because the fire left the building exposed",
+        "As excluded, because the fire is still the proximate cause",
+        "As a concurrent cause acting alongside the fire",
+        "As a new and independent cause, so it is covered only if the policy covers theft"
+      ],
+      "answerIndex": 3,
+      "explanation": "A deliberate act by a third party a week later does not flow naturally from the fire, so it breaks the chain. The theft is assessed on its own, under the theft cover."
+    },
+    {
+      "id": "m06-q24",
+      "topic": "separable damage",
+      "stem": "One night a storm tears tiles off her cousin's roof while, at the same time, a nearby river floods the ground floor. Her policy covers storm but excludes flood, and the two lots of damage are easy to tell apart. What should she expect?",
+      "options": [
+        "Nothing is paid, because an excluded peril was involved",
+        "The roof damage is paid but the flood damage is not",
+        "Everything is paid, because the storm is the proximate cause",
+        "Half of the total damage is paid"
+      ],
+      "answerIndex": 1,
+      "explanation": "These are independent concurrent causes and the damage can be separated, so the insurer pays the storm damage and declines the flood damage. Only if the damage could not be separated would the exclusion take the whole loss."
+    },
+    {
+      "id": "m06-q25",
+      "topic": "timing of cause",
+      "stem": "Which statement about proximate cause is true?",
+      "options": [
+        "The proximate cause can happen days before the damage it leads to",
+        "The proximate cause is always the event immediately before the loss",
+        "A valid claim can only ever involve a single cause",
+        "Proximate cause applies to property insurance but not to personal accident cover"
+      ],
+      "answerIndex": 0,
+      "explanation": "Proximate cause is about effect, not timing, so a cause days earlier can still be proximate if the chain is unbroken. The principle applies across all classes, including personal accident."
+    },
+    {
+      "id": "m06-q26",
+      "topic": "concurrent rules",
+      "stem": "Which statement about concurrent causes is false?",
+      "options": [
+        "If one concurrent cause is insured and the other is simply not mentioned, the loss is usually covered",
+        "Independent concurrent causes could each have caused loss on their own",
+        "If an insured cause and an excluded cause act together, the insured cause always wins",
+        "Where independent causes produce damage that can be separated, the insured part can usually be paid"
+      ],
+      "answerIndex": 2,
+      "explanation": "The false statement is the one saying the insured cause always wins: where an excluded cause is involved and the damage cannot be separated, or the causes are interdependent, the exclusion usually prevails. The other statements reflect the standard rules."
+    },
+    {
+      "id": "m06-q27",
+      "topic": "wording overrides default",
+      "stem": "Which statement about policy wording and proximate cause is true?",
+      "options": [
+        "Courts always apply the default proximate cause rules, whatever the policy says",
+        "An exclusion can only narrow cover; its own reach can never be narrowed",
+        "Adding \"directly or indirectly\" to an exclusion makes it narrower than an ordinary exclusion",
+        "A policy can be worded to change the default proximate cause position"
+      ],
+      "answerIndex": 3,
+      "explanation": "The default rules apply when the policy says nothing more, but the parties can agree otherwise, for example with \"directly or indirectly\" exclusions or write-backs. \"Directly or indirectly\" widens an exclusion rather than narrowing it."
+    },
+    {
+      "id": "m06-q28",
+      "topic": "common-sense test",
+      "stem": "Which statement best describes how proximate cause is decided?",
+      "options": [
+        "It is whichever cause the policyholder names on the claim form",
+        "It is a practical, common-sense judgement about which cause was dominant, not a strict rule about timing",
+        "It is always the cause that did the most expensive damage",
+        "It is always the very first event that happened, however remote"
+      ],
+      "answerIndex": 1,
+      "explanation": "Courts look at the whole story and ask what really caused the loss. The first event in an unbroken chain is usually proximate, but a new and independent cause can take over, so \"however remote\" goes too far."
+    },
+    {
+      "id": "m06-q29",
+      "topic": "anti-concurrent wording",
+      "stem": "An exclusion says it applies \"regardless of any other cause or event contributing concurrently or in any other sequence to the loss\". Which statement about it is true?",
+      "options": [
+        "It stops the policyholder arguing that an insured cause acting alongside or before the excluded event brings the loss back into cover",
+        "It applies only when the excluded event is the sole and immediate cause of the loss",
+        "It restores cover for any insured peril that played a part in the loss, whatever the sequence",
+        "It applies only where all the events involved happened on the same day as each other"
+      ],
+      "answerIndex": 0,
+      "explanation": "This anti-concurrent causation wording takes the concurrent-cause and chain-of-events arguments off the table, so the exclusion bites whenever the excluded event is involved. It widens the exclusion; it does not restore cover."
+    },
+    {
+      "id": "m06-q30",
+      "topic": "independent causes",
+      "stem": "Which statement about types of cause is true?",
+      "options": [
+        "Sequential causes are causes that act at the same moment",
+        "Interdependent causes could each have caused the loss alone",
+        "Independent concurrent causes could each have caused the loss on their own",
+        "A cause that follows naturally from an earlier one counts as a new and independent cause"
+      ],
+      "answerIndex": 2,
+      "explanation": "Independent concurrent causes happen together but neither needed the other to do damage. A cause that follows naturally from an earlier one is just a link in the chain, not a new cause."
+    }
+  ]
+}
