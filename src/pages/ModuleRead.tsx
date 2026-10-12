@@ -1,8 +1,10 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
+import AudioPlayer from '../components/AudioPlayer'
 import Layout from '../components/Layout'
 import Markdown from '../components/Markdown'
 import { moduleById, modules } from '../content'
 import { progressStore, useProgress } from '../hooks/useProgress'
+import { moduleTracks } from '../lib/narration'
 import { isModuleUnlocked } from '../lib/progress'
 import type { Module } from '../types'
 import NotFound from './NotFound'
@@ -24,6 +26,9 @@ export default function ModuleRead({ id }: { id: string }) {
   const p = useProgress()
   const m = moduleById(id)
   const open = !!m && isModuleUnlocked(p, modules, id)
+  const [track, setTrack] = useState(0)
+  const [playKey, setPlayKey] = useState(0)
+  const listen = (i: number) => { setTrack(i); setPlayKey((k) => k + 1) }
 
   // Remember where she was, and restore it on the way back in.
   useEffect(() => {
@@ -49,25 +54,28 @@ export default function ModuleRead({ id }: { id: string }) {
 
   if (!m) return <NotFound />
   if (!open) return <LockedModule m={m} />
+  const tracks = moduleTracks(m)
 
   return (
     <Layout title={`${m.order}. ${m.title}`} back={{ href: '#/', label: 'Home' }}>
       <p className="muted">~{m.estimatedMinutes} min read</p>
 
+      <AudioPlayer tracks={tracks} moduleId={m.id} moduleTitle={m.title} index={track} playKey={playKey} onSelect={listen} />
+
       <section className="card recap">
-        <h2>Quick recap</h2>
+        <h2>Quick recap <PlayButton label="Quick recap" onClick={() => listen(0)} /></h2>
         <ul>{m.recap.map((r, i) => <li key={i}>{r}</li>)}</ul>
       </section>
 
       {m.sections.map((s, i) => (
         <article key={i}>
-          <h2>{s.heading}</h2>
+          <h2>{s.heading} <PlayButton label={s.heading} onClick={() => listen(i + 1)} /></h2>
           <Markdown body={s.body} />
         </article>
       ))}
 
       <section className="card callout">
-        <p className="eyebrow">Why this matters for a broker</p>
+        <p className="eyebrow">Why this matters for a broker <PlayButton label="Why this matters for a broker" onClick={() => listen(tracks.length - 1)} /></p>
         <p>{m.whyItMatters}</p>
       </section>
 
@@ -76,4 +84,8 @@ export default function ModuleRead({ id }: { id: string }) {
       </div>
     </Layout>
   )
+}
+
+function PlayButton({ label, onClick }: { label: string; onClick: () => void }) {
+  return <button type="button" className="btn-play" aria-label={`Listen to ${label}`} onClick={onClick}>▶</button>
 }
