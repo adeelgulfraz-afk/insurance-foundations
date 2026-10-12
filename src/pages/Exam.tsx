@@ -102,7 +102,7 @@ function ExamRun() {
       document.removeEventListener('visibilitychange', onVisibility)
       save(ipRef.current)
     }
-  }, []) // mount-only: save/ipRef are stable enough via the ref
+  }, []) // mount-only; reads current state through ipRef
 
   const total = questions.length
   const answered = ip.answers.filter((a) => a !== null).length
