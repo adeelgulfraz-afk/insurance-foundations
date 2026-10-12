@@ -11,6 +11,7 @@ Track text and file names come from `node scripts/narration-tracks.mjs`, the sam
 validator use, so the three never disagree.
 """
 import json
+import re
 import subprocess
 import sys
 import tempfile
@@ -42,11 +43,15 @@ def main(only: set[str]) -> None:
     from kokoro import KPipeline
 
     pipe = KPipeline(lang_code="b", repo_id="hexgrad/Kokoro-82M")
+    seen: set[str] = set()
     for path in sorted(MODULES.glob("*.json")):
         module = json.loads(path.read_text())
         mid = module["id"]
         if only and mid not in only:
             continue
+        seen.add(mid)
+        if not re.fullmatch(r"m\d\d", mid):
+            sys.exit(f"refusing to write audio for unexpected module id {mid!r} in {path.name}")
         out = OUT / mid
         out.mkdir(parents=True, exist_ok=True)
         hashes_path = out / "hashes.json"
@@ -68,6 +73,8 @@ def main(only: set[str]) -> None:
             to_mp3(np.concatenate(chunks), 24000, mp3)
             hashes[t["file"]] = t["hash"]
             hashes_path.write_text(json.dumps(hashes, indent=2) + "\n")   # after every track: safe to interrupt
+    if only - seen:
+        sys.exit(f"no module with id: {', '.join(sorted(only - seen))}")
     print("done")
 
 
