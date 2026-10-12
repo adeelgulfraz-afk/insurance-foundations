@@ -12,4 +12,6 @@ function pagesBase(): string {
 export default defineConfig({
   plugins: [react()],
   base: pagesBase(),
+  // All content JSON is bundled into one ~680 kB chunk (~210 kB gzip). Fine for this app; see README.
+  build: { chunkSizeWarningLimit: 800 },
 })
