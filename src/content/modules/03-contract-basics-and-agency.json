@@ -29,7 +29,7 @@
     },
     {
       "heading": "Cancellation and renewal",
-      "body": "Most general insurance (car, home, travel, pet) runs for a fixed **period of insurance**, usually 12 months. Leaving early and carrying on both have rules.\n\n### Cancelling: the cooling-off period\n\nUnder the FCA's ICOBS rules (the Insurance: Conduct of Business sourcebook), consumers buying most general insurance get a **cooling-off period** of 14 days to cancel without giving a reason. For pure protection products such as life insurance or income protection, it's 30 days. Policies under a month, like a single-trip travel policy, are an exception. The clock usually runs from the later of the day cover starts and the day the customer receives the terms. Cancel within it and you normally pay only for the cover you've had.\n\n### Cancelling after cooling-off\n\nAfter that, cancellation depends on the policy wording. The customer can usually cancel at any time and get a partial refund, often worked out pro rata or on a sliding scale, less an admin fee. Many policies give no refund at all if a claim has been made during the period.\n\nAn insurer can only cancel where the policy gives it that right, typically for non-payment of premium or fraud, and must give the written notice the policy specifies. For a broker, that notice is urgent: the client needs replacement cover before the old cover ends.\n\n### Renewal: a fresh contract each year\n\nFor annual general insurance, **renewal** is legally a new contract, not a continuation. Offer and acceptance happen again, and so does the customer's duty to give accurate information. If something important has changed, such as a business moving premises, the insurer needs to know: a business must disclose it, and a consumer must answer the renewal questions carefully. Equally, the insurer is free to change the terms or decline to renew.\n\nLong-term contracts like life insurance work differently: as long as premiums are paid, the insurer can't refuse to continue cover or re-ask the health questions. Health insurance has its own renewal habits, covered in the health modules.\n\n### Renewal rules that protect customers\n\nRenewal invitations must arrive in good time and show last year's premium alongside the new one. For home and motor insurance, FCA pricing rules mean the renewal price can't exceed what a new customer would be quoted for the same cover through the same sales channel, ending the practice of quietly charging loyal customers more. Customers must also be able to switch off automatic renewal easily.\n\nFor a broker, renewal means checking what's changed, reviewing whether the cover still fits and comparing the market. In group health broking, that's much of the year's real work."
+      "body": "Most general insurance (car, home, travel, pet) runs for a fixed **period of insurance**, usually 12 months. Leaving early and carrying on both have rules.\n\n### Cancelling: the cooling-off period\n\nUnder the FCA's ICOBS rules (the Insurance: Conduct of Business sourcebook), consumers buying most general insurance get a **cooling-off period** of 14 days to cancel without giving a reason. For pure protection products such as life insurance or income protection, it's 30 days. Policies under a month, like a single-trip travel policy, are an exception. The clock usually runs from the later of the day the contract is made and the day the customer receives the terms. Cancel within it and you normally pay only for the cover you've had.\n\n### Cancelling after cooling-off\n\nAfter that, cancellation depends on the policy wording. The customer can usually cancel at any time and get a partial refund, often worked out pro rata or on a sliding scale, less an admin fee. Many policies give no refund at all if a claim has been made during the period.\n\nAn insurer can only cancel where the policy gives it that right, typically for non-payment of premium or fraud, and must give the written notice the policy specifies. For a broker, that notice is urgent: the client needs replacement cover before the old cover ends.\n\n### Renewal: a fresh contract each year\n\nFor annual general insurance, **renewal** is legally a new contract, not a continuation. Offer and acceptance happen again, and so does the customer's duty to give accurate information. If something important has changed, such as a business moving premises, the insurer needs to know: a business must disclose it, and a consumer must answer the renewal questions carefully. Equally, the insurer is free to change the terms or decline to renew.\n\nLong-term contracts like life insurance work differently: as long as premiums are paid, the insurer can't refuse to continue cover or re-ask the health questions. Health insurance has its own renewal habits, covered in the health modules.\n\n### Renewal rules that protect customers\n\nRenewal invitations must arrive in good time and show last year's premium alongside the new one. For home and motor insurance, FCA pricing rules mean the renewal price can't exceed what a new customer would be quoted for the same cover through the same sales channel, ending the practice of quietly charging loyal customers more. Customers must also be able to switch off automatic renewal easily.\n\nFor a broker, renewal means checking what's changed, reviewing whether the cover still fits and comparing the market. In group health broking, that's much of the year's real work."
     }
   ],
   "whyItMatters": "As a broker you act as the client's agent: you must work within the authority they give you, with care, good faith and confidentiality, and get each stage of forming, cancelling and renewing cover right, or your client could be left uninsured and your firm liable.",
@@ -387,16 +387,16 @@
     },
     {
       "id": "m03-q28",
-      "topic": "apparent authority statements",
-      "stem": "Which statement about apparent authority is FALSE?",
+      "topic": "acting without authority",
+      "stem": "Which statement about an agent who acts with no authority at all, actual or apparent, is true?",
       "options": [
-        "It can bind the principal even though the agent had no actual authority",
-        "It depends on a third party reasonably relying on what the principal said or did",
-        "An agent can create it simply by telling a third party they have authority",
-        "It is sometimes called ostensible authority"
+        "The principal is always bound, as long as the third party acted in good faith",
+        "The third party has no remedy against anyone, because no valid contract was made",
+        "If the principal does not ratify the act, the agent may be personally liable for breach of warranty of authority",
+        "The act binds the principal automatically unless it objects within 14 days"
       ],
       "answerIndex": 2,
-      "explanation": "Apparent authority comes from the principal's own representations or conduct, never from the agent's say-so alone. Where it exists, it binds the principal despite the lack of actual authority."
+      "explanation": "With no authority of any kind, the principal isn't bound unless it chooses to ratify. If it doesn't, the third party can turn to the agent, who is treated as having promised it had authority it didn't have."
     },
     {
       "id": "m03-q29",
@@ -416,13 +416,13 @@
       "topic": "forming the contract",
       "stem": "Which statement about how an insurance contract forms is FALSE?",
       "options": [
-        "A cover note is an informal reassurance that cannot bind the insurer",
+        "A proposal only counts if it is made on a signed paper proposal form",
         "Submitting a proposal is usually treated as the customer's offer to buy cover",
         "An insurer that changes the excess in its quote is making a counter-offer",
-        "The policy wording sets out the full terms, including exclusions and conditions"
+        "A cover note binds the insurer for a limited period while the full policy is prepared"
       ],
       "answerIndex": 0,
-      "explanation": "A cover note is a binding contract of temporary insurance, giving real cover while the full policy is prepared. The other three describe the normal stages of forming and documenting the contract accurately."
+      "explanation": "A proposal can be an online question set, a phone call or a broker's presentation of the risk; what matters is the information given, not a paper form. The other three describe the normal stages of forming the contract accurately."
     }
   ]
 }
