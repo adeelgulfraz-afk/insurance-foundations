@@ -1,0 +1,432 @@
+{
+  "id": "m01",
+  "order": 1,
+  "title": "What insurance actually is",
+  "estimatedMinutes": 15,
+  "recap": [
+    "Risk is uncertainty about a loss; insurers judge every risk by its frequency (how often) and severity (how bad).",
+    "Insurers cover pure risks (loss or no loss), not speculative ones, and particular risks more readily than fundamental ones.",
+    "A peril is the event that causes a loss; a hazard (physical or moral) makes the loss more likely or worse.",
+    "Insurance transfers the financial cost of a loss to the insurer, and pooling plus the law of large numbers makes claims predictable.",
+    "The premium is the price of that transfer, built from expected claims plus expenses, commission and profit."
+  ],
+  "sections": [
+    {
+      "heading": "You already manage risk for a living",
+      "body": "Before a patient goes home, you've probably run through what could go wrong. Will they manage their feeds? Is there someone at home who'd notice if their weight started dropping? That habit of scanning for trouble, judging how likely and how bad it would be, and deciding what to do about it is exactly how the insurance world thinks.\n\nIn insurance, **risk** means uncertainty about a loss. Not the certainty that something bad will happen, and not a promise that it won't: the not-knowing. Your car might be stolen this year, or it might not. If it were certain to be stolen, nobody would insure it. If it were certain not to be, nobody would bother buying cover.\n\n### Two questions about every risk\n\nWhenever someone in insurance looks at a risk, they ask two things. They're the same two you'd ask on a falls assessment.\n\n- **Frequency**: how often is this likely to happen?\n- **Severity**: how bad will it be when it does?\n\nA cracked phone screen is high frequency and low severity. It happens a lot, and each one costs a modest amount. A house burning down is low frequency and high severity: rare, but life-changing when it happens. Together they drive almost every decision about what to do with a risk.\n\n### Four things you can do with a risk\n\n1. **Avoid it**: don't do the risky thing at all. You can't crash a motorbike you never buy.\n2. **Reduce it**: lower the chance or the impact. Smoke alarms, window locks, hand hygiene on the ward.\n3. **Retain it**: accept it and pay for any losses yourself. Most people don't insure a £5 umbrella.\n4. **Transfer it**: pass the financial consequences to someone else, for a price. Insurance is the most common way to do this.\n\nMost people and businesses use a mix. Insurance is one tool in the kit, and a good broker thinks about all four before reaching for a policy."
+    },
+    {
+      "heading": "Not every risk is the same kind",
+      "body": "Insurers sort risks into types, because the type tells you quickly whether a risk is something they can cover. There are two pairs worth knowing well.\n\n### Pure and speculative risks\n\nA **pure risk** has only two possible outcomes: you suffer a loss, or nothing happens. Your house floods or it doesn't. You break your leg skiing or you don't. There's no version where the flood leaves you better off.\n\nA **speculative risk** has a third possibility: you might gain. Buying shares, opening a café, placing a bet, launching a new product. You might lose money, break even, or come out ahead. People take speculative risks on purpose, because of the chance of a gain.\n\nInsurers cover pure risks, not speculative ones. If you could insure against your shares falling, you'd have a one-way bet: keep the gains, pass on the losses. No insurer could price that, and it would remove the very thing that makes investing a choice.\n\n### Fundamental and particular risks\n\nThe second pair is about scale and cause.\n\nA **fundamental risk** is impersonal in origin and affects large numbers of people, or a whole society, at once. War, a severe economic recession, or a pandemic are the classic examples. Nobody caused them individually, and nobody can avoid them individually.\n\nA **particular risk** is personal in cause and effect. It hits an individual, a family or a single business: a burglary, a kitchen fire, a car accident on the way to work.\n\nParticular risks are the bread and butter of insurance. Fundamental risks are much harder, because they don't strike a few people in a large pool. They strike everyone at once, and the pool can't absorb that. That's why you'll find war excluded from most policies, and why some very large-scale risks end up handled by governments or special schemes rather than by ordinary insurance."
+    },
+    {
+      "heading": "Perils and hazards",
+      "body": "These two words sound alike and get mixed up all the time. Getting them straight now will help in later modules, because policy wordings are built around them.\n\nA **peril** is the event that actually causes a loss. Fire, flood, storm, theft, accidental damage and illness are all perils. When you read a home insurance policy, much of it is a list of the perils it covers, and the ones it doesn't.\n\nA **hazard** is anything that makes a loss more likely to happen, or makes it worse when it does. It isn't the event itself, it's a factor that tilts the odds. If the peril is the fall, the hazard is the wet floor, the loose rug or the missing handrail.\n\n### Physical hazards\n\n**Physical hazards** are features of the thing being insured or its surroundings. A thatched roof is a physical hazard for fire. A house next to a river is a physical hazard for flood. Old wiring and a shop with no alarm are others. Insurers often ask about these on a proposal form, because they can see and measure them.\n\n### Moral hazard\n\n**Moral hazard** comes from people rather than property: their attitudes, honesty and behaviour. Someone with a history of exaggerated claims, a business owner who ignores safety advice, or a person who becomes careless once they're insured all present moral hazard. Your brother leaving his insured phone on café tables because \"it's covered anyway\" is a perfect everyday example.\n\nMoral hazard is harder to spot than physical hazard, and insurers manage it in other ways. They ask about previous claims and convictions, they apply an **excess** (the part of each claim the policyholder pays themselves) so that you still feel some of the loss, and they include conditions requiring reasonable care.\n\nThe clinical parallel is a good one. The peril is the event you're trying to prevent; the hazards are the risk factors you document on admission. You can't control every peril, but you can spot hazards and act on them."
+    },
+    {
+      "heading": "How insurance works: transfer and pooling",
+      "body": "### Risk transfer\n\n**Risk transfer** means passing the financial consequences of a loss to someone else. Insurance doesn't stop your kitchen catching fire. What changes is who pays for the damage. Instead of finding the money yourself, the insurer pays, within the terms of the policy.\n\nIn exchange, you pay a **premium**: the price of that transfer. You swap a small, certain cost (the premium) for protection against a large, uncertain one (the loss). For most people that's a very good trade, because a £300 premium is easy to plan for and a £60,000 rebuild isn't.\n\n### Pooling\n\nHow can an insurer afford to take on everyone's risk? Through **pooling**. Lots of people with similar risks each pay a premium into a common fund. In any year, only a few of them suffer a loss, and the fund pays for those losses. The many pay for the few, and nobody knows in advance who the few will be.\n\nYou've seen this logic in the NHS: everyone contributes, and the few who need intensive care this year are looked after from the shared pot. Insurance works similarly, except premiums reflect each person's risk.\n\n### The law of large numbers\n\nPooling works because of a statistical idea called the **law of large numbers**. The more similar, independent risks you group together, the more closely the actual number of losses will match what you'd predict.\n\nFlip a coin ten times and you might get seven heads. Flip it ten thousand times and you'll land very close to half. An insurer covering a handful of homes has no idea whether it'll have zero claims or five. An insurer covering hundreds of thousands of homes can predict its total claims with real confidence, even though it still can't say which individual homes will claim. That predictability is what lets it set a sensible premium and stay solvent.\n\nThis is also why insurers want lots of similar risks, and why fundamental risks are so awkward: they aren't independent. When one home is hit by war, so are thousands of others."
+    },
+    {
+      "heading": "What can and can't be insured",
+      "body": "Not every risk is a good fit for insurance. **Underwriters**, the people who decide whether to accept a risk and on what terms, look for certain features. An **insurable risk** generally has most of these:\n\n- **The loss can be measured in money.** Insurance pays money, so the loss needs a financial value. For things like life cover, where a life can't be priced, the policyholder and insurer agree a sum in advance.\n- **It's fortuitous.** The loss must be accidental and uncertain from the policyholder's point of view. You can't insure something you intend to cause, or something that's bound to happen. That's why gradual wear and tear is excluded: a carpet will wear out eventually, so there's no uncertainty to transfer.\n- **It's a pure risk**, not a speculative one.\n- **It's particular** rather than fundamental, so losses won't hit the whole pool at once.\n- **There are many similar risks**, so the law of large numbers can do its job.\n- **There's insurable interest.** The policyholder must stand to lose financially if the loss happens. More on this in Module 4.\n- **It isn't against public policy.** You can't insure against the consequences of your own deliberate crime, for example.\n- **The premium is reasonable** compared with the potential loss.\n\n### Using frequency and severity to decide\n\nPut frequency and severity together and you get a simple map:\n\n- **Low frequency, high severity**: the ideal territory for insurance. Rare enough to keep premiums affordable, serious enough that you couldn't cope alone. House fires, serious liability claims, major illness.\n- **High frequency, low severity**: usually better retained. Paying a premium to insure lots of small, predictable losses just adds the insurer's costs on top. Think of a café absorbing the odd broken mug.\n- **High frequency, high severity**: usually best avoided or heavily reduced. Losses would be so common and so costly that cover would be unaffordable, if it was offered at all.\n- **Low frequency, low severity**: generally retained.\n\nThis map is a starting point, not a rule. A small business might insure a moderately sized risk simply because one bad loss would wreck its cash flow. That judgement call is exactly where a broker earns their fee."
+    },
+    {
+      "heading": "Why people and businesses buy cover",
+      "body": "Why do people actually buy insurance? The reasons fall into a few groups, and recognising them helps you understand what a client really needs.\n\n### Because they have to\n\nSome cover is **compulsory by law**. In the UK you need motor insurance covering injury and damage to other people before you drive on a public road, and most businesses with employees must hold employers' liability insurance.\n\nOther cover is **required by contract**. A mortgage lender will usually insist the house is insured before handing over the money, because the house is their security. Landlords write insurance into leases, and large clients often require suppliers to hold liability cover before signing a deal.\n\n### Because they want to\n\nFor individuals the big reason is **peace of mind**: knowing that a burst pipe or a cancelled holiday won't wipe out their savings. For businesses there's more to it:\n\n- **It frees up capital.** Without insurance, a business would need to keep a large pot of cash in reserve in case of fire or a major lawsuit. With cover, it can put that money to work instead.\n- **It makes lending and growth possible.** Banks and investors are far more comfortable backing a business that's properly insured.\n- **It brings loss-prevention help.** Insurers and brokers often advise on surveys, security and safety, which can reduce losses in the first place.\n- **It supports staff.** Employers buy health and protection cover to attract and keep good people, which is where health broking comes in.\n\n### What the premium really pays for\n\nThe premium is the price of the transfer, and it's built from a few parts. The starting point is the **expected cost of claims** for that type of risk, worked out from the insurer's data on frequency and severity. On top of that sit the insurer's running expenses, any commission paid to brokers, the cost of the insurer's own protection, and a margin for profit. In the UK, most general insurance premiums also carry **Insurance Premium Tax**, collected by the insurer for the government.\n\nEach policyholder's premium reflects their own risk: a driver with several recent claims pays more than one with none. Charging each person in proportion to the risk they bring keeps the pool fair."
+    }
+  ],
+  "whyItMatters": "Every conversation with a client starts here: which of their risks should be insured, which they can sensibly retain, and what hazards could push up their premium. A broker who can explain that in plain English earns trust before a single quote goes out.",
+  "questions": [
+    {
+      "id": "m01-q01",
+      "topic": "meaning of risk",
+      "stem": "In insurance, what does the word \"risk\" most accurately describe?",
+      "options": [
+        "The certainty that a loss will occur at some point",
+        "Uncertainty about whether a loss will happen",
+        "The amount an insurer pays out on a claim",
+        "The event that causes a loss, such as a fire or theft"
+      ],
+      "answerIndex": 1,
+      "explanation": "Risk is the not-knowing: if a loss were certain or impossible there would be nothing to insure. The event that causes a loss is a peril, which is a separate idea."
+    },
+    {
+      "id": "m01-q02",
+      "topic": "pure risk",
+      "stem": "Which of these best describes a pure risk?",
+      "options": [
+        "A situation that can only result in a loss or no loss",
+        "A situation that could result in a loss, no change or a gain",
+        "A risk that affects a whole society at the same time",
+        "A risk with no hazards that make it more likely"
+      ],
+      "answerIndex": 0,
+      "explanation": "A pure risk has no upside: either something goes wrong or nothing happens. A risk that might also produce a gain is speculative, and insurers generally only cover pure risks."
+    },
+    {
+      "id": "m01-q03",
+      "topic": "speculative risk",
+      "stem": "Which of these is an example of a speculative risk?",
+      "options": [
+        "Your house being damaged in a storm",
+        "Your bike being stolen from outside work",
+        "Buying shares in a company in the hope their value rises",
+        "Being injured in a road accident"
+      ],
+      "answerIndex": 2,
+      "explanation": "Investing can lead to a loss, no change or a gain, which makes it speculative. Storm damage, theft and injury can only leave you worse off or unaffected, so they are pure risks."
+    },
+    {
+      "id": "m01-q04",
+      "topic": "fundamental risk",
+      "stem": "Which of these is the best example of a fundamental risk?",
+      "options": [
+        "A burglary at a single home",
+        "A kitchen fire in one restaurant",
+        "A delivery van crashing into a wall",
+        "A war affecting the whole country"
+      ],
+      "answerIndex": 3,
+      "explanation": "Fundamental risks are impersonal in cause and hit large numbers of people at once, as war does. A burglary, a single fire or one crash are particular risks, affecting only those directly involved."
+    },
+    {
+      "id": "m01-q05",
+      "topic": "handling risk",
+      "stem": "Fitting a burglar alarm and window locks to your home is an example of which approach to risk?",
+      "options": [
+        "Risk avoidance",
+        "Risk reduction",
+        "Risk retention",
+        "Risk transfer"
+      ],
+      "answerIndex": 1,
+      "explanation": "Alarms and locks lower the chance of a loss without removing the risk altogether, which is reduction. Transfer would mean passing the financial cost to someone else, such as an insurer."
+    },
+    {
+      "id": "m01-q06",
+      "topic": "peril",
+      "stem": "In insurance terms, what is a peril?",
+      "options": [
+        "The event that causes a loss, such as fire, flood or theft",
+        "A factor that makes a loss more likely or more severe",
+        "The amount of money lost when something goes wrong",
+        "The policyholder's attitude towards looking after their property"
+      ],
+      "answerIndex": 0,
+      "explanation": "A peril is the cause of the loss itself. Factors that make a loss more likely or worse are hazards, and attitudes towards care fall under moral hazard."
+    },
+    {
+      "id": "m01-q07",
+      "topic": "hazard",
+      "stem": "Which definition best describes a hazard?",
+      "options": [
+        "The event that actually causes a loss",
+        "The part of each claim the policyholder pays themselves",
+        "Something that increases the likelihood or severity of a loss",
+        "A risk that affects society as a whole"
+      ],
+      "answerIndex": 2,
+      "explanation": "A hazard tilts the odds, like a wet floor making a fall more likely. The event itself is the peril, and the part of a claim the policyholder pays is the excess."
+    },
+    {
+      "id": "m01-q08",
+      "topic": "law of large numbers",
+      "stem": "What does the law of large numbers tell an insurer?",
+      "options": [
+        "The more customers it has, the fewer claims there will be in total",
+        "Large losses always happen more often than small ones",
+        "Each individual customer's chance of a loss falls as the pool grows",
+        "The more similar risks it insures, the more closely its actual losses will match its predictions"
+      ],
+      "answerIndex": 3,
+      "explanation": "With many similar, independent risks, actual results settle close to the expected average, which makes claims predictable. Joining a bigger pool does not change any individual's own chance of a loss."
+    },
+    {
+      "id": "m01-q09",
+      "topic": "pooling",
+      "stem": "What is meant by pooling in insurance?",
+      "options": [
+        "Many people pay into a common fund that pays the losses of the few who suffer them",
+        "Several insurers share offices and staff to reduce their costs",
+        "A policyholder combines all their policies into a single contract",
+        "The insurer holds back each customer's premiums separately to pay that customer's own future claims"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pooling spreads the cost of losses across everyone who contributes, so the many pay for the few. Keeping each customer's money aside for their own claims would just be saving, with no sharing of risk."
+    },
+    {
+      "id": "m01-q10",
+      "topic": "risk transfer",
+      "stem": "What does insurance actually transfer from the policyholder to the insurer?",
+      "options": [
+        "The chance of the event happening",
+        "Legal ownership of the insured property",
+        "The financial consequences of a loss",
+        "All responsibility for preventing the loss"
+      ],
+      "answerIndex": 2,
+      "explanation": "A fire can still break out in an insured home; what changes is who pays for the damage. The policyholder keeps the property and is still expected to take reasonable care."
+    },
+    {
+      "id": "m01-q11",
+      "topic": "premium",
+      "stem": "What is the premium best described as?",
+      "options": [
+        "The amount the policyholder pays towards each claim",
+        "The price the policyholder pays for transferring a risk to the insurer",
+        "The most the insurer will pay out on a claim",
+        "A refund paid to the policyholder if no claims are made"
+      ],
+      "answerIndex": 1,
+      "explanation": "The premium is the cost of passing the financial risk to the insurer. The amount the policyholder pays towards each claim is the excess, and the most the insurer will pay is the limit or sum insured."
+    },
+    {
+      "id": "m01-q12",
+      "topic": "frequency and severity",
+      "stem": "Using the frequency and severity approach, which kind of risk is insurance best suited to?",
+      "options": [
+        "High frequency, low severity",
+        "High frequency, high severity",
+        "Low frequency, low severity",
+        "Low frequency, high severity"
+      ],
+      "answerIndex": 3,
+      "explanation": "Rare but serious losses are ideal for insurance: premiums stay affordable, and the policyholder could not easily cope alone. Frequent small losses are usually cheaper to retain, and frequent large ones are usually avoided."
+    },
+    {
+      "id": "m01-q13",
+      "topic": "insurable risk",
+      "stem": "Which of these is generally a feature of an insurable risk?",
+      "options": [
+        "The loss is certain to happen during the policy period",
+        "The risk offers the chance of a gain as well as a loss",
+        "The loss is fortuitous, meaning accidental and uncertain from the policyholder's point of view",
+        "The risk affects large parts of society at the same time"
+      ],
+      "answerIndex": 2,
+      "explanation": "Insurance needs genuine uncertainty that the policyholder does not control. A certain loss leaves nothing to transfer, a chance of gain makes the risk speculative, and society-wide losses are fundamental."
+    },
+    {
+      "id": "m01-q14",
+      "topic": "wear and tear",
+      "stem": "Why is gradual wear and tear usually excluded from insurance policies?",
+      "options": [
+        "It is inevitable rather than uncertain, so there is no real risk to transfer",
+        "It is a speculative risk with the chance of a gain",
+        "It is a fundamental risk affecting everyone at once",
+        "It counts as a peril rather than a hazard"
+      ],
+      "answerIndex": 0,
+      "explanation": "Things wear out eventually, so the loss is expected rather than accidental. Insurance is for fortuitous events, not for the predictable cost of owning something."
+    },
+    {
+      "id": "m01-q15",
+      "topic": "compulsory insurance",
+      "stem": "Which of these covers is required by law for most UK businesses that employ staff?",
+      "options": [
+        "Business interruption insurance",
+        "Employers' liability insurance",
+        "Buildings insurance",
+        "Private medical insurance for staff"
+      ],
+      "answerIndex": 1,
+      "explanation": "Most UK employers must hold employers' liability insurance, which covers claims from staff injured or made ill through their work. The other covers are often sensible, but they are not legal requirements."
+    },
+    {
+      "id": "m01-q16",
+      "topic": "physical hazard",
+      "stem": "Poppy's friend runs a café right next to a river. In insurance terms, the café's location is best described as what?",
+      "options": [
+        "A peril",
+        "A moral hazard",
+        "A speculative risk",
+        "A physical hazard"
+      ],
+      "answerIndex": 3,
+      "explanation": "Being beside a river makes flooding more likely, and it is a feature of the property, so it is a physical hazard. The flood itself would be the peril."
+    },
+    {
+      "id": "m01-q17",
+      "topic": "moral hazard",
+      "stem": "After insuring his new phone, Poppy's brother stops using a case and leaves it lying on café tables because \"it's covered anyway\". What is this an example of?",
+      "options": [
+        "Moral hazard",
+        "Physical hazard",
+        "A peril",
+        "A fundamental risk"
+      ],
+      "answerIndex": 0,
+      "explanation": "Moral hazard comes from people's attitudes and behaviour, including becoming careless once insured. Insurers use excesses and reasonable-care conditions so policyholders still have a reason to look after their things."
+    },
+    {
+      "id": "m01-q18",
+      "topic": "retaining risk",
+      "stem": "A dental practice finds that cheap disposable items get dropped and wasted most days, costing a few pounds each time. What is usually the most sensible way to handle this risk?",
+      "options": [
+        "Insure it, because every possible loss should be transferred",
+        "Avoid it by no longer using disposable items at all",
+        "Retain it and absorb the cost as part of running the practice",
+        "Treat it as a fundamental risk and look for government support"
+      ],
+      "answerIndex": 2,
+      "explanation": "High-frequency, low-severity losses are predictable and small, so insuring them just adds the insurer's costs on top. Most organisations simply budget for them."
+    },
+    {
+      "id": "m01-q19",
+      "topic": "uninsurable risk",
+      "stem": "A colleague of Poppy's wants to insure herself against losing money on a cryptocurrency she has bought. Why will mainstream insurers decline?",
+      "options": [
+        "It is a fundamental risk affecting the whole of society",
+        "It is a speculative risk, with the chance of a gain as well as a loss",
+        "There is no hazard involved in owning cryptocurrency",
+        "Cryptocurrency cannot be given any financial value"
+      ],
+      "answerIndex": 1,
+      "explanation": "Investing carries the possibility of profit, so insuring the downside would hand the investor a one-way bet. Insurers generally cover pure risks only, where the best outcome is that nothing happens."
+    },
+    {
+      "id": "m01-q20",
+      "topic": "predicting claims",
+      "stem": "Two new insurers sell home contents cover. One insures 200 homes and the other insures 200,000 similar homes. Which is most accurate?",
+      "options": [
+        "The smaller insurer will have fewer claims per home because it can check each one",
+        "Both can predict their claims equally well because the homes are similar",
+        "The larger insurer can predict exactly which homes will make a claim",
+        "The larger insurer can predict its total claims far more reliably"
+      ],
+      "answerIndex": 3,
+      "explanation": "With a big pool, actual losses settle close to the expected figure, so totals become predictable. Even a large insurer still cannot say which individual homes will claim."
+    },
+    {
+      "id": "m01-q21",
+      "topic": "premium as transfer price",
+      "stem": "Poppy pays £300 a year to insure her car. Which is the best description of what she is doing?",
+      "options": [
+        "Swapping a small, certain cost for protection against a larger, uncertain one",
+        "Saving money that she'll get back if she doesn't claim",
+        "Paying in advance for repairs she will definitely need",
+        "Handing ownership of the car over to the insurer"
+      ],
+      "answerIndex": 0,
+      "explanation": "The premium is the price of transferring the financial risk: a known, affordable cost in place of a possible large loss. It is not a savings account, and she keeps ownership of the car."
+    },
+    {
+      "id": "m01-q22",
+      "topic": "contractual requirement",
+      "stem": "Poppy is buying a house with a mortgage, and the lender insists on buildings insurance before completion. Which reason for buying cover does this show?",
+      "options": [
+        "Insurance required by law",
+        "Insurance bought purely for peace of mind",
+        "Insurance required by a contract",
+        "Insurance bought to protect against a speculative risk"
+      ],
+      "answerIndex": 2,
+      "explanation": "The lender's security is the house, so its loan agreement requires buildings cover. No law forces homeowners to insure their buildings, but contracts often do."
+    },
+    {
+      "id": "m01-q23",
+      "topic": "benefits to business",
+      "stem": "A small bakery insures its premises and ovens against fire. Apart from paying claims, how does this help the business?",
+      "options": [
+        "It removes any chance of a fire breaking out",
+        "It does not need to keep a large cash reserve for a possible fire, so that money can be used to grow the business",
+        "It guarantees the bakery will make a profit each year",
+        "It means the bakery no longer needs to follow fire safety rules"
+      ],
+      "answerIndex": 1,
+      "explanation": "Insurance frees capital that would otherwise sit idle as a disaster fund. It does not stop fires, guarantee profits or remove the duty to take reasonable care."
+    },
+    {
+      "id": "m01-q24",
+      "topic": "fundamental risk exclusions",
+      "stem": "A homeowner asks why her home insurance excludes loss caused by war. What is the best explanation?",
+      "options": [
+        "War is a speculative risk with a possible gain for the homeowner",
+        "War is a moral hazard created by the homeowner",
+        "War damage is usually too minor to be worth insuring",
+        "War is a fundamental risk that could hit huge numbers of policyholders at once, which a normal pool can't absorb"
+      ],
+      "answerIndex": 3,
+      "explanation": "Pooling relies on only a few members suffering losses at any one time. A fundamental risk like war could damage thousands of insured homes together, which a normal pool could not pay for."
+    },
+    {
+      "id": "m01-q25",
+      "topic": "peril vs hazard",
+      "stem": "Which statement about perils and hazards is true?",
+      "options": [
+        "A storm is a peril, while a poorly maintained roof is a hazard that could make storm damage worse.",
+        "A hazard is the event that causes the loss, and a peril is anything that makes it more likely.",
+        "Moral hazard refers to the physical condition of the insured property.",
+        "Insurers only care about perils, because hazards don't affect premiums."
+      ],
+      "answerIndex": 0,
+      "explanation": "The peril is the cause of the loss, and a hazard increases the chance or size of it. Physical condition is a physical hazard, and insurers ask about hazards precisely because they affect the price."
+    },
+    {
+      "id": "m01-q26",
+      "topic": "reasons for buying cover",
+      "stem": "Which statement about why people and businesses buy insurance is FALSE?",
+      "options": [
+        "Some cover is required by law, such as motor insurance for driving on public roads.",
+        "Lenders and landlords often require cover as a condition of a contract.",
+        "Insurance is only ever bought because the law requires it.",
+        "Many people buy cover simply for peace of mind."
+      ],
+      "answerIndex": 2,
+      "explanation": "Legal requirements are just one reason for buying cover. Contractual requirements, peace of mind and the business benefits of freeing up capital drive a large share of insurance purchases."
+    },
+    {
+      "id": "m01-q27",
+      "topic": "measurable loss",
+      "stem": "Which statement about insurable risks is true?",
+      "options": [
+        "Insurers prefer risks where the loss is certain, because they are easier to price.",
+        "A risk where the loss cannot be measured in money is generally hard to insure.",
+        "A risk is only insurable if it affects a large part of the population at once.",
+        "Speculative risks become insurable as long as the premium is high enough."
+      ],
+      "answerIndex": 1,
+      "explanation": "Insurance pays money, so the loss needs a financial value or an agreed sum, as with life cover. Certain losses, society-wide losses and speculative risks all fall outside what insurers normally cover."
+    },
+    {
+      "id": "m01-q28",
+      "topic": "what makes up a premium",
+      "stem": "Which statement about the premium is true?",
+      "options": [
+        "Every policyholder in the pool pays exactly the same premium whatever their risk.",
+        "The premium is refunded at the end of the year if no claim is made.",
+        "The policyholder sets the premium based on what they think the risk is worth.",
+        "The premium is based on the expected cost of claims, plus the insurer's expenses and a margin for profit."
+      ],
+      "answerIndex": 3,
+      "explanation": "Insurers start from what claims for that type of risk are likely to cost, then add expenses, commission and profit. Each premium is adjusted to the individual's risk, so a higher-risk policyholder pays more."
+    },
+    {
+      "id": "m01-q29",
+      "topic": "particular risk",
+      "stem": "Which statement about fundamental and particular risks is true?",
+      "options": [
+        "A fire in a single house is a particular risk, because its cause and effects are personal and limited.",
+        "A burglary is a fundamental risk because it could happen to anyone.",
+        "Particular risks are usually left to the government to deal with.",
+        "A risk is fundamental whenever the loss is very expensive."
+      ],
+      "answerIndex": 0,
+      "explanation": "What matters is whether the cause and effects are personal or society-wide, not how costly the loss is or how many people could in theory suffer it. Particular risks are the core business of ordinary insurance."
+    },
+    {
+      "id": "m01-q30",
+      "topic": "frequency vs severity",
+      "stem": "Which statement about frequency and severity is true?",
+      "options": [
+        "Frequency and severity always move together, so a common loss is always an expensive one.",
+        "High-frequency, high-severity risks are the ones insurers most want to cover.",
+        "Frequency is how often a loss is likely to happen, and severity is how much it costs when it does.",
+        "Severity describes how likely a loss is, and frequency describes how serious it is."
+      ],
+      "answerIndex": 2,
+      "explanation": "The two measure different things: a cracked phone screen is frequent but cheap, while a house fire is rare but costly. Risks that are both frequent and severe are usually avoided rather than insured."
+    }
+  ]
+}
