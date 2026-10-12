@@ -288,7 +288,7 @@
       "options": [
         "There is no problem, as long as he pays the premium",
         "He would need Poppy's written permission first",
-        "He can insure it, but only for half its rebuild cost",
+        "He can insure it, as long as he promises to spend any payout on rebuilding the house",
         "He has no insurable interest, because a fire would not cause him any financial loss"
       ],
       "answerIndex": 3,
@@ -339,7 +339,7 @@
       "stem": "Poppy's friend sells her café in May but forgets to cancel her public liability policy. In July, a customer slips on a wet floor at the café. Would her policy respond?",
       "options": [
         "Yes, because the policy was still in force in July",
-        "Yes, but only for half the claim",
+        "Yes, because she was the named policyholder when the policy began",
         "Only if she still owns the café's furniture",
         "No, because she had no possible liability for the café by July, so she had no insurable interest"
       ],
