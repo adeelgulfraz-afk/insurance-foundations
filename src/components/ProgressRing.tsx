@@ -6,10 +6,10 @@ export default function ProgressRing({ value, max, size = 96 }: { value: number;
   return (
     <svg className="ring" width={size} height={size} viewBox={`0 0 ${size} ${size}`} role="img" aria-label={`${value} of ${max} modules passed`}>
       <circle cx={size / 2} cy={size / 2} r={r} fill="none" stroke="var(--border)" strokeWidth={stroke} />
-      <circle
+      {value > 0 && <circle
         cx={size / 2} cy={size / 2} r={r} fill="none" stroke="var(--accent)" strokeWidth={stroke} strokeLinecap="round"
         strokeDasharray={`${filled} ${c}`} transform={`rotate(-90 ${size / 2} ${size / 2})`}
-      />
+      />}
       <text x="50%" y="50%" dominantBaseline="central" textAnchor="middle" className="ring-label">{value}/{max}</text>
     </svg>
   )

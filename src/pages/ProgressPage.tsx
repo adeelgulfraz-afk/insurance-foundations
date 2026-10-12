@@ -4,7 +4,7 @@ import { modules } from '../content'
 import { progressStore, useProgress } from '../hooks/useProgress'
 import { EXAM_PASS_FRACTION, EXAM_SIZE, exportProgress, importProgress, isModuleUnlocked } from '../lib/progress'
 
-const day = (iso: string) => (iso ? new Date(iso).toLocaleDateString('en-GB') : '—')
+const day = (iso: string) => (iso ? new Date(iso).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' }) : '—')
 
 export default function ProgressPage() {
   const p = useProgress()

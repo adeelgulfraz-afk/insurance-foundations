@@ -102,7 +102,7 @@ function ExamRun() {
       document.removeEventListener('visibilitychange', onVisibility)
       save(ipRef.current)
     }
-  }, []) // eslint-disable-line react-hooks/exhaustive-deps
+  }, []) // mount-only: save/ipRef are stable enough via the ref
 
   const total = questions.length
   const answered = ip.answers.filter((a) => a !== null).length

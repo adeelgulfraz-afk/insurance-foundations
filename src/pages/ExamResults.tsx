@@ -46,7 +46,7 @@ export default function ExamResults() {
                 <strong>{r.correct}/{r.total}</strong>
               </div>
               <div className="bar" aria-hidden="true"><span style={{ width: `${Math.round(r.pct * 100)}%` }} /></div>
-              {r.id !== 'mixed' && moduleById(r.id) && <a href={`#/module/${r.id}`} className="small">Revise this module</a>}
+              {r.id !== 'mixed' && moduleById(r.id) && <a href={`#/module/${r.id}`} className="small revise">Revise this module</a>}
             </li>
           ))}
         </ul>

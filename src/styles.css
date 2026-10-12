@@ -65,6 +65,11 @@ a { color: var(--accent); }
 .small { font-size: 0.88rem; }
 .stack > * + * { margin-top: 12px; }
 
+/* Hover only where there is a real pointer, so taps on a phone don't leave a sticky highlight. */
+@media (hover: hover) {
+  .btn-primary:hover { filter: brightness(1.06); }
+  .btn-ghost:hover, a.list-item:hover, .option:hover:not([disabled]) { border-color: var(--accent); }
+}
 :focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
 
 /* Top bar */
@@ -88,9 +93,7 @@ a { color: var(--accent); }
   cursor: pointer; transition: background 0.15s, border-color 0.15s;
 }
 .btn-primary { background: var(--accent); color: var(--accent-contrast); }
-.btn-primary:hover { filter: brightness(1.06); }
 .btn-ghost { background: var(--surface); color: var(--text); border-color: var(--border); }
-.btn-ghost:hover { border-color: var(--accent); }
 .btn-danger { background: var(--surface); color: var(--bad); border-color: var(--bad); }
 .btn[disabled] { opacity: 0.45; cursor: not-allowed; }
 .btn-row { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 16px; }
@@ -121,7 +124,6 @@ a { color: var(--accent); }
   background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
   color: var(--text); text-decoration: none;
 }
-a.list-item:hover { border-color: var(--accent); }
 .list-item[aria-disabled='true'] { opacity: 0.6; }
 .list-num { flex: none; width: 32px; height: 32px; border-radius: 50%; display: grid; place-items: center; background: var(--surface-2); font-weight: 600; font-size: 0.9rem; }
 .list-body { flex: 1; min-width: 0; line-height: 1.35; }
@@ -157,7 +159,6 @@ article h2 { margin-bottom: 14px; }
   border: 2px solid var(--border); border-radius: 12px;
   font: inherit; line-height: 1.45; text-align: left; cursor: pointer;
 }
-.option:hover:not([disabled]) { border-color: var(--accent); }
 .option-letter { flex: none; width: 28px; height: 28px; border-radius: 50%; display: grid; place-items: center; background: var(--surface-2); font-weight: 600; font-size: 0.85rem; }
 .option.is-selected { border-color: var(--accent); background: var(--accent-soft); }
 .option.is-selected .option-letter { background: var(--accent); color: var(--accent-contrast); }
@@ -206,11 +207,13 @@ article h2 { margin-bottom: 14px; }
 .breakdown-head { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; }
 .bar { height: 6px; border-radius: 3px; background: var(--surface-2); margin: 6px 0; overflow: hidden; }
 .bar > span { display: block; height: 100%; background: var(--accent); }
+.revise { display: inline-flex; align-items: center; min-height: 44px; margin-bottom: -10px; }
 
 /* Progress page */
 .table-wrap { overflow-x: auto; }
 table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
 th, td { text-align: left; padding: 8px 6px; border-bottom: 1px solid var(--border); vertical-align: top; }
+td + td { white-space: nowrap; }
 th { font-weight: 600; color: var(--muted); font-size: 0.8rem; }
 textarea {
   width: 100%; min-height: 96px; padding: 12px;
@@ -220,5 +223,6 @@ textarea {
 }
 textarea:focus { border-color: var(--accent); outline: none; }
 label.eyebrow { display: block; }
-.status { min-height: 1.6em; margin: 8px 0 0; font-weight: 600; }
+.status { min-height: 1.6em; margin: 8px 0 0; font-size: 0.92rem; font-weight: 600; }
 footer.page-foot { text-align: center; margin-top: 28px; }
+footer.page-foot a { display: inline-flex; align-items: center; min-height: 44px; }
