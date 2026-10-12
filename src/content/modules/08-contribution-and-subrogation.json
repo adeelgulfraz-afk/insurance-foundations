@@ -300,16 +300,16 @@
     },
     {
       "id": "m08-q21",
-      "topic": "benefit policies",
-      "stem": "Subrogation does NOT apply to which of these policies?",
+      "topic": "PMI and recovery",
+      "stem": "Why do private medical insurance (PMI) policies often ask members to include their treatment costs in any compensation claim against the person who injured them?",
       "options": [
-        "A life insurance policy paying a fixed sum on death",
-        "Home buildings insurance",
-        "Motor insurance covering repairs to your own car",
-        "Business contents insurance"
+        "PMI pays the actual cost of treatment, so it works like indemnity and the insurer can recover what it paid from the person responsible",
+        "PMI is a benefit policy, so the member must hand over all of any compensation they receive",
+        "NHS rules require private insurers to recover every treatment cost from whoever caused an injury",
+        "Including the costs lets the member collect them twice, once from the insurer and once from the person responsible"
       ],
       "answerIndex": 0,
-      "explanation": "Life cover is a benefit policy: it pays an agreed sum rather than measuring a loss, so there's nothing for the insurer to recover. Buildings, motor and contents policies are indemnity contracts where subrogation applies."
+      "explanation": "PMI pays real treatment bills, so it sits close to indemnity and the insurer can recover what it paid from whoever caused the injury. Fixed-benefit policies such as personal accident have no such recovery."
     },
     {
       "id": "m08-q22",
