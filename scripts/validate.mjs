@@ -10,6 +10,10 @@ const modulesDir = join(root, 'src/content/modules')
 const extraPath = join(root, 'src/content/exam-extra.json')
 const argv = process.argv.slice(2)
 const fileArg = argv.includes('--file') ? argv[argv.indexOf('--file') + 1] : null
+if (argv.includes('--file') && (!fileArg || fileArg.startsWith('--'))) {
+  console.error('usage: node scripts/validate.mjs [--file <module.json>]')
+  process.exit(2)
+}
 
 const errors = []
 const warnings = []
@@ -17,6 +21,7 @@ const err = (m) => errors.push(m)
 const warn = (m) => warnings.push(m)
 
 const BANNED_OPTION = /\b(all|none|both) of the above\b/i
+// Must stay identical to normaliseStem in src/lib/questions.ts (the app's exam-bank dedupe).
 export const normaliseStem = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim()
 const wordCount = (s) => s.replace(/[*_#]/g, ' ').split(/\s+/).filter(Boolean).length
 const isStr = (v, min = 1) => typeof v === 'string' && v.trim().length >= min

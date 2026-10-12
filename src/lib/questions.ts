@@ -1,6 +1,7 @@
 import type { BankQuestion, DrawnQuestion, Module, Question } from '../types.ts'
 import { shuffle, type Rng } from './shuffle.ts'
 
+// Must stay identical to normaliseStem in scripts/validate.mjs (the content validator's dedupe).
 export const normaliseStem = (s: string): string => s.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim()
 
 export const moduleBank = (m: Pick<Module, 'id' | 'questions'>): BankQuestion[] =>
