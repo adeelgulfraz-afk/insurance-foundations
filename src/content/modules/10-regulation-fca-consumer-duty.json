@@ -1,0 +1,432 @@
+{
+  "id": "m10",
+  "order": 10,
+  "title": "Regulation, FCA & Consumer Duty",
+  "estimatedMinutes": 15,
+  "recap": [
+    "The FCA regulates conduct for all firms (and prudential for brokers); the PRA, part of the Bank of England, regulates insurers’ financial soundness; both work under FSMA 2000.",
+    "The FCA has 12 Principles for Businesses; Principle 12 is the Consumer Duty: act to deliver good outcomes for retail customers.",
+    "Consumer Duty (July 2023; closed products July 2024) builds on TCF with three cross-cutting rules and four outcomes: products & services, price & value, understanding, support.",
+    "ICOBS covers status disclosure, demands and needs, IPIDs, fair claims and renewals; the FOS hears complaints after the firm’s 8 weeks, and the FSCS pays (90%, or 100% for compulsory cover) if a firm fails.",
+    "Health data is special category under UK GDPR, and the four drivers of vulnerability are health, life events, resilience and capability."
+  ],
+  "sections": [
+    {
+      "heading": "Who regulates what",
+      "body": "Every insurer and broker in the UK works inside one key piece of law: the **Financial Services and Markets Act 2000**, usually shortened to **FSMA**. It creates the regulators, hands them their powers and lists the activities that need permission. Two regulators share the day-to-day work.\n\n### The FCA and the PRA\n\n- The **Financial Conduct Authority (FCA)** is the *conduct* regulator for every financial firm. Conduct means behaviour: how a firm sells, advises, communicates, handles claims and deals with complaints.\n- The FCA is also the *prudential* regulator for firms the PRA doesn't cover, which includes almost all brokers and other intermediaries. **Prudential** means financial soundness: having enough money and controls to stay standing.\n- The **Prudential Regulation Authority (PRA)** is part of the Bank of England. It carries out prudential supervision of insurers (and banks), checking they hold enough capital to pay claims even in a bad year.\n\nSo an insurer answers to both regulators (it's *dual-regulated*), while the broking team you're meeting answers to the FCA alone. A handy way to picture it: the PRA checks the hospital can keep its doors open, while the FCA checks how each patient is treated.\n\n### Authorisation and the general prohibition\n\nFSMA's central rule is the **general prohibition**: nobody may carry on a regulated activity in the UK unless they are authorised or exempt. Writing insurance is a regulated activity, and so is arranging it or advising on it, which is exactly what brokers do. Doing it without permission is a criminal offence, and the agreements involved may be unenforceable against the customer.\n\nAuthorised firms appear on the public FCA Register. Some smaller businesses work instead as an **appointed representative**: an authorised firm (the principal) takes regulatory responsibility for them, so they're exempt rather than authorised in their own right.\n\n### People, not just firms\n\nThe FCA regulates individuals as well as firms. The old *approved persons* regime has been replaced by the **Senior Managers & Certification Regime (SM&CR)**. Senior managers, such as the chief executive, need regulator approval and have written responsibilities they can be held personally accountable for. Staff in roles that could cause significant harm are *certified* as fit and proper by their own firm every year. And almost everyone, including a brand-new broker, must follow the **Conduct Rules**, such as acting with integrity and with due skill, care and diligence."
+    },
+    {
+      "heading": "The FCA's Principles for Businesses",
+      "body": "Above the detailed rulebooks sit the FCA's **Principles for Businesses**: twelve short, high-level duties every authorised firm must meet. They're deliberately broad, so a firm can't wriggle out by finding a gap in the detailed rules, and the FCA can take action for breaching a Principle on its own. In plain English, a firm must:\n\n1. Act with integrity, meaning honestly and fairly.\n2. Work with due skill, care and diligence.\n3. Organise and control its affairs responsibly, with adequate risk management.\n4. Keep adequate financial resources.\n5. Observe proper standards of market conduct.\n6. Pay due regard to customers' interests and treat them fairly.\n7. Communicate in a way that is clear, fair and not misleading.\n8. Manage conflicts of interest fairly, both between itself and its customers and between different customers.\n9. Take reasonable care that its advice and discretionary decisions are suitable for customers who rely on its judgement.\n10. Protect clients' assets it is responsible for, such as client money.\n11. Deal with regulators openly and cooperatively, and tell the FCA anything it would reasonably expect to know.\n12. Act to deliver good outcomes for retail customers. This is the **Consumer Duty**.\n\nMost of these will feel familiar. Swap \"customer\" for \"patient\" and Principles 1, 2, 8 and 9 read a lot like the professional standards you already work to.\n\nPrinciple 12 is the newest and the most demanding. Where it applies, Principles 6 and 7 are switched off for that business, because the Consumer Duty asks for more than they did. For business customers outside the Duty, Principles 6 and 7 still apply in full."
+    },
+    {
+      "heading": "From Treating Customers Fairly to the Consumer Duty",
+      "body": "Before the Consumer Duty, the big idea was **Treating Customers Fairly (TCF)**, introduced by the FCA's predecessor, the Financial Services Authority. TCF described six outcomes customers should experience:\n\n1. Confidence that fair treatment is central to the firm's culture.\n2. Products designed for the needs of identified groups of customers, and targeted at them.\n3. Clear information, with customers kept properly informed before, during and after the sale.\n4. Suitable advice that takes account of the customer's circumstances.\n5. Products that perform as customers were led to expect, with service to match.\n6. No unreasonable barriers after the sale to changing product, switching, claiming or complaining.\n\nTCF was sound, but firms could often show they had *processes* without proving customers actually did well. The **Consumer Duty** keeps TCF's ideas and raises the bar from treating customers fairly to delivering, and evidencing, good outcomes. It came into force in July 2023 for products on sale, and in July 2024 for closed products (older policies no longer sold but still in force). It protects **retail customers**, which broadly means individuals rather than businesses.\n\n### The three cross-cutting rules\n\nThese shape a firm's behaviour across the whole customer journey. Firms must:\n\n- act in good faith towards retail customers\n- avoid causing foreseeable harm\n- enable and support retail customers to pursue their financial objectives\n\n### The four outcomes\n\n- **Products and services**: designed to meet the needs of a defined target market and sold to the people they suit.\n- **Price and value**: the price is reasonable for the overall benefits. A gadget policy where most claims fall foul of exclusions, or where commission eats most of the premium, fails this test.\n- **Consumer understanding**: communications people can actually follow, tested to check they work, not just technically accurate small print.\n- **Consumer support**: help that's as easy to get as the sale was. If buying takes two clicks, cancelling or claiming shouldn't take three phone calls.\n\nThe Duty applies along the whole chain, insurer *and* broker, and each firm's board must review at least once a year whether customers are getting good outcomes. It's a bit like moving from auditing that a care pathway exists to auditing whether patients actually got better."
+    },
+    {
+      "heading": "ICOBS: the rules for selling and servicing insurance",
+      "body": "The Principles say *what* to aim for; the detailed rulebooks say *how*. For general insurance and pure protection (such as income protection), the key rulebook is **ICOBS**, the **Insurance: Conduct of Business sourcebook**.\n\n### Status disclosure\n\nBefore arranging cover, a broker must tell the customer who it is: its name and address, that it's FCA-authorised, whether it's giving advice, whether it searches the wider market or works with a limited panel of insurers, and how it's paid, such as commission from the insurer or a fee from the customer.\n\n### Demands and needs, and suitability\n\nBefore any contract is concluded, the firm must work out the customer's **demands and needs** from what they've told it, and anything it proposes must be consistent with them. This applies even when no advice is given. If the firm does give advice, it must also explain why the recommended policy best meets those needs. That's **suitability**, and it works much like a dietetic assessment: you don't suggest a plan until you've understood the person.\n\n### Product information\n\nCustomers must get enough information, in good time, to make an informed choice. For general insurance that includes the **Insurance Product Information Document (IPID)**: a short, standardised summary of what's covered, what isn't and the customer's main obligations, laid out the same way by every insurer so people can compare like with like.\n\n### Claims\n\nInsurers must handle claims promptly and fairly, give reasonable guidance to help the customer claim, not unreasonably reject a claim, and settle promptly once the amount is agreed. A broker acting for a client should help them through the process; claims advocacy is a big part of the value of broking.\n\n### Renewals\n\nAt renewal, consumers must be shown last year's premium alongside the new one, so they can see how the price has moved. For home and motor insurance, firms also can't charge a renewing customer more than they'd charge an equivalent new customer through the same channel, which ended the old practice of quietly hiking loyal customers' prices."
+    },
+    {
+      "heading": "When things go wrong: the Ombudsman and the FSCS",
+      "body": "Two independent bodies sit behind the system, and they're easy to mix up. The Ombudsman deals with disputes with a firm that's still trading. The compensation scheme steps in when a firm has collapsed.\n\n### The Financial Ombudsman Service (FOS)\n\nThe **FOS** settles complaints between financial firms and their customers. It's free for consumers, and also for smaller businesses and charities within set size limits, so your friend's café could use it but a large manufacturer couldn't.\n\nThe customer must use the firm's own complaints process first. The firm then has **eight weeks** to send a final response. If the customer is unhappy with that response, or eight weeks pass without one, they can take the complaint to the FOS. It has the same shape as an NHS complaint: you go to the trust first, then to the Parliamentary and Health Service Ombudsman.\n\nThe FOS decides what's fair and reasonable in the circumstances, not only what the strict law says. If the customer accepts an ombudsman's final decision, it is **binding on the firm**. If they reject it, they're free to go to court instead.\n\n### The Financial Services Compensation Scheme (FSCS)\n\nThe **FSCS** protects customers when an authorised firm fails, usually because it has gone bust and can't pay claims or return money. It's free to customers and funded by levies on the financial services industry.\n\nFor general insurance, the FSCS usually pays **90%** of a claim. For **compulsory** insurance, such as the third-party part of motor cover or employers' liability, it pays **100%**. It doesn't rule on whether a claim should have been paid in the first place; that's the Ombudsman's job."
+    },
+    {
+      "heading": "Data protection and vulnerable customers",
+      "body": "Insurance runs on personal information, and in health broking much of it is sensitive. The law is **UK GDPR**, read alongside the **Data Protection Act 2018**. The regulator is the **Information Commissioner's Office (ICO)**, which can investigate and fine firms.\n\n### The data protection essentials\n\n- **Lawful basis**: every use of personal data needs one of six lawful bases, such as performing a contract, a legal obligation, legitimate interests or consent. Consent is only one option, and often not the best one.\n- **Special category data**: some information gets extra protection because misuse could do serious harm. **Health data is special category**, alongside things like ethnicity, religion, genetic data and sexual orientation. Using it needs a lawful basis *plus* an additional condition, such as explicit consent or a specific insurance condition in the Data Protection Act 2018.\n- **Data minimisation**: collect only what you genuinely need for the purpose, and don't keep it longer than necessary.\n- **Breach reporting**: if data is lost, stolen or sent to the wrong person and that's likely to put people at risk, the firm must report it to the ICO within **72 hours** of becoming aware, and tell the people affected without undue delay if the risk is high.\n\nThis matters hugely in health broking. You'll handle medical histories, claims and group scheme employee data. Your NHS information governance training is a real head start: the same instincts about confidentiality and need-to-know apply, such as not sharing an individual employee's medical details with their employer without a proper basis.\n\n### Vulnerable customers\n\nThe FCA describes a vulnerable customer as someone who, because of their personal circumstances, is especially open to harm, particularly when a firm isn't taking appropriate care. Its guidance names four drivers:\n\n- **Health**: physical or mental conditions that affect day-to-day life.\n- **Life events**: bereavement, job loss, relationship breakdown or a new caring role.\n- **Resilience**: little ability to absorb a financial or emotional shock.\n- **Capability**: low knowledge of or confidence with money, or limited literacy, language or digital skills.\n\nVulnerability is often temporary, can come and go, and sits on a spectrum. Good practice means understanding your customers' needs, training staff to spot the signs and respond, adapting products, service and communications (more time, a different format, a named contact), and checking that vulnerable customers get outcomes as good as everyone else's. Think of it as safety-netting: noticing who might struggle and making sure they don't slip through the gaps. And because vulnerability information is often health data, it brings you straight back to special category rules."
+    }
+  ],
+  "whyItMatters": "In health broking you'll handle special category medical data for people who are often at a vulnerable moment, under a Consumer Duty that expects your firm to prove they got good outcomes. Knowing these rules is what lets you advise with confidence and keep both your clients and the firm safe.",
+  "questions": [
+    {
+      "id": "m10-q01",
+      "topic": "PRA",
+      "stem": "The Prudential Regulation Authority (PRA), which supervises the financial soundness of insurers, is part of which body?",
+      "options": [
+        "The Financial Conduct Authority",
+        "HM Treasury",
+        "The Bank of England",
+        "The Financial Ombudsman Service"
+      ],
+      "answerIndex": 2,
+      "explanation": "The PRA is part of the Bank of England and focuses on whether insurers and banks are financially sound. The FCA is a separate body that regulates how firms behave."
+    },
+    {
+      "id": "m10-q02",
+      "topic": "broker prudential regulation",
+      "stem": "Who is responsible for the prudential (financial soundness) regulation of most insurance brokers?",
+      "options": [
+        "The PRA, because it regulates every insurance-related firm",
+        "The FCA, which also regulates their conduct",
+        "The Bank of England's Monetary Policy Committee",
+        "The Association of British Insurers"
+      ],
+      "answerIndex": 1,
+      "explanation": "The PRA supervises insurers, banks and similar firms; for brokers and most intermediaries the FCA is both the conduct and the prudential regulator, so they are \"solo-regulated\"."
+    },
+    {
+      "id": "m10-q03",
+      "topic": "FSMA 2000",
+      "stem": "Which piece of legislation provides the main framework for regulating UK insurers and brokers, including the need for authorisation?",
+      "options": [
+        "The Insurance Act 2015",
+        "The Data Protection Act 2018",
+        "The Consumer Insurance (Disclosure and Representations) Act 2012",
+        "The Financial Services and Markets Act 2000"
+      ],
+      "answerIndex": 3,
+      "explanation": "FSMA 2000 sets up the regulatory framework, gives the FCA and PRA their powers and contains the general prohibition. The Insurance Act 2015 and CIDRA 2012 deal with disclosure in insurance contracts, not with who regulates firms."
+    },
+    {
+      "id": "m10-q04",
+      "topic": "general prohibition",
+      "stem": "What is the 'general prohibition' under the Financial Services and Markets Act 2000?",
+      "options": [
+        "No one may carry on a regulated activity in the UK unless they are authorised or exempt",
+        "No insurer may refuse cover because of a pre-existing medical condition",
+        "No broker may receive commission without first disclosing the exact amount to every client",
+        "No firm may sell insurance to anyone aged under 18"
+      ],
+      "answerIndex": 0,
+      "explanation": "The general prohibition is FSMA's core rule: regulated activities such as writing, arranging or advising on insurance need authorisation or an exemption. Breaching it is a criminal offence."
+    },
+    {
+      "id": "m10-q05",
+      "topic": "appointed representatives",
+      "stem": "Your cousin wants to start helping local tradespeople arrange their van and public liability insurance, working under a larger broker rather than getting her own FCA authorisation. What is the usual legitimate route?",
+      "options": [
+        "Go ahead without permission, because commercial insurance isn't regulated",
+        "Become an appointed representative of an authorised firm that takes regulatory responsibility for her",
+        "Register with the Financial Ombudsman Service instead of the FCA",
+        "Ask each client to sign a waiver saying they don’t need regulatory protection"
+      ],
+      "answerIndex": 1,
+      "explanation": "An appointed representative is exempt from the general prohibition because an authorised principal takes responsibility for what it does. Arranging commercial insurance is still a regulated activity, so doing it with no authorisation or exemption would be an offence."
+    },
+    {
+      "id": "m10-q06",
+      "topic": "SM&CR certification",
+      "stem": "Under the Senior Managers & Certification Regime, who certifies that staff in roles that could cause significant harm are fit and proper?",
+      "options": [
+        "The FCA, through a pre-approval interview for each employee",
+        "The PRA, for every firm in the insurance market",
+        "The firm itself, at least once a year",
+        "The Chartered Insurance Institute, as part of membership"
+      ],
+      "answerIndex": 2,
+      "explanation": "Senior managers need regulator approval, but certified staff are assessed and certified by their own firm every year. That was a key change from the old approved persons regime."
+    },
+    {
+      "id": "m10-q07",
+      "topic": "Principle 12",
+      "stem": "What does Principle 12 of the FCA's Principles for Businesses, the Consumer Duty, require?",
+      "options": [
+        "A firm must treat every customer identically, whatever their circumstances",
+        "A firm must always offer the lowest premium available in the market",
+        "A firm must keep adequate financial resources",
+        "A firm must act to deliver good outcomes for retail customers"
+      ],
+      "answerIndex": 3,
+      "explanation": "Principle 12 is the consumer principle: act to deliver good outcomes for retail customers. Keeping adequate financial resources is Principle 4, and the Duty is about good outcomes and fair value, not identical treatment or the cheapest price."
+    },
+    {
+      "id": "m10-q08",
+      "topic": "conflicts of interest",
+      "stem": "A broker is offered a bonus by one insurer for placing more business with it, and starts steering clients there even when another insurer would suit them better. Which Principle is most directly breached?",
+      "options": [
+        "Managing conflicts of interest fairly",
+        "Keeping adequate financial resources",
+        "Observing proper standards of market conduct",
+        "Protecting clients' assets"
+      ],
+      "answerIndex": 0,
+      "explanation": "Principle 8 requires firms to manage conflicts of interest fairly, and letting an insurer's bonus outweigh the client's interests is a textbook conflict. Market conduct is about behaviour in financial markets, such as market abuse, not advice to clients."
+    },
+    {
+      "id": "m10-q09",
+      "topic": "Consumer Duty dates",
+      "stem": "When did the Consumer Duty come into force for products and services that were still on sale?",
+      "options": [
+        "January 2022",
+        "July 2023",
+        "July 2024",
+        "May 2018"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Duty applied from July 2023 for open products, then from July 2024 for closed products that are no longer sold but still in force. May 2018 is when GDPR took effect."
+    },
+    {
+      "id": "m10-q10",
+      "topic": "cross-cutting rules",
+      "stem": "Which of these is one of the Consumer Duty's three cross-cutting rules?",
+      "options": [
+        "Pay every claim within a fixed number of days",
+        "Offer every customer a choice of at least three insurers",
+        "Charge renewing customers the same as they paid last year",
+        "Avoid causing foreseeable harm to retail customers"
+      ],
+      "answerIndex": 3,
+      "explanation": "The three cross-cutting rules are to act in good faith, avoid causing foreseeable harm, and enable and support customers to pursue their financial objectives. The Duty doesn't set fixed claim deadlines or freeze prices."
+    },
+    {
+      "id": "m10-q11",
+      "topic": "price and value",
+      "stem": "An insurer sells a pet accident add-on where the broker's commission takes most of the premium and very few customers ever make a successful claim. Which Consumer Duty outcome is most clearly in question?",
+      "options": [
+        "Consumer support",
+        "Consumer understanding",
+        "Price and value",
+        "Fair complaints handling"
+      ],
+      "answerIndex": 2,
+      "explanation": "The price and value outcome asks whether what customers pay is reasonable for the benefits they get. A product that rarely pays out while most of the premium goes on commission is a classic poor-value warning sign."
+    },
+    {
+      "id": "m10-q12",
+      "topic": "TCF and Consumer Duty",
+      "stem": "Which statement about Treating Customers Fairly (TCF) and the Consumer Duty is true?",
+      "options": [
+        "The Consumer Duty abolished the TCF outcomes, so they no longer have any relevance",
+        "TCF replaced the Consumer Duty in 2024 for closed products",
+        "TCF applies only to commercial customers, while the Consumer Duty applies only to insurers",
+        "The Consumer Duty builds on TCF, raising the bar from fair treatment to delivering and evidencing good outcomes"
+      ],
+      "answerIndex": 3,
+      "explanation": "TCF's six outcomes still describe good practice; the Duty absorbs them and adds a demand for firms to evidence that customers actually get good results. TCF came first, introduced by the FSA, and the Duty applies to insurers and brokers alike."
+    },
+    {
+      "id": "m10-q13",
+      "topic": "TCF outcomes",
+      "stem": "Which of these is one of the six Treating Customers Fairly outcomes?",
+      "options": [
+        "Customers always receive the cheapest price on the market",
+        "Customers face no unreasonable post-sale barriers to switching, claiming or complaining",
+        "Every claim is settled within 14 days of notification",
+        "Customers get a 30-day cooling-off period on every product"
+      ],
+      "answerIndex": 1,
+      "explanation": "The sixth TCF outcome is about removing unreasonable barriers after the sale, such as making it hard to claim, switch or complain. TCF never promised the cheapest price or fixed settlement deadlines."
+    },
+    {
+      "id": "m10-q14",
+      "topic": "status disclosure",
+      "stem": "When a broker tells a new client about itself before arranging cover, which of these is part of its status disclosure?",
+      "options": [
+        "Whether it is FCA-authorised and how it is paid for its services",
+        "Its loss ratio for the previous year",
+        "The personal salary of the adviser handling the case",
+        "The names of every insurer it has ever refused to deal with"
+      ],
+      "answerIndex": 0,
+      "explanation": "Status disclosure tells customers who they're dealing with: name and address, FCA authorisation, whether advice is given, the range of insurers used and how the firm is paid. It's about transparency, not internal figures."
+    },
+    {
+      "id": "m10-q15",
+      "topic": "demands and needs",
+      "stem": "A colleague buys travel insurance through a broker's website on a non-advised basis. What must the broker still do before the contract is concluded?",
+      "options": [
+        "Nothing, because demands and needs rules only apply where advice is given",
+        "Give a personalised recommendation explaining why it is the best policy on the market",
+        "Identify her demands and needs and propose only cover consistent with them",
+        "Arrange a face-to-face meeting to confirm she understands the policy"
+      ],
+      "answerIndex": 2,
+      "explanation": "ICOBS requires demands and needs to be identified for every sale, advised or not, and any contract proposed must be consistent with them. A personalised recommendation explaining suitability is the extra step that applies when advice is given."
+    },
+    {
+      "id": "m10-q16",
+      "topic": "IPID",
+      "stem": "What is an Insurance Product Information Document (IPID)?",
+      "options": [
+        "A record of the customer's claims history shared between insurers",
+        "The full policy wording that forms the legal contract",
+        "A broker's annual report to the FCA on complaints received",
+        "A short standardised summary of a general insurance product's cover, exclusions and main obligations"
+      ],
+      "answerIndex": 3,
+      "explanation": "The IPID is a brief, standard-format summary given before the contract is concluded, so customers can compare general insurance products like for like. It doesn't replace the full policy wording."
+    },
+    {
+      "id": "m10-q17",
+      "topic": "claims handling",
+      "stem": "Your friend's home insurer has had a straightforward burst-pipe claim for months, with no decision and no guidance on what it needs from her. Which ICOBS requirement is most clearly not being met?",
+      "options": [
+        "Claims must be handled promptly and fairly, with reasonable guidance for the claimant",
+        "Customers must receive an Insurance Product Information Document",
+        "Renewal notices must show last year's premium",
+        "Firms must disclose their status and how they are paid"
+      ],
+      "answerIndex": 0,
+      "explanation": "ICOBS requires insurers to handle claims promptly and fairly, give reasonable guidance, not unreasonably reject claims and settle promptly once agreed. The other duties are real but relate to the sale or renewal, not the claim."
+    },
+    {
+      "id": "m10-q18",
+      "topic": "renewal transparency",
+      "stem": "Which statement about renewals for consumer insurance is true?",
+      "options": [
+        "Insurers may charge loyal home and motor customers more than equivalent new customers, provided they disclose it",
+        "Renewal notices must show last year's premium alongside the renewal premium",
+        "Customers paying by direct debit don't need to receive any renewal information",
+        "A renewal is only valid if the customer completes a brand-new proposal form"
+      ],
+      "answerIndex": 1,
+      "explanation": "Showing last year's premium next to the new one lets customers see how the price has moved and shop around. For home and motor, charging renewing customers more than equivalent new customers is banned outright, not merely disclosed."
+    },
+    {
+      "id": "m10-q19",
+      "topic": "FOS eligibility",
+      "stem": "Who can use the Financial Ombudsman Service?",
+      "options": [
+        "Only consumers, and only after a court has ruled",
+        "Any business of any size, for a fee",
+        "Consumers and smaller businesses, free of charge",
+        "Only customers whose claim is worth more than £10,000"
+      ],
+      "answerIndex": 2,
+      "explanation": "The FOS is free for consumers and also for smaller businesses and charities within size limits. Larger businesses can't use it and would need to go to court or arbitration."
+    },
+    {
+      "id": "m10-q20",
+      "topic": "FOS eight-week rule",
+      "stem": "Your neighbour complained to her broker about how her renewal was handled. Nine weeks later she has had no final response. What can she do now?",
+      "options": [
+        "She must wait for the broker's final response, however long it takes",
+        "She can take her complaint to the Financial Ombudsman Service",
+        "She must start court proceedings before the Ombudsman will look at it",
+        "She can claim compensation from the FSCS"
+      ],
+      "answerIndex": 1,
+      "explanation": "Once eight weeks have passed without a final response, or if she's unhappy with the response, she can go to the FOS. The FSCS only steps in when a firm has failed."
+    },
+    {
+      "id": "m10-q21",
+      "topic": "FOS decisions",
+      "stem": "Which statement about the Financial Ombudsman Service is true?",
+      "options": [
+        "If the customer accepts an ombudsman's final decision, it is binding on the firm",
+        "A final decision binds the customer even if they reject it",
+        "Customers should go straight to the FOS before contacting the firm",
+        "The customer pays a case fee, refunded if the complaint is upheld"
+      ],
+      "answerIndex": 0,
+      "explanation": "An accepted final decision binds the firm, while a customer who rejects it remains free to go to court. The firm must get the first chance to put things right, and the FOS is free to consumers."
+    },
+    {
+      "id": "m10-q22",
+      "topic": "FSCS limits",
+      "stem": "Your brother's motor insurer collapses while he has two open claims: one from a pedestrian he injured, and one for damage to his own van. Broadly, how would the FSCS protect him?",
+      "options": [
+        "Neither claim, because the FSCS only covers life and pension products",
+        "Both claims at 90%, because all general insurance is treated the same",
+        "The injury claim, as compulsory cover, in full; the van damage claim usually at 90%",
+        "Both claims in full, because motor insurance is compulsory"
+      ],
+      "answerIndex": 2,
+      "explanation": "The FSCS pays 100% for compulsory insurance, like third-party motor liability, and usually 90% for other general insurance. Damage to his own van isn't compulsory cover, even though it sits on a motor policy."
+    },
+    {
+      "id": "m10-q23",
+      "topic": "FSCS role",
+      "stem": "Which statement about the Financial Services Compensation Scheme is true?",
+      "options": [
+        "It investigates complaints that an insurer unfairly rejected a claim",
+        "It is funded by general taxation",
+        "It only protects policies bought directly from an insurer, never through a broker",
+        "It steps in to protect customers when an authorised firm fails and can't pay"
+      ],
+      "answerIndex": 3,
+      "explanation": "The FSCS is a safety net for when an authorised firm fails, funded by levies on the financial services industry. Disputes about whether a claim should have been paid go to the Ombudsman instead."
+    },
+    {
+      "id": "m10-q24",
+      "topic": "special category data",
+      "stem": "Under UK GDPR, which of these is classed as special category data?",
+      "options": [
+        "A client's home address",
+        "A client's bank account number",
+        "A client's history of car theft claims",
+        "A client's medical history"
+      ],
+      "answerIndex": 3,
+      "explanation": "Health data is special category, so using it needs a lawful basis plus an extra condition. Addresses, bank details and claims records are personal data that must be protected, but they aren't special category."
+    },
+    {
+      "id": "m10-q25",
+      "topic": "lawful basis",
+      "stem": "Which statement about UK GDPR is true?",
+      "options": [
+        "Consent is the only lawful basis for using a customer’s personal data",
+        "Once collected for an insurance quote, data can be kept indefinitely",
+        "The ICO only regulates public bodies such as NHS trusts",
+        "Using health data needs a lawful basis plus an additional condition, because it is special category"
+      ],
+      "answerIndex": 3,
+      "explanation": "There are six lawful bases, of which consent is just one, and health data also needs a condition such as explicit consent or the insurance condition in the Data Protection Act 2018. The ICO regulates private firms too, and data shouldn’t be kept longer than needed."
+    },
+    {
+      "id": "m10-q26",
+      "topic": "data minimisation",
+      "stem": "A health broker's fact-find for a group dental plan asks every employee for their full medical history, religion and next of kin 'just in case'. Which data protection principle is this most at odds with?",
+      "options": [
+        "Data minimisation",
+        "Accuracy",
+        "Breach reporting",
+        "The right of access"
+      ],
+      "answerIndex": 0,
+      "explanation": "Data minimisation means collecting only what is genuinely needed for the purpose. Gathering sensitive details with no clear use creates risk without benefit, especially when they are special category data."
+    },
+    {
+      "id": "m10-q27",
+      "topic": "breach reporting",
+      "stem": "A broker accidentally emails a spreadsheet of employees’ health claims to the wrong client company. Assuming this is likely to put those employees at risk, what must the firm do?",
+      "options": [
+        "Nothing more, as long as it asks the recipient to delete the email",
+        "Report it to the ICO within 72 hours of becoming aware, and tell the employees promptly if the risk is high",
+        "Report it to the Financial Ombudsman Service within eight weeks",
+        "Wait to see whether any employee complains before deciding whether to report"
+      ],
+      "answerIndex": 1,
+      "explanation": "Breaches likely to put people at risk must be reported to the ICO within 72 hours, and those affected told without undue delay if the risk is high. Health data makes this especially serious because it's special category."
+    },
+    {
+      "id": "m10-q28",
+      "topic": "drivers of vulnerability",
+      "stem": "The FCA's guidance on vulnerable customers identifies four drivers of vulnerability. Which list is correct?",
+      "options": [
+        "Age, income, gender and location",
+        "Health, life events, resilience and capability",
+        "Health, wealth, education and employment",
+        "Disability, debt, language and literacy"
+      ],
+      "answerIndex": 1,
+      "explanation": "The four drivers are health, life events, resilience and capability. A characteristic like age or income doesn't make someone vulnerable on its own; what matters is how their circumstances affect their ability to cope."
+    },
+    {
+      "id": "m10-q29",
+      "topic": "responding to vulnerability",
+      "stem": "A long-standing client whose husband died last month is struggling to follow her renewal documents and keeps missing calls. What is the best response from her broker?",
+      "options": [
+        "Treat her exactly like any other client, as adapting the service could be seen as unfair",
+        "Let her policy lapse at renewal to avoid any risk of mis-selling",
+        "Recognise a life event affecting her and adapt, for example with more time, a simpler explanation and a named contact",
+        "Ask her for a medical certificate before making any adjustments"
+      ],
+      "answerIndex": 2,
+      "explanation": "Bereavement is a life event that can make someone temporarily vulnerable. Good practice is to notice it and adapt support so she gets outcomes as good as other customers, without demanding proof."
+    },
+    {
+      "id": "m10-q30",
+      "topic": "vulnerability basics",
+      "stem": "Which statement about vulnerable customers is true?",
+      "options": [
+        "Vulnerability can be temporary, and anyone could become vulnerable at some point",
+        "Firms should automatically treat every customer over 65 as vulnerable",
+        "Vulnerable customers should be steered away from buying insurance",
+        "Firms may only adapt their service once a customer formally declares a vulnerability"
+      ],
+      "answerIndex": 0,
+      "explanation": "Vulnerability sits on a spectrum and is often caused by circumstances that come and go, like illness or bereavement. Labelling whole age groups or waiting for a formal declaration misses the point; firms should spot signs and respond."
+    }
+  ]
+}
