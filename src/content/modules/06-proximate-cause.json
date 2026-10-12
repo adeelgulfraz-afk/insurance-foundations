@@ -413,16 +413,16 @@
     },
     {
       "id": "m06-q30",
-      "topic": "independent causes",
-      "stem": "Which statement about types of cause is true?",
+      "topic": "natural consequences",
+      "stem": "Which statement about the natural consequences of an insured fire is true?",
       "options": [
-        "Sequential causes are causes that act at the same moment",
-        "Interdependent causes could each have caused the loss alone",
-        "Independent concurrent causes could each have caused the loss on their own",
-        "A cause that follows naturally from an earlier one counts as a new and independent cause"
+        "Smoke damage is a separate peril, so it is only covered if the policy names smoke",
+        "Any loss that happens after a fire, however much later and whatever the cause, is treated as fire damage",
+        "Damage done while reasonably moving belongings out of harm's way is treated as caused by the fire",
+        "Damage only counts as fire damage if flames actually touched the property"
       ],
       "answerIndex": 2,
-      "explanation": "Independent concurrent causes happen together but neither needed the other to do damage. A cause that follows naturally from an earlier one is just a link in the chain, not a new cause."
+      "explanation": "Anything that flows naturally from the fire, such as smoke damage or damage from a reasonable rescue of belongings, is part of the same chain and counts as fire damage. A later, independent event, like a break-in a week afterwards, is a new cause rather than fire damage."
     }
   ]
 }
