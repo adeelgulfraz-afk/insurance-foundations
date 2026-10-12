@@ -79,16 +79,16 @@
     },
     {
       "id": "m07-q04",
-      "topic": "reinstatement basis",
-      "stem": "A buildings policy is written on a reinstatement basis. What does that mean the claim is measured by?",
+      "topic": "franchise",
+      "stem": "How does a franchise differ from an ordinary excess?",
       "options": [
-        "The price the house would sell for on the open market",
-        "The price paid for the property, adjusted for inflation",
-        "The combined value of the land and the building",
-        "The cost of rebuilding the property to the same size and standard as before"
+        "A franchise is deducted from every claim, however large the loss",
+        "A franchise is the most the insurer will pay for any single item",
+        "A franchise only applies to liability claims, never to property",
+        "Once the loss goes over the franchise amount, the whole loss is paid with nothing deducted"
       ],
       "answerIndex": 3,
-      "explanation": "Reinstatement means the cost of rebuilding, because land and location aren't destroyed by fire or flood. That's why rebuild cost and sale price can be very different numbers."
+      "explanation": "Below a franchise nothing is paid, but once the loss exceeds it the insurer pays the whole loss. An ordinary excess is taken off every claim, and a cap on a single item is an inner limit."
     },
     {
       "id": "m07-q05",
@@ -383,11 +383,11 @@
       "options": [
         "Taking a voluntary excess usually lowers the premium",
         "Excesses help cut out small claims that cost more to process than they're worth",
-        "An excess means the insurer pays nothing at all once the loss is bigger than the excess",
+        "A voluntary excess replaces any compulsory excess, so only one of them applies to a claim",
         "The word deductible is mostly used in commercial insurance"
       ],
       "answerIndex": 2,
-      "explanation": "With an excess, the insurer pays the part of the loss above the excess, so it's the false statement. The other statements correctly describe how excesses keep premiums down and how deductibles are used."
+      "explanation": "A voluntary excess is added on top of the compulsory excess, so both apply to a claim, which makes this the false statement. The others correctly describe how excesses keep premiums down and how deductibles are used."
     },
     {
       "id": "m07-q28",
