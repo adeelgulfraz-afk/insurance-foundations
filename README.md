@@ -27,9 +27,9 @@ npm run preview    # serve dist/ locally
 
 1. Create a GitHub repository and push this project to its `main` branch.
 2. In the repository, go to **Settings → Pages** and set **Source** to **GitHub Actions**.
-3. Every push to `main` runs `.github/workflows/deploy.yml`: install, validate, test, build, deploy.
+3. Every push to `main` runs `.github/workflows/deploy.yml`: install, validate, test, build, deploy. If the first run went red because Pages wasn't switched on yet, open the **Actions** tab and re-run it (or push again).
 
-The site appears at `https://<owner>.github.io/<repo>/`. The asset base path comes from the repository name automatically (`GITHUB_REPOSITORY` in CI), and routes use the URL hash, so no 404 setup is needed.
+The site appears at `https://<owner>.github.io/<repo>/`. (A repository named `<owner>.github.io` is served from the root instead.) The asset base path comes from the repository name automatically (`GITHUB_REPOSITORY` in CI), and routes use the URL hash, so no 404 setup is needed.
 
 ## Editing content
 
@@ -53,10 +53,12 @@ No links, tables, code, quotes, images or HTML. All section bodies in a module m
 Check a single module while you work on it:
 
 ```bash
-node scripts/validate.mjs --file src/content/modules/05-fair-presentation.json
+node scripts/validate.mjs --file src/content/modules/05-fair-presentation-and-good-faith.json
 ```
 
 Run `npm run validate` for the whole set before committing.
+
+All content JSON is bundled into the app's single JavaScript file (about 680 kB, 210 kB gzipped). That's fine for this app, so `vite.config.ts` raises Vite's chunk-size warning limit to 800 kB instead of code-splitting. If the content grows past that, the build will warn again.
 
 ## Adding questions
 
