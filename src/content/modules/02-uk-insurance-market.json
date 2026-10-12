@@ -1,0 +1,428 @@
+{
+  "id": "m02",
+  "order": 2,
+  "title": "How the UK insurance market works",
+  "estimatedMinutes": 15,
+  "recap": [
+    "Insurers carry the risk: composites write general and life business, specialists focus on a niche, and mutuals are owned by their policyholders.",
+    "Lloyd's is a marketplace, not an insurer: members provide capital, syndicates underwrite, managing agents run them and the Corporation oversees it all.",
+    "Placing at Lloyd's: a lead underwriter sets terms and writes a line, and followers take the rest until the risk is 100% covered.",
+    "Brokers act for the client, tied agents for the insurer, MGAs underwrite under delegated authority, comparison sites show quotes without advice, and wholesalers serve other brokers.",
+    "Brokers earn commission from the insurer and/or fees from the client, openly disclosed; reinsurance is insurance for insurers and never changes who pays your claim."
+  ],
+  "sections": [
+    {
+      "heading": "Insurers: the people who actually pay",
+      "body": "When you buy a policy, the company that promises to pay if things go wrong is the **insurer**. You'll also hear it called the *carrier*, or in a broking office simply \"the market\". The insurer collects premiums, holds money in reserve to pay future claims, and employs the **underwriters**: the people who decide which risks to accept and at what price.\n\nBecause insurers hold other people's money against promises that might not fall due for years, they're closely watched. The Prudential Regulation Authority (PRA) checks they're financially strong enough to pay, and the Financial Conduct Authority (FCA) checks how they treat customers.\n\nTwo bits of jargon first. **Personal lines** means cover for individuals and households: car, home, travel, pets. **Commercial lines** means cover for businesses: property, liability, fleets, and the group health schemes employers buy for staff. Insurers come in a few shapes, and these are the labels you'll hear.\n\n### Composite insurers\n\nA **composite** insurer writes both *general* insurance (car, home, business cover, usually renewed each year) and *life and long-term* business (life cover, pensions, income protection). In practice the big groups do this through separate companies under one roof, but to the customer it feels like one brand. Aviva is the classic UK example, and Zurich, AXA and Allianz are international groups with large UK operations.\n\n### Specialist insurers\n\nA **specialist** sticks to one class of business or one type of customer: only pets, only high-value homes, only cyber, only marine cargo. Hiscox and Beazley are well-known specialists with deep roots in Lloyd's. Admiral and Direct Line built their names in personal lines, especially car insurance. Health has its own specialists, and in a health broking team you'll hear Bupa, AXA Health, Aviva Health, Vitality and WPA every day.\n\n### Proprietary vs mutual\n\nMost insurers are **proprietary**, meaning they're owned by shareholders who take the profits. A **mutual** is owned by its policyholders, who are called *members*. With no outside shareholders to pay, any surplus goes back to members through keener prices, better benefits or service. NFU Mutual, strong in farming and rural communities, and Royal London, in life and pensions, are well-known examples. In health, Bupa has no shareholders and reinvests its surplus, and WPA is a not-for-profit. The legal structures differ, but the spirit is similar."
+    },
+    {
+      "heading": "Lloyd's: a marketplace, not an insurer",
+      "body": "Lloyd's of London is the name everyone has heard and almost nobody outside insurance can explain. The single most important point is that **Lloyd's is not an insurer**. It's a marketplace: a building on Lime Street in the City of London, plus electronic trading platforms, where lots of separate underwriting businesses compete for work.\n\nIt began in a 17th-century coffee house where merchants and ship owners met people willing to back their voyages. That habit of brokers and underwriters doing deals face to face has never quite gone away.\n\n### The moving parts\n\n- **Members** provide the capital that pays claims. Today most are companies. Historically, wealthy individuals known as *Names* backed the market with their personal fortunes.\n- **Syndicates** do the actual underwriting. A syndicate is a group of members pooling their capital to accept risks. Each has a number and its own appetite: one might focus on marine, another on cyber or film production.\n- **Managing agents** run syndicates day to day. They employ the underwriters, set strategy, handle claims and answer to the regulators. One managing agent can run several syndicates.\n- The **Corporation of Lloyd's** oversees the whole market. It sets standards, approves who can trade there, and looks after a central fund that acts as a backstop if a member can't pay.\n- **Lloyd's brokers** are broking firms accredited to bring business into the market. Underwriters at Lloyd's don't deal with the public directly; risks reach them through brokers.\n\n### How placing works\n\n**Placing** simply means finding insurers to accept a risk on agreed terms. Picture a broker with a big or unusual risk, say a festival organiser worried about the event being cancelled. The broker writes up the risk in a standard document (traditionally called the **slip**) and takes it to a **lead underwriter**, a syndicate respected in that class.\n\nThe lead studies the risk, negotiates the price and wording, and agrees to take a share, perhaps 30%. That share is called a **line**, and the underwriter is said to *write a line*. The broker then takes the same terms to **following** underwriters, who add their own lines until 100% is covered.\n\nThis is the **subscription market**: many syndicates each taking a slice, so no single one carries the whole loss. If a claim comes in, each pays its own share. Lloyd's sits within the wider **London Market**, alongside insurance companies that specialise in large, complex and international risks."
+    },
+    {
+      "heading": "Brokers, agents, MGAs and comparison sites",
+      "body": "Between a customer and an insurer there's usually someone in the middle, known generally as an **intermediary**. The question that matters most is: who are they working for?\n\n### Brokers\n\nA **broker** is primarily the client's representative. They find out what the client needs, search the market, recommend suitable cover and help when there's a claim. Think of a GP who knows all the specialists. They don't deliver the treatment themselves, but they know which consultant suits this patient, and they're on the patient's side. Module 3 covers the legal detail of who a broker acts for and when.\n\n### Agents\n\nIn market language, an **agent** usually acts for the insurer. A **tied agent** sells for one insurer, or a small fixed panel, and can't shop around the wider market. A bank offering its partner's home insurance when you take out a mortgage, or a car dealer selling GAP cover from a single insurer, are typical examples. Many small firms are **appointed representatives**, trading under another firm's FCA authorisation rather than holding their own; that other firm takes responsibility for them.\n\n### MGAs\n\nA **managing general agent** (**MGA**) has been handed underwriting power by an insurer. Under a written agreement, often called a *binding authority* or *delegated authority*, the MGA can quote, accept risks and issue policies on the insurer's behalf within agreed limits. The insurer, or a Lloyd's syndicate, still carries the risk and pays the claims. The MGA brings niche expertise and does the day-to-day underwriting, and most of its business arrives through brokers. At Lloyd's, a firm with this sort of authority is called a **coverholder**.\n\n### Comparison sites\n\n**Price comparison websites** let you type your details in once and see quotes from many insurers. Compare the Market, MoneySuperMarket, GoCompare and Confused.com are the household names. They're FCA-regulated intermediaries, but they generally don't give advice: you choose, and your contract is with the insurer you pick. They're paid mainly by insurers, usually a fee when a customer clicks through or buys.\n\nComparison sites dominate straightforward personal lines like car and home, where price is the main question. They matter far less for employer health schemes, where advice, service and claims support count for more than the cheapest quote."
+    },
+    {
+      "heading": "The broker's job, and how brokers get paid",
+      "body": "A broker's work follows a fairly steady rhythm, whether the client is a café or a company with 2,000 staff.\n\n1. **Understand the client.** A fact-find covers what they do, what worries them and what cover they already have. In regulatory language, this establishes their *demands and needs*.\n2. **Present the risk.** Help the client give insurers a fair, accurate picture. Get this wrong and claims can fail, which is why Module 5 is devoted to it.\n3. **Go to market.** Approach suitable insurers and negotiate price and terms.\n4. **Recommend and place.** Explain the options in plain English, let the client decide, then place the cover and check the documents match what was agreed.\n5. **Look after it.** Handle mid-term changes, fight the client's corner at claim time, and do it all again at renewal.\n\nFor a health broking team, the client is usually an employer and the products are group private medical insurance, cash plans, income protection and so on. The rhythm is the same.\n\n### Retail vs wholesale\n\nA **retail broker** deals directly with the end client, whether that's a family, a café or a large employer. Retail doesn't mean consumers only. A **wholesale broker** deals with other brokers. When a retail broker has a risk its usual insurers won't touch, because it's unusual, very large or needs Lloyd's, it passes the risk to a wholesaler with the right specialist relationships.\n\nIt works like a referral pathway: the GP keeps the patient relationship, and the tertiary centre provides specialist access. The client may never deal with the wholesaler at all, and the commission is shared between the two brokers.\n\nThe biggest global names are Marsh, Aon, WTW (formerly Willis Towers Watson), Gallagher and Howden. All of them handle large corporate clients and run sizeable employee benefits and health practices. Alongside them sit hundreds of regional and independent brokers, from one-office family firms to specialist health and benefits consultancies.\n\n### How brokers are paid\n\n- **Commission** is a percentage of the premium, paid to the broker by the insurer. The client doesn't write a separate cheque, because it's built into the premium. As a made-up example, on a £2,000 premium with 15% commission, the broker keeps £300 and the insurer receives £1,700.\n- **Fees** are charged to the client directly, either on top of commission (an arrangement fee, say) or instead of it. Larger clients often prefer a fee, with premiums quoted *net*, meaning without commission built in, so they can see exactly what they're paying for advice.\n- Some insurer agreements also pay brokers extra for the volume or profitability of business placed. These create a potential conflict of interest that brokers must manage openly.\n\nTransparency is part of the deal. Clients must be told how the broker is paid, fees should be clear before the client commits, and a commercial client who asks how much commission the broker earns must be told. Under the FCA's Consumer Duty, firms also have to show that what customers pay, including the broker's share, represents fair value."
+    },
+    {
+      "heading": "Reinsurance, and a quick who's who",
+      "body": "Insurers buy insurance too. **Reinsurance** is insurance for insurers: an insurer passes part of the risk it has accepted to a **reinsurer**, along with part of the premium. It protects the insurer against huge single events, such as a storm damaging thousands of homes at once, smooths out its results and lets it accept bigger risks than its own capital would allow. Crucially, the policyholder never deals with the reinsurer. Your contract is with your insurer, which must pay your claim whatever its reinsurance arrangements. Swiss Re and Munich Re are the reinsurer names you'll hear most, and many Lloyd's syndicates write reinsurance too.\n\n### Following the money: two journeys\n\nPoppy renews her car cover on a comparison site. She enters her details, compares quotes and buys from, say, Admiral. The site gets a fee from Admiral, Admiral carries the risk, and Admiral's reinsurers quietly protect it against a catastrophe year.\n\nAn employer with 200 staff wants group private medical insurance. Its health broker runs a fact-find, approaches Bupa, AXA Health, Aviva Health and Vitality, and presents a side-by-side comparison. The employer chooses, the broker places the scheme and is paid commission or a fee, then supports the employer through the year with member queries, claims and renewal.\n\n### Names to recognise\n\n- **Aviva, AXA, Allianz, Zurich:** big insurance groups writing a wide range of personal and commercial cover.\n- **Direct Line, Admiral:** personal lines names, best known for car and home insurance.\n- **Hiscox, Beazley:** specialist insurers with strong Lloyd's connections.\n- **Bupa, AXA Health, Aviva Health, Vitality, WPA:** health insurers you'll meet in group and individual private medical insurance.\n- **Marsh, Aon, WTW, Gallagher, Howden:** large international brokers with big employee benefits arms.\n- **Compare the Market, MoneySuperMarket, GoCompare, Confused.com:** price comparison websites.\n- **Swiss Re, Munich Re:** global reinsurers.\n\nYou don't need to know who's biggest. You just need to recognise the names, know what part of the chain each one sits in, and never mistake a broker for an insurer, or Lloyd's for a company."
+    }
+  ],
+  "whyItMatters": "When an employer asks why you're recommending one health insurer over another, or what your fee actually covers, you need to know who carries the risk, who else sits in the chain and how the money flows. That map is what you'll work from every day in a broking team.",
+  "questions": [
+    {
+      "id": "m02-q01",
+      "topic": "composite insurers",
+      "stem": "What makes an insurer a 'composite' insurer?",
+      "options": [
+        "It writes both general insurance and life or long-term business",
+        "It is owned by its policyholders rather than by shareholders",
+        "It only accepts business through brokers, never direct from the public",
+        "It shares every risk it accepts with other insurers"
+      ],
+      "answerIndex": 0,
+      "explanation": "A composite writes both general cover (car, home, business) and life or long-term business such as life cover and pensions, usually through separate companies in one group. Ownership by policyholders is what makes an insurer a mutual, which is a different idea."
+    },
+    {
+      "id": "m02-q02",
+      "topic": "mutual insurers",
+      "stem": "Who owns a mutual insurer?",
+      "options": [
+        "Its shareholders, who receive dividends from the profits",
+        "The Corporation of Lloyd's",
+        "Its policyholders, who are known as members",
+        "The government, through the PRA"
+      ],
+      "answerIndex": 2,
+      "explanation": "A mutual is owned by its policyholders (members), so surpluses can go back to them through better prices or benefits. Proprietary insurers are the ones owned by shareholders."
+    },
+    {
+      "id": "m02-q03",
+      "topic": "specialist insurers",
+      "stem": "An insurer that writes only pet insurance, or only cyber cover, would usually be described as what?",
+      "options": [
+        "A composite insurer",
+        "A specialist insurer",
+        "A reinsurer",
+        "A managing general agent"
+      ],
+      "answerIndex": 1,
+      "explanation": "A specialist concentrates on one class of business or one type of customer. A composite does the opposite, writing both general and life business."
+    },
+    {
+      "id": "m02-q04",
+      "topic": "what Lloyd's is",
+      "stem": "Which best describes Lloyd's of London?",
+      "options": [
+        "A single large insurance company that sells cover through branches",
+        "A government-backed insurer of last resort",
+        "A broking firm that places risks with UK insurance companies",
+        "A marketplace where many separate syndicates underwrite risks"
+      ],
+      "answerIndex": 3,
+      "explanation": "Lloyd's is a marketplace, not an insurer: the underwriting is done by many competing syndicates, backed by members' capital. Brokers bring the risks in, but Lloyd's itself isn't a broker either."
+    },
+    {
+      "id": "m02-q05",
+      "topic": "managing agents",
+      "stem": "At Lloyd's, who runs a syndicate day to day, employing its underwriters and handling its claims?",
+      "options": [
+        "The managing agent",
+        "The Lloyd's broker",
+        "The Corporation of Lloyd's",
+        "The members who supply the capital"
+      ],
+      "answerIndex": 0,
+      "explanation": "Managing agents run syndicates: they employ the underwriters, set strategy and handle claims. Members provide the money, and the Corporation oversees the market as a whole."
+    },
+    {
+      "id": "m02-q06",
+      "topic": "Lloyd's members",
+      "stem": "At Lloyd's, what is the main role of the members?",
+      "options": [
+        "They bring business into the market on behalf of clients",
+        "They provide the capital that backs the syndicates' underwriting",
+        "They regulate conduct in the market on behalf of the FCA",
+        "They write the policy wordings for each class of business"
+      ],
+      "answerIndex": 1,
+      "explanation": "Members supply the capital that pays claims; today most are companies, while historically individuals called Names did this. Bringing business in is the job of Lloyd's brokers."
+    },
+    {
+      "id": "m02-q07",
+      "topic": "Corporation of Lloyd's",
+      "stem": "What does the Corporation of Lloyd's do?",
+      "options": [
+        "It underwrites the largest risks in the market itself",
+        "It acts as the broker for overseas clients",
+        "It oversees the market, sets standards and approves who can trade there",
+        "It provides reinsurance to every syndicate"
+      ],
+      "answerIndex": 2,
+      "explanation": "The Corporation runs and supervises the marketplace, including a central fund that acts as a backstop. It doesn't underwrite risks itself; syndicates do that."
+    },
+    {
+      "id": "m02-q08",
+      "topic": "lead underwriter",
+      "stem": "In the Lloyd's subscription market, what does the lead underwriter do?",
+      "options": [
+        "Collects the premium from the client on behalf of all the syndicates",
+        "Takes 100% of the risk and then reinsures the rest",
+        "Approves the broker's accreditation to trade at Lloyd's",
+        "Agrees the price and terms and takes the first share, which others then follow"
+      ],
+      "answerIndex": 3,
+      "explanation": "The lead negotiates price and wording and writes the first line; following underwriters accept the same terms and add their own shares until the risk is fully placed."
+    },
+    {
+      "id": "m02-q09",
+      "topic": "writing a line",
+      "stem": "When a Lloyd's underwriter 'writes a line' on a risk, what are they doing?",
+      "options": [
+        "Committing to accept a stated share of the risk",
+        "Adding an exclusion to the policy wording",
+        "Recording the broker's commission rate",
+        "Referring the risk to a reinsurer for approval"
+      ],
+      "answerIndex": 0,
+      "explanation": "A line is the percentage of the risk an underwriter agrees to take. Lines from several syndicates add up until 100% of the risk is covered."
+    },
+    {
+      "id": "m02-q10",
+      "topic": "MGAs",
+      "stem": "What is a managing general agent (MGA)?",
+      "options": [
+        "A broker that only deals with other brokers",
+        "A firm given authority by an insurer to underwrite and issue policies on its behalf, while the insurer carries the risk",
+        "A mutual insurer owned by its members",
+        "An FCA official who supervises insurance agents"
+      ],
+      "answerIndex": 1,
+      "explanation": "An MGA underwrites under delegated authority, but the insurer behind it carries the risk and pays the claims. A broker that serves other brokers is a wholesale broker, which is a different role."
+    },
+    {
+      "id": "m02-q11",
+      "topic": "tied agents",
+      "stem": "What is a tied agent?",
+      "options": [
+        "A broker locked into a long-term contract with one client",
+        "A firm that compares quotes from the whole market",
+        "An intermediary that sells on behalf of one insurer or a small fixed panel",
+        "An underwriter employed by a Lloyd's managing agent"
+      ],
+      "answerIndex": 2,
+      "explanation": "A tied agent represents the insurer (or a fixed panel) and can't search the wider market. That's the key contrast with a broker, who works primarily for the client."
+    },
+    {
+      "id": "m02-q12",
+      "topic": "comparison sites",
+      "stem": "Which statement about price comparison websites is true?",
+      "options": [
+        "They are the insurer for every policy they list",
+        "They're mostly used for straightforward personal lines such as car and home cover",
+        "They're unregulated because they only display prices",
+        "They're the main way employers buy group health insurance"
+      ],
+      "answerIndex": 1,
+      "explanation": "Comparison sites dominate simple personal lines where price drives the decision. They're FCA-regulated intermediaries, not insurers, and they matter far less for employer schemes where advice and service count."
+    },
+    {
+      "id": "m02-q13",
+      "topic": "broker commission",
+      "stem": "What is broker commission?",
+      "options": [
+        "A percentage of the premium paid to the broker by the insurer",
+        "A fixed charge brokers add to every claim payment",
+        "A refund paid to the client if no claim is made",
+        "The share of a risk the broker keeps on its own books"
+      ],
+      "answerIndex": 0,
+      "explanation": "Commission is the insurer's payment to the broker, built into the premium the client pays. Brokers don't carry risk, so they never keep a share of it."
+    },
+    {
+      "id": "m02-q14",
+      "topic": "retail brokers",
+      "stem": "Which best describes a retail broker?",
+      "options": [
+        "A broker who deals directly with the end client, whether a household or a business",
+        "A broker who only sells to consumers, never to businesses",
+        "A broker who can only operate from a high-street shop",
+        "A broker who places business on behalf of other brokers"
+      ],
+      "answerIndex": 0,
+      "explanation": "Retail means facing the end client, which can be a family or a large employer, so it isn't limited to consumers. Placing business for other brokers is what a wholesale broker does."
+    },
+    {
+      "id": "m02-q15",
+      "topic": "reinsurance",
+      "stem": "What is reinsurance?",
+      "options": [
+        "Renewing a policy with the same insurer for another year",
+        "Taking out a second policy to cover the same risk twice",
+        "Insurance bought by insurers to pass on part of the risk they've accepted",
+        "A promise from the FSCS that claims will be paid"
+      ],
+      "answerIndex": 2,
+      "explanation": "Reinsurance is insurance for insurers: they pass part of their risk, and part of the premium, to a reinsurer. It protects them against very large losses and lets them take on bigger risks."
+    },
+    {
+      "id": "m02-q16",
+      "topic": "personal vs commercial lines",
+      "stem": "What does the term 'personal lines' mean?",
+      "options": [
+        "Insurance sold to individuals and households, such as car and home cover",
+        "Policies arranged by a broker in person rather than online",
+        "Cover written by an individual Name at Lloyd's",
+        "Life insurance on a single named person"
+      ],
+      "answerIndex": 0,
+      "explanation": "Personal lines covers individuals and households; commercial lines covers businesses. The term is about who the customer is, not how the policy is sold."
+    },
+    {
+      "id": "m02-q17",
+      "topic": "who the broker acts for",
+      "stem": "Poppy's friend Jess runs a small café and asks a broker to find her business insurance. When searching the market and recommending cover, who is the broker primarily acting for?",
+      "options": [
+        "The insurer that eventually accepts the risk",
+        "Jess, the client",
+        "Whichever insurer pays the highest commission",
+        "The Corporation of Lloyd's"
+      ],
+      "answerIndex": 1,
+      "explanation": "A broker is primarily the client's representative, searching the market and recommending cover in Jess's interests. Commission is paid by the insurer, but that doesn't change whose side the broker is on, and conflicts must be managed openly."
+    },
+    {
+      "id": "m02-q18",
+      "topic": "wholesale broking",
+      "stem": "A high-street broker in Leeds has a client who wants cover for a one-off outdoor music festival. None of the broker's usual insurers will quote, so it passes the risk to a London firm with access to Lloyd's syndicates. What role is the London firm playing?",
+      "options": [
+        "Retail broker",
+        "Tied agent",
+        "Managing agent",
+        "Wholesale broker"
+      ],
+      "answerIndex": 3,
+      "explanation": "A wholesale broker serves other brokers, giving them access to specialist markets such as Lloyd's. The Leeds firm stays the retail broker, keeping the client relationship."
+    },
+    {
+      "id": "m02-q19",
+      "topic": "MGAs in practice",
+      "stem": "Poppy's brother buys cover for his classic car from a specialist firm that quotes, accepts the risk and issues the policy itself. The documents say the cover is underwritten by a named insurer, which pays any claims. What is the specialist firm most likely to be?",
+      "options": [
+        "A managing general agent with delegated authority",
+        "A mutual insurer",
+        "A reinsurer",
+        "A wholesale broker"
+      ],
+      "answerIndex": 0,
+      "explanation": "Quoting, binding and issuing policies while a separate insurer carries the risk is exactly what an MGA does under delegated authority. A wholesale broker places risks but doesn't underwrite them."
+    },
+    {
+      "id": "m02-q20",
+      "topic": "non-advised sales",
+      "stem": "Poppy renews her car insurance on a comparison website. She enters her details, sees ten quotes and picks the cheapest. Which statement best describes what happened?",
+      "options": [
+        "The comparison site became her insurer and will pay any claim",
+        "The comparison site advised her which policy best met her needs",
+        "She bought without advice, and her contract is with the insurer she chose",
+        "The comparison site's broker negotiated a special discount on her behalf"
+      ],
+      "answerIndex": 2,
+      "explanation": "Comparison sites generally don't advise: the customer chooses, and the contract sits with the chosen insurer. The site is an intermediary paid by the insurer, not the one carrying the risk."
+    },
+    {
+      "id": "m02-q21",
+      "topic": "commission in practice",
+      "stem": "A broker places a shop's insurance at a premium of £3,000, on which the insurer pays 20% commission. How does the money split?",
+      "options": [
+        "The client pays £3,600 and the broker keeps £600",
+        "The client pays £3,000; the broker receives £600 and the insurer keeps £2,400",
+        "The client pays £3,000 to the insurer plus a separate £600 to the broker",
+        "The insurer pays the broker £600 only if no claims are made"
+      ],
+      "answerIndex": 1,
+      "explanation": "Commission is built into the premium the client pays, so the £3,000 is shared: 20% (£600) to the broker and the rest to the insurer. A separate charge to the client would be a fee, not commission."
+    },
+    {
+      "id": "m02-q22",
+      "topic": "fees vs commission",
+      "stem": "A large employer tells its health broker: 'We'd rather pay you a flat annual sum and have the premiums quoted without commission.' What is this arrangement?",
+      "options": [
+        "A profit commission",
+        "A binding authority",
+        "A subscription placement",
+        "A fee instead of commission, with premiums quoted net"
+      ],
+      "answerIndex": 3,
+      "explanation": "Paying the broker a fee and having insurers quote net (without commission) lets the client see exactly what it's paying for advice. A binding authority is the agreement that lets an MGA underwrite, which is unrelated."
+    },
+    {
+      "id": "m02-q23",
+      "topic": "agents in practice",
+      "stem": "When Poppy takes out a mortgage, the bank offers home insurance from its single partner insurer. In market terms, the bank is acting most like what?",
+      "options": [
+        "A tied agent of the insurer",
+        "An independent broker searching the market",
+        "A wholesale broker",
+        "A Lloyd's coverholder"
+      ],
+      "answerIndex": 0,
+      "explanation": "Selling one insurer's product, with no search of the wider market, is the hallmark of a tied agent acting for that insurer. A broker would compare the market on Poppy's behalf."
+    },
+    {
+      "id": "m02-q24",
+      "topic": "reinsurance and the policyholder",
+      "stem": "A storm damages thousands of homes insured by one company, which recovers much of its losses from Swiss Re. One homeowner asks whether she should claim from Swiss Re directly. What's the right answer?",
+      "options": [
+        "Yes, because the reinsurer is now responsible for her claim",
+        "Only if her claim is above the reinsurer's threshold",
+        "No: her contract is with her insurer, which must pay her whatever its reinsurance arrangements",
+        "Only once her insurer has paid its own share of the claim"
+      ],
+      "answerIndex": 2,
+      "explanation": "The policyholder's contract is with the insurer alone; reinsurance is a separate arrangement between the insurer and reinsurer. The insurer must pay valid claims whether or not it recovers from its reinsurers."
+    },
+    {
+      "id": "m02-q25",
+      "topic": "subscription market",
+      "stem": "A cargo risk is placed at Lloyd's with three syndicates taking 50%, 30% and 20%. A £1m claim is agreed. How is it paid?",
+      "options": [
+        "The syndicate with the largest share pays the full £1m",
+        "The Corporation of Lloyd's pays and recovers from the syndicates",
+        "The broker pays the claim and recovers from the syndicates",
+        "Each syndicate pays its own share: £500,000, £300,000 and £200,000"
+      ],
+      "answerIndex": 3,
+      "explanation": "In the subscription market each underwriter is liable only for its own line, so the claim is split in proportion to the shares written. That's how no single syndicate carries the whole loss."
+    },
+    {
+      "id": "m02-q26",
+      "topic": "market names",
+      "stem": "Which statement about well-known UK market names is true?",
+      "options": [
+        "Marsh, Aon and Gallagher are health insurers",
+        "Swiss Re and Munich Re are price comparison websites",
+        "Bupa, Vitality and WPA are health insurers that brokers approach for private medical insurance quotes",
+        "Admiral is a reinsurer that deals only with other insurers"
+      ],
+      "answerIndex": 2,
+      "explanation": "Bupa, Vitality and WPA are health insurers. Marsh, Aon and Gallagher are brokers, Swiss Re and Munich Re are reinsurers, and Admiral is a personal lines insurer best known for car cover."
+    },
+    {
+      "id": "m02-q27",
+      "topic": "access to Lloyd's",
+      "stem": "Which statement about Lloyd's is true?",
+      "options": [
+        "Members of the public can walk in and buy a policy directly from an underwriter",
+        "Business normally reaches Lloyd's underwriters through accredited brokers",
+        "Lloyd's is a single insurer that owns all the syndicates",
+        "Each syndicate must take 100% of every risk it accepts"
+      ],
+      "answerIndex": 1,
+      "explanation": "Lloyd's underwriters deal through accredited Lloyd's brokers, not with the public directly. Syndicates are separate businesses that usually take a share of each risk rather than the whole of it."
+    },
+    {
+      "id": "m02-q28",
+      "topic": "the broker's role",
+      "stem": "Which statement about what a broker does is true?",
+      "options": [
+        "A broker's job ends once the policy has been placed",
+        "A broker pays the client's claims if the insurer refuses them",
+        "A broker sets the premium the insurer charges",
+        "A broker helps the client present the risk fairly, negotiates with insurers and supports them at claim and renewal time"
+      ],
+      "answerIndex": 3,
+      "explanation": "Broking runs from fact-find through placing to claims advocacy and renewal. Brokers negotiate on price, but the underwriter sets the premium, and the insurer, not the broker, pays claims."
+    },
+    {
+      "id": "m02-q29",
+      "topic": "broker remuneration",
+      "stem": "Which statement about how brokers are paid is FALSE?",
+      "options": [
+        "Commission is usually built into the premium the client pays",
+        "A commercial client can ask its broker how much commission it earns and must be told",
+        "Brokers can charge fees instead of, or as well as, commission",
+        "Brokers are banned from earning commission on UK insurance"
+      ],
+      "answerIndex": 3,
+      "explanation": "Commission is lawful and common in UK insurance broking; what the rules require is transparency and fair value. Fees can replace or sit alongside commission, and commercial clients are entitled to ask what commission the broker earns."
+    },
+    {
+      "id": "m02-q30",
+      "topic": "mutual surpluses",
+      "stem": "Which statement about mutual insurers is true?",
+      "options": [
+        "The PRA caps the claims they're allowed to pay",
+        "Surpluses can go back to members through better prices or benefits instead of being paid to outside shareholders",
+        "They're only allowed to sell life insurance",
+        "They must place all their business through Lloyd's"
+      ],
+      "answerIndex": 1,
+      "explanation": "With no outside shareholders, a mutual can return its surplus to the policyholders who own it. Mutuals operate in many classes, from farm and home insurance to life and pensions."
+    }
+  ]
+}
