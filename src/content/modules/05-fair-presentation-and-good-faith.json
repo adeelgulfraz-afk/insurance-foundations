@@ -210,7 +210,7 @@
     {
       "id": "m05-q14",
       "topic": "blind-eye knowledge",
-      "stem": "A factory manager suspects the warehouse wiring is faulty but deliberately avoids checking before the insurance is arranged. How does the Insurance Act 2015 treat this?",
+      "stem": "A company's managing director suspects the warehouse wiring is faulty but deliberately avoids checking before the insurance is arranged. How does the Insurance Act 2015 treat this?",
       "options": [
         "As knowledge, because deliberately avoiding confirming a suspicion counts as knowing",
         "As not known, because nothing was ever confirmed",
@@ -339,16 +339,16 @@
     },
     {
       "id": "m05-q24",
-      "topic": "CIDRA basics",
+      "topic": "confirming details",
       "stem": "Which statement about CIDRA is true?",
       "options": [
         "Consumers must volunteer anything a prudent insurer would consider material",
         "Any incorrect answer allows the insurer to avoid the policy and keep the premium",
         "An honest and reasonable mistake still allows the insurer to reduce a claim",
-        "If the insurer doesn't ask about something, the consumer generally can't be penalised for not mentioning it"
+        "Failing to update details when the insurer asks the consumer to confirm or amend them can count as a misrepresentation"
       ],
       "answerIndex": 3,
-      "explanation": "CIDRA replaced the consumer duty to volunteer with a duty to answer carefully, so the onus is on the insurer to ask clear questions. Honest, reasonable mistakes are not qualifying misrepresentations, so the claim is paid."
+      "explanation": "Under CIDRA, not correcting out-of-date details when the insurer asks you to confirm or amend them can be a misrepresentation, which matters most at renewal. Consumers don't have to volunteer anything unasked, and an honest, reasonable mistake isn't a qualifying misrepresentation, so the claim is paid."
     },
     {
       "id": "m05-q25",
