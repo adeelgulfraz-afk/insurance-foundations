@@ -26,6 +26,7 @@ export default function ProgressPage() {
       if (hasHistory && !window.confirm('This replaces the progress on this device. Carry on?')) return
       progressStore.replace(next)
       setImportText('')
+      setResetMsg('')
       setImportMsg('Progress restored.')
     } catch (e) {
       setImportMsg(e instanceof Error ? e.message : 'That code is not valid')
@@ -35,6 +36,7 @@ export default function ProgressPage() {
   const reset = () => {
     if (!window.confirm('This wipes all progress on this device. Sure?')) return
     progressStore.reset()
+    setImportMsg('')
     setResetMsg('All progress cleared.')
   }
 
