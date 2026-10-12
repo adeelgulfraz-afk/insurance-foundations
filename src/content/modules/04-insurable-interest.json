@@ -1,0 +1,428 @@
+{
+  "id": "m04",
+  "order": 4,
+  "title": "Insurable interest",
+  "estimatedMinutes": 15,
+  "recap": [
+    "Insurable interest is a legally recognised financial stake: you benefit from the thing's safety and lose out if it is harmed.",
+    "It exists to stop insurance becoming gambling and to reduce moral hazard.",
+    "Life: needed at inception only. Property: at the time of loss (and at inception in practice). Liability: when the liability arises.",
+    "You have unlimited interest in your own life and your spouse's or civil partner's; creditors and employers are limited to their real financial loss.",
+    "No interest makes a life policy void under the Life Assurance Act 1774; the Gambling Act 2005 removed the old wagering rule for non-life, but indemnity still means no loss, no payout."
+  ],
+  "sections": [
+    {
+      "heading": "What insurable interest actually means",
+      "body": "You can't insure just anything you like. To take out a valid policy, you need an **insurable interest** in whatever you're insuring. In plain English, that means you'd be financially worse off if it were lost, damaged or destroyed, and that the law recognises your connection to it.\n\nYour own home is the easy example. If it burns down, you lose something worth a lot of money, so you clearly have an interest in it. Your neighbour's house is different. You'd be upset if it burned down, and you might lose some sleep, but your bank balance wouldn't change. Feelings, however strong, don't count.\n\n### The four ingredients\n\nTextbooks usually split insurable interest into four parts, and you need all of them:\n\n1. There must be something capable of being insured: property, a life, or a possible legal liability.\n2. That thing must be the actual subject of the policy.\n3. You must have a relationship with it that the law recognises, such as ownership or a contract.\n4. That relationship must mean you benefit if it stays safe and lose out financially if it doesn't.\n\nA handy shorthand is \"skin in the game\". If you've got none, the insurer won't write the policy, and for some types of cover it legally can't.\n\n### Where it comes from\n\nInsurable interest usually arises in one of three ways. The most common is plain ownership: you own the car, so you can insure it. The second is a **contract**. A lease that makes a tenant responsible for repairing the building, for example, gives the tenant an interest even though they don't own it. The third is **statute**, where an Act of Parliament creates or confirms an interest.\n\nNotice what's missing from that list. Paying the premium doesn't create an interest on its own, and neither does being fond of something or living near it. The test is always whether you'd suffer a financial loss the law recognises.\n\n### A quick word on \"interest\"\n\nOne small trap: \"interest\" here has nothing to do with interest rates, or the money an insurer earns by investing premiums. It means a stake, the way you'd say someone has an interest in a business.\n\nIt works a bit like consent in clinical practice. Before you treat someone, you check there's valid consent. Before an insurer covers something, it checks there's a valid interest. Without it, nothing that follows stands on solid ground."
+    },
+    {
+      "heading": "Why the rule exists",
+      "body": "Insurable interest exists for two main reasons, and both are about keeping insurance honest.\n\n### Stopping insurance becoming gambling\n\nImagine you could take out a policy on the life of a stranger you'd read about in the paper, or on a ship you'd never set foot on. You'd pay a small premium and collect a large sum if disaster struck. That isn't protection, it's a bet. You'd be wagering on someone else's misfortune, with the insurer acting as bookmaker.\n\nIn eighteenth-century England this genuinely happened. People \"insured\" the lives of well-known figures purely as a flutter. Parliament stepped in with the **Life Assurance Act 1774**, which made life policies without insurable interest unlawful. The principle has stuck ever since: insurance is there to protect you against a real loss, not to give you a punt on one.\n\n### Reducing moral hazard\n\nThe second reason is **moral hazard**. A hazard is anything that makes a loss more likely or more severe. Moral hazard is the human side of that: the risk that someone's attitude or behaviour makes a loss more likely.\n\nIf you'd gain from something being destroyed and lose nothing yourself, the temptation is obvious. At the extreme, someone might be tempted to cause the loss. More often, they'd simply have no reason to prevent it, so they'd take less care. Requiring insurable interest means the person holding the policy normally has more to lose than to gain, which keeps everyone's incentives pointing the right way.\n\n### Keeping indemnity meaningful\n\nThere's a quieter third reason. Most general insurance, like car, home and business cover, works on **indemnity**. That means putting you back in the same financial position you were in just before the loss, no better and no worse.\n\nYou can only be put back if you've actually lost something. Insurable interest is what identifies that loss: whose it is, and how big it could be. You'll meet indemnity properly in a later module, but it's worth seeing now how closely the two ideas are tied together."
+    },
+    {
+      "heading": "Who has an insurable interest? Common examples",
+      "body": "Most of the time insurable interest is obvious and nobody gives it a second thought. It's still worth knowing the common patterns, because some come with limits.\n\n### Property\n\n- **Your own home and belongings.** As the owner, your interest covers the full value.\n- **Joint owners.** If you and a sibling own a flat together, each of you has an interest. In practice you'd take out one policy in both names.\n- **Mortgage lenders.** Your home is the security for the lender's loan. If it's destroyed, that security disappears, so the lender has an interest up to the amount still owed. That's why lenders insist the property is insured and often ask for their interest to be noted on the policy.\n- **Tenants.** A tenant can insure their own belongings and their liability to the landlord. The building itself is normally the landlord's to insure, unless the lease makes the tenant responsible for it.\n- **Bailees.** A bailee is someone looking after goods that belong to somebody else: a dry cleaner with your coat, a garage with your car, a removals firm with your furniture. They're responsible for those goods while they have them, so they have an interest and can insure them.\n- **Creditors.** Someone who is owed money can have an interest in property that secures the debt, but only up to the amount owed.\n\n### Lives\n\n- **Your own life.** You have an unlimited interest in your own life and can insure it for any amount. The insurer will still check the figure makes sense against your income and circumstances, but that's underwriting, not a legal cap.\n- **Spouse or civil partner.** Married couples and civil partners have an unlimited interest in each other's lives. The law presumes it, so nobody has to prove a figure.\n- **Unmarried partners.** This is less clear-cut. Cohabiting couples don't get the automatic unlimited interest that spouses do, so they rely on a genuine financial link, such as a shared mortgage or one partner depending on the other's income. Many couples sidestep the question by each insuring their own life and arranging for the payout to go to the other.\n- **Employer and key employee.** A business can insure the life of someone whose death would hurt it financially, such as a founder or top salesperson. This is **key person insurance**. The business is the policyholder and receives the payout, and its interest is limited to the financial loss it would realistically suffer, such as lost profit or the cost of finding a replacement.\n- **Creditors.** A lender can insure a borrower's life, but only up to the amount of the debt. If a friend owes you £5,000, that's your ceiling.\n\n### Liability\n\nYou also have an insurable interest in your own possible legal liability. If you could be sued for injuring someone or damaging their property, a claim would cost you money, so you have something to protect. That's what public liability, employers' liability and the third-party part of motor insurance are all about. Liability isn't just for businesses, either: a homeowner can be liable if a visitor trips on a broken step."
+    },
+    {
+      "heading": "When the interest has to exist",
+      "body": "This is the bit that catches people out in exams, because the answer depends on the type of insurance.\n\n### Life insurance: at the start\n\nFor life policies, insurable interest must exist when the policy is taken out, known as **inception**. It doesn't have to exist when the claim is made.\n\nSay you take out a policy on your husband's life, you divorce a few years later, and you keep paying the premiums. If he dies, the policy still pays out to you. You had an unlimited interest when the policy began, and that's all the law asks for. Life policies can run for decades and are often placed in trust or passed on, so tying the interest to the start keeps things workable.\n\n### Property insurance: at the time of loss\n\nFor property, the legal requirement is that you have an interest **at the time of the loss**. That fits neatly with indemnity: if you don't own the thing when it's damaged, you haven't lost anything.\n\nPicture your brother selling his car on a Monday and forgetting to cancel his insurance. On the Thursday, the new owner crashes it. Your brother can't claim, because by then the car wasn't his and the damage cost him nothing. The new owner needs their own cover.\n\nIn practice, insurers also expect you to have an interest when the policy starts. They're pricing and accepting a risk based on your relationship with the property, so they want that relationship to be real from day one. So for property, think of it as \"at the time of loss in law, and at inception in practice\".\n\n### Liability insurance: when the liability arises\n\nWith liability cover, your interest exists when you could become legally liable, which is when the incident that causes injury or damage happens. You don't need to wait for a court to rule against you; the possibility of a claim is enough. If your friend sells her café and a customer slips there a month later, that's the new owner's liability, not hers. Even if her old policy were still running, there'd be nothing for it to protect.\n\n### The short version\n\n- **Life:** at inception, and not needed at the time of claim.\n- **Property:** at the time of loss, and expected at inception in practice.\n- **Liability:** when the liability arises."
+    },
+    {
+      "heading": "What happens without it",
+      "body": "### Life policies\n\nUnder the Life Assurance Act 1774, a life policy taken out by someone with no insurable interest is **void**. Void means the contract is treated as if it never existed, so there's nothing to claim under. The Act also limits what can be recovered to the value of the interest, which is why creditors and businesses can't insure someone's life for more than their real stake. Getting the life insured to agree doesn't fix the problem; consent isn't the same thing as interest.\n\n### Non-life policies and the old \"wagering\" rule\n\nFor property and other non-life insurance, the history is different. For a long time, gambling law said that bets couldn't be enforced in court. A property policy with no insurable interest looked like a bet, so it was unenforceable.\n\nThe **Gambling Act 2005** changed that. It made gambling contracts legally enforceable, which removed the old rule that a non-life policy failed simply because it amounted to a wager. On paper, then, the gambling argument is no longer what stops a non-life policy without interest. It didn't touch life policies, which are still governed by the 1774 Act.\n\n### Why it still matters for non-life cover\n\nThat doesn't mean you can insure your neighbour's house and cash in. Most non-life cover is indemnity insurance, and indemnity only pays for a loss you've actually suffered. No interest means no loss, and no loss means no payout. Insurers also write insurable interest into their proposal forms and policy wordings, so they check it when cover starts and again when a claim comes in.\n\nMarine insurance has its own rule, under the Marine Insurance Act 1906, and still treats policies without interest as void. You're unlikely to meet that in health broking, but it shows the principle hasn't disappeared.\n\n### Where you'll meet it as a broker\n\nIn health and protection broking, insurable interest turns up all the time, mostly quietly. A company arranging key person cover, a couple setting up life insurance alongside a new mortgage, or an employer deciding whether a policy should sit with the business or the individual all raise the same question: whose loss is this, and how big could it be?\n\nGetting that right at the start means the policy pays out when it's needed, rather than being challenged at the worst possible moment."
+    }
+  ],
+  "whyItMatters": "As a broker you'll often decide who should hold a policy: the business or the employee, one partner or both. If the policyholder has no insurable interest, or a smaller one than the sum insured, the claim can fail just when your client needs it, so checking it at the start is part of doing the job properly.",
+  "questions": [
+    {
+      "id": "m04-q01",
+      "topic": "definition",
+      "stem": "In plain terms, what is insurable interest?",
+      "options": [
+        "A legally recognised financial stake in something, so you benefit from its safety and lose out if it is damaged or lost",
+        "A strong personal or emotional attachment to something that the insurer accepts as genuine",
+        "The return an insurer earns by investing the premiums it collects",
+        "The share of a claim that the policyholder has to pay themselves"
+      ],
+      "answerIndex": 0,
+      "explanation": "Insurable interest means you would suffer a financial loss the law recognises if the thing insured were harmed. Emotional attachment alone, however strong, does not count."
+    },
+    {
+      "id": "m04-q02",
+      "topic": "purpose: anti-gambling",
+      "stem": "What is one of the main reasons the law requires insurable interest?",
+      "options": [
+        "To make sure premiums are set at a fair level for the risk",
+        "To stop insurance being used as a bet on someone else's misfortune",
+        "To prevent people buying cover for the same item from two insurers",
+        "To cap every claim at the market value of the item"
+      ],
+      "answerIndex": 1,
+      "explanation": "Without insurable interest, a policy is just a wager on a loss you would not suffer. Requiring a real stake keeps insurance as protection rather than gambling."
+    },
+    {
+      "id": "m04-q03",
+      "topic": "purpose: moral hazard",
+      "stem": "In the context of insurable interest, what does moral hazard mean?",
+      "options": [
+        "The risk that the insurer refuses a claim on a technicality",
+        "A physical feature, such as faulty wiring, that makes a fire more likely",
+        "The risk that someone's attitude or behaviour makes a loss more likely, for example because they would gain from it",
+        "The chance that a natural disaster affects many policyholders at once"
+      ],
+      "answerIndex": 2,
+      "explanation": "Moral hazard is the human side of risk. If someone would gain from a loss and lose nothing, they might cause it or simply not bother preventing it, which is why the law insists on a genuine interest."
+    },
+    {
+      "id": "m04-q04",
+      "topic": "timing: life",
+      "stem": "For a UK life assurance policy, when must insurable interest exist?",
+      "options": [
+        "At the time of death, when the claim is made",
+        "At every renewal date throughout the policy",
+        "Both at the start of the policy and at the time of the claim",
+        "At inception, when the policy is taken out"
+      ],
+      "answerIndex": 3,
+      "explanation": "Life policies need insurable interest at inception only. It does not have to exist when the claim is made, which suits long-term policies that may run for decades."
+    },
+    {
+      "id": "m04-q05",
+      "topic": "timing: property",
+      "stem": "In law, when must insurable interest exist for property insurance?",
+      "options": [
+        "At the time of the loss",
+        "Only when the policy is first taken out",
+        "Only when the claim form is submitted",
+        "At no particular point, as long as the premium has been paid"
+      ],
+      "answerIndex": 0,
+      "explanation": "Property insurance is about indemnity, so you must have an interest when the loss happens; otherwise you have lost nothing. Insurers also expect an interest at inception in practice."
+    },
+    {
+      "id": "m04-q06",
+      "topic": "timing: liability",
+      "stem": "For liability insurance, when does the policyholder's insurable interest need to exist?",
+      "options": [
+        "Only once a court has found them legally liable",
+        "When the incident giving rise to the possible liability happens",
+        "Only when the injured person first writes to them",
+        "At the start of the policy, and never after"
+      ],
+      "answerIndex": 1,
+      "explanation": "Your interest in liability exists when you could become legally liable, which is when the incident happens. You do not need to wait for a court ruling for the risk to be real."
+    },
+    {
+      "id": "m04-q07",
+      "topic": "Life Assurance Act 1774",
+      "stem": "Which piece of legislation requires insurable interest for life policies in the UK?",
+      "options": [
+        "The Gambling Act 2005",
+        "The Insurance Act 2015",
+        "The Life Assurance Act 1774",
+        "The Marine Insurance Act 1906"
+      ],
+      "answerIndex": 2,
+      "explanation": "The Life Assurance Act 1774 was passed to stop people betting on lives through insurance, and it still governs insurable interest for life policies today."
+    },
+    {
+      "id": "m04-q08",
+      "topic": "Gambling Act 2005",
+      "stem": "What effect did the Gambling Act 2005 have on non-life insurance?",
+      "options": [
+        "It made insurable interest a legal requirement for all motor and home policies",
+        "It abolished the insurable interest rule for life policies",
+        "It banned insurers from writing policies that looked like bets",
+        "It made gambling contracts enforceable, removing the old rule that a non-life policy without interest failed as a wager"
+      ],
+      "answerIndex": 3,
+      "explanation": "Before 2005, a non-life policy without interest was treated as an unenforceable bet. The Gambling Act 2005 made gambling contracts enforceable, removing that rule, but it did not change the 1774 Act for life policies."
+    },
+    {
+      "id": "m04-q09",
+      "topic": "own life",
+      "stem": "How much insurable interest does a person have in their own life?",
+      "options": [
+        "An unlimited amount",
+        "An amount limited to their annual salary",
+        "An amount limited to their outstanding mortgage",
+        "An amount limited to a multiple of income set by the regulator"
+      ],
+      "answerIndex": 0,
+      "explanation": "You have an unlimited insurable interest in your own life. An insurer may still question a very large sum during underwriting, but that is a commercial check, not a legal cap."
+    },
+    {
+      "id": "m04-q10",
+      "topic": "spouse or civil partner",
+      "stem": "What insurable interest do spouses and civil partners have in each other's lives?",
+      "options": [
+        "An interest limited to the amount of household income the other person provides",
+        "An unlimited interest that the law presumes without proof of a figure",
+        "An interest that exists only for married couples, not civil partners",
+        "An interest that only exists if they have children together"
+      ],
+      "answerIndex": 1,
+      "explanation": "Spouses and civil partners have an unlimited interest in each other's lives, presumed by law, so neither has to prove a financial figure."
+    },
+    {
+      "id": "m04-q11",
+      "topic": "mortgage lender",
+      "stem": "Why does a mortgage lender have an insurable interest in the borrower's home?",
+      "options": [
+        "Because the lender shares ownership of the home equally with the borrower",
+        "Because the lender pays the buildings insurance premium",
+        "Because the home is security for the loan, so its destruction would leave the lender exposed",
+        "Because lenders are automatically joint policyholders on every home policy"
+      ],
+      "answerIndex": 2,
+      "explanation": "The home secures the mortgage. If it were destroyed, the lender's security would go, so the lender has an interest up to the amount still owed and often has that interest noted on the policy."
+    },
+    {
+      "id": "m04-q12",
+      "topic": "bailees",
+      "stem": "Which of these is an example of a bailee?",
+      "options": [
+        "A homeowner insuring their own furniture",
+        "A landlord insuring the building they let out",
+        "A lender insuring a borrower's life",
+        "A dry cleaner holding a customer's suit"
+      ],
+      "answerIndex": 3,
+      "explanation": "A bailee looks after goods that belong to someone else, like a dry cleaner, garage or removals firm. Because they are responsible for those goods, they have an insurable interest in them."
+    },
+    {
+      "id": "m04-q13",
+      "topic": "key person",
+      "stem": "How much insurable interest does an employer have in the life of a key employee?",
+      "options": [
+        "An amount limited to the financial loss the business would realistically suffer",
+        "An unlimited amount, as with a spouse",
+        "An amount equal to the employee's pension fund",
+        "None at all, as only family members can insure a life"
+      ],
+      "answerIndex": 0,
+      "explanation": "With key person cover, the business's interest is limited to its realistic financial loss, such as lost profit or the cost of replacing the person. It is not unlimited like a spouse's."
+    },
+    {
+      "id": "m04-q14",
+      "topic": "sources of interest",
+      "stem": "Which of these can create an insurable interest?",
+      "options": [
+        "Paying the premium for a policy on someone else's property",
+        "A contract, such as a lease making a tenant responsible for repairing the building",
+        "Living next door to the property",
+        "Being emotionally attached to an item"
+      ],
+      "answerIndex": 1,
+      "explanation": "Insurable interest arises from ownership, contract or statute. A lease that makes a tenant responsible for the building gives them a financial stake; paying a premium or living nearby does not."
+    },
+    {
+      "id": "m04-q15",
+      "topic": "no interest: life",
+      "stem": "What is the legal status of a UK life policy taken out by someone with no insurable interest in the life insured?",
+      "options": [
+        "It is valid, but the payout is capped at the premiums paid",
+        "It is valid if the policyholder gains an interest at some point before the claim",
+        "It is void under the Life Assurance Act 1774",
+        "It is valid, but the insurer can reduce the claim proportionately"
+      ],
+      "answerIndex": 2,
+      "explanation": "Without insurable interest at inception, a life policy is void under the 1774 Act, treated as if it never existed. Gaining an interest later does not rescue it, because the test is applied at the start."
+    },
+    {
+      "id": "m04-q16",
+      "topic": "life: interest at claim",
+      "stem": "Poppy takes out a life policy on her husband. They divorce three years later, but she keeps paying the premiums. Two years after that, he dies. What happens?",
+      "options": [
+        "The claim fails, because she no longer had an interest when he died",
+        "The claim is reduced in proportion to the years they were married",
+        "The policy was automatically cancelled when the divorce went through",
+        "The claim can be paid, because she had an insurable interest when the policy started"
+      ],
+      "answerIndex": 3,
+      "explanation": "For life policies, interest is needed only at inception. As his wife at the start, she had an unlimited interest, so the later divorce does not stop the claim."
+    },
+    {
+      "id": "m04-q17",
+      "topic": "property: interest at loss",
+      "stem": "Poppy's brother sells his car on Monday but forgets to cancel his car insurance. On Thursday, the new owner crashes it. Can her brother claim for the damage?",
+      "options": [
+        "No, because he had no insurable interest in the car at the time of the loss",
+        "Yes, because he had an insurable interest when the policy started",
+        "Yes, but only for the car's market value on the day he sold it",
+        "Yes, as long as he refunds the sale price to the new owner"
+      ],
+      "answerIndex": 0,
+      "explanation": "Property insurance requires interest at the time of loss. He had already sold the car, so the damage cost him nothing and there is nothing to indemnify."
+    },
+    {
+      "id": "m04-q18",
+      "topic": "bailee scenario",
+      "stem": "A garage is holding a customer's car overnight for repairs when a fire breaks out. Does the garage have an insurable interest in the customer's car?",
+      "options": [
+        "No, because only the registered owner can ever insure a car",
+        "Yes, because as a bailee it is responsible for the car while it is in its care",
+        "No, because the customer's own policy is the only one that can respond",
+        "Yes, but only if the customer has paid for the repairs in advance"
+      ],
+      "answerIndex": 1,
+      "explanation": "The garage is a bailee: it holds goods belonging to someone else and is responsible for them. That responsibility gives it an insurable interest, which is why garages insure customers' vehicles in their care."
+    },
+    {
+      "id": "m04-q19",
+      "topic": "joint owners",
+      "stem": "Poppy and her sister buy a flat together as joint owners. Who has an insurable interest in the flat?",
+      "options": [
+        "Only the person whose name appears first on the deeds",
+        "Only whichever sister lives there full time",
+        "Both sisters, so they would normally insure it in joint names",
+        "Neither, until the mortgage has been fully paid off"
+      ],
+      "answerIndex": 2,
+      "explanation": "Each joint owner would lose out financially if the flat were damaged, so both have an insurable interest. In practice they take out one policy in both names."
+    },
+    {
+      "id": "m04-q20",
+      "topic": "no financial stake",
+      "stem": "Poppy's neighbour loves her Victorian house and says he would be devastated if it burned down. He asks a broker to insure it in his name. What is the problem?",
+      "options": [
+        "There is no problem, as long as he pays the premium",
+        "He would need Poppy's written permission first",
+        "He can insure it, but only for half its rebuild cost",
+        "He has no insurable interest, because a fire would not cause him any financial loss"
+      ],
+      "answerIndex": 3,
+      "explanation": "Insurable interest needs a financial stake recognised by law. Being upset is not a financial loss, so he has no interest, and an indemnity policy would have nothing to pay him for."
+    },
+    {
+      "id": "m04-q21",
+      "topic": "key person scenario",
+      "stem": "A small company wants £5 million of key person cover on its sales director. Its accountant estimates that losing her would cost the business about £400,000. What is the most likely outcome?",
+      "options": [
+        "The insurer limits the cover to a figure that reflects the business's realistic financial loss",
+        "The company can insure her for £5 million because employers have an unlimited interest",
+        "The policy must be taken out in the sales director's name instead",
+        "The cover is void unless the sales director is also a shareholder"
+      ],
+      "answerIndex": 0,
+      "explanation": "An employer's interest in a key employee's life is limited to its realistic financial loss. A sum far above that would be gambling and would raise moral hazard concerns."
+    },
+    {
+      "id": "m04-q22",
+      "topic": "creditor",
+      "stem": "Poppy lends a friend £8,000. She wants to take out a £50,000 policy on her friend's life in case he dies before repaying. What is her insurable interest?",
+      "options": [
+        "£50,000, because she can choose any sum she is willing to pay for",
+        "Up to the £8,000 debt",
+        "Nothing, because only family members can insure a life",
+        "Unlimited, because the friend has agreed to the policy"
+      ],
+      "answerIndex": 1,
+      "explanation": "A creditor's interest in a debtor's life is limited to the amount of the debt. Anything beyond that is not a real financial stake, and the friend's agreement does not change that."
+    },
+    {
+      "id": "m04-q23",
+      "topic": "tenant",
+      "stem": "Poppy rents a flat. The landlord owns the building and the lease makes the landlord responsible for repairs. What can Poppy insure?",
+      "options": [
+        "The whole building, because she lives in it",
+        "Nothing, because tenants have no insurable interest",
+        "Her own belongings and her liability to the landlord",
+        "Only the landlord's fixtures and fittings"
+      ],
+      "answerIndex": 2,
+      "explanation": "As a tenant, Poppy has an interest in her own possessions and in any liability she might have to the landlord. The building belongs to the landlord, and here the lease leaves it as the landlord's responsibility."
+    },
+    {
+      "id": "m04-q24",
+      "topic": "liability scenario",
+      "stem": "Poppy's friend sells her café in May but forgets to cancel her public liability policy. In July, a customer slips on a wet floor at the café. Would her policy respond?",
+      "options": [
+        "Yes, because the policy was still in force in July",
+        "Yes, but only for half the claim",
+        "Only if she still owns the café's furniture",
+        "No, because she had no possible liability for the café by July, so she had no insurable interest"
+      ],
+      "answerIndex": 3,
+      "explanation": "Liability interest exists when the incident happens. By July the café was the new owner's responsibility, so the friend had no liability to protect and nothing for her policy to cover."
+    },
+    {
+      "id": "m04-q25",
+      "topic": "indemnity after 2005",
+      "stem": "Which of these statements about non-life insurance since the Gambling Act 2005 is true?",
+      "options": [
+        "Someone with no interest in a house still cannot recover under an indemnity policy, because they have suffered no loss",
+        "Anyone can now insure any property and claim its full value if it is damaged",
+        "The Act also abolished the insurable interest rule for life policies",
+        "The Act made every non-life policy void unless insurable interest is written into the wording"
+      ],
+      "answerIndex": 0,
+      "explanation": "The 2005 Act removed the old wagering rule, but indemnity still only pays for an actual loss. No interest means no loss, so nothing to pay."
+    },
+    {
+      "id": "m04-q26",
+      "topic": "unmarried partners",
+      "stem": "Which of these statements about insurable interest between partners is true?",
+      "options": [
+        "Unmarried partners have the same automatic unlimited interest as spouses once they have lived together for two years",
+        "Unmarried partners do not automatically have the unlimited interest in each other's lives that spouses and civil partners have",
+        "Civil partners have a limited interest, unlike married couples",
+        "Married couples must prove a financial figure before insuring each other's lives"
+      ],
+      "answerIndex": 1,
+      "explanation": "Only spouses and civil partners get a presumed unlimited interest. Unmarried partners need a genuine financial link, which is why many simply insure their own lives instead."
+    },
+    {
+      "id": "m04-q27",
+      "topic": "consent is not interest",
+      "stem": "Which of these statements is FALSE?",
+      "options": [
+        "A person can insure their own life for any amount, subject to the insurer's underwriting",
+        "A bailee can insure goods it is looking after for someone else",
+        "A life policy without insurable interest becomes valid if the person whose life is insured gives consent",
+        "Insurable interest can arise through a contract"
+      ],
+      "answerIndex": 2,
+      "explanation": "Consent and interest are different things: a life policy without insurable interest is void under the 1774 Act, whatever the life insured agrees to. The other statements are all accurate."
+    },
+    {
+      "id": "m04-q28",
+      "topic": "property interest in practice",
+      "stem": "Which of these statements about insurable interest in property is true?",
+      "options": [
+        "Interest is needed only at inception, so selling the item later makes no difference to a claim",
+        "Property insurers stopped checking insurable interest after the Gambling Act 2005",
+        "Interest is not needed for property as long as the premium has been paid",
+        "Although the legal test is at the time of loss, insurers in practice also expect an interest when cover starts"
+      ],
+      "answerIndex": 3,
+      "explanation": "In law, property interest must exist at the time of loss. Insurers also expect it at inception because they price and accept the risk based on your relationship with the property."
+    },
+    {
+      "id": "m04-q29",
+      "topic": "key person policyholder",
+      "stem": "Which of these statements about key person insurance is true?",
+      "options": [
+        "The business is the policyholder and receives the payout, because it is the business that would suffer the financial loss",
+        "The key employee is the policyholder, and the payout goes to their family",
+        "The business can insure the key employee for any amount it likes",
+        "Key person cover is only available to companies listed on the stock exchange"
+      ],
+      "answerIndex": 0,
+      "explanation": "Key person cover protects the business against the financial hit of losing someone important, so the business holds the policy and receives the money. Its interest is limited to that realistic loss."
+    },
+    {
+      "id": "m04-q30",
+      "topic": "liability interest",
+      "stem": "Which of these statements about insurable interest and liability insurance is true?",
+      "options": [
+        "Liability cover does not need insurable interest because no property is involved",
+        "Only businesses can have an insurable interest in legal liability",
+        "You have an insurable interest in your possible legal liability because a claim against you would cost you money",
+        "An insurable interest in liability only exists once you have been sued"
+      ],
+      "answerIndex": 2,
+      "explanation": "A claim against you would hit your finances, so you have a stake in your possible liability. That applies to individuals, such as a homeowner whose visitor trips on a broken step, as well as to businesses."
+    }
+  ]
+}
