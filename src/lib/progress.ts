@@ -56,7 +56,7 @@ const isExamAttempt = (v: unknown): v is ExamAttempt =>
 
 const isExamInProgress = (v: unknown): v is ExamInProgress =>
   isObj(v) && Array.isArray(v.questions) && v.questions.every((q) => isObj(q) && isStr(q.id) && Array.isArray(q.order)) && Array.isArray(v.answers) && Array.isArray(v.flagged) &&
-  isNum(v.current) && isNum(v.elapsedBefore) && isStr(v.startedAt) && isStr(v.resumedAt)
+  Number.isInteger(v.current) && isNum(v.elapsedBefore) && isStr(v.startedAt) && isStr(v.resumedAt)
 
 /** Throws on anything that is not a v1 progress object; inside one, silently drops entries with the wrong shape. */
 export function coerce(x: unknown): Progress {
@@ -103,7 +103,10 @@ export function importProgress(code: string): Progress {
   try { json = fromBase64(code.replace(/\s+/g, '')) } catch { throw new Error('That code is not valid — check you copied all of it') }
   let parsed: unknown
   try { parsed = JSON.parse(json) } catch { throw new Error('That code is not valid — check you copied all of it') }
-  return coerce(parsed)
+  // An in-progress exam stays on the device it started on, even if a hand-made code carries one.
+  const p = coerce(parsed)
+  delete p.exam.inProgress
+  return p
 }
 
 type ModuleRef = { id: string; order: number }
@@ -139,6 +142,12 @@ export function recordQuizResult(p: Progress, moduleId: string, score: number, n
       },
     },
   }
+}
+
+/** One place to turn an attempt into total / percent / pass, so every screen agrees. Total is the questions actually asked. */
+export function examScore(a: ExamAttempt): { total: number; percent: number; passed: boolean } {
+  const total = Object.values(a.byModule).reduce((s, r) => s + r.total, 0) || EXAM_SIZE
+  return { total, percent: Math.round((a.score / total) * 100), passed: a.score / total >= EXAM_PASS_FRACTION }
 }
 
 export function recordExamAttempt(p: Progress, attempt: ExamAttempt): Progress {

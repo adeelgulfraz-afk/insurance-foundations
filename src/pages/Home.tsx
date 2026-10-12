@@ -3,7 +3,7 @@ import ModuleListItem from '../components/ModuleListItem'
 import ProgressRing from '../components/ProgressRing'
 import { modules, moduleById } from '../content'
 import { useProgress } from '../hooks/useProgress'
-import { EXAM_SIZE, isExamUnlocked, isModuleUnlocked, nextModuleId } from '../lib/progress'
+import { EXAM_SIZE, examScore, isExamUnlocked, isModuleUnlocked, nextModuleId } from '../lib/progress'
 
 export default function Home() {
   const p = useProgress()
@@ -11,7 +11,7 @@ export default function Home() {
   const examOpen = isExamUnlocked(p, modules)
   const next = moduleById(nextModuleId(p, modules) ?? '')
   const inProgress = p.exam.inProgress
-  const bestExam = p.exam.attempts.length ? Math.max(...p.exam.attempts.map((a) => a.score)) : null
+  const bestExam = p.exam.attempts.length ? Math.max(...p.exam.attempts.map((a) => examScore(a).percent)) : null
 
   return (
     <Layout title="Insurance Foundations — built for Poppy">
@@ -48,7 +48,7 @@ export default function Home() {
         {examOpen ? (
           <>
             <p>{EXAM_SIZE} questions from across every module. Pass mark 70%. Untimed — take it at your own pace.</p>
-            {bestExam !== null && <p className="muted">Best so far: {Math.round((bestExam / EXAM_SIZE) * 100)}%</p>}
+            {bestExam !== null && <p className="muted">Best so far: {bestExam}%</p>}
             <a className="btn btn-primary btn-block" href="#/exam">{inProgress ? 'Resume exam' : 'Start the exam'}</a>
           </>
         ) : (

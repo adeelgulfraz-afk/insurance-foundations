@@ -2,7 +2,7 @@ import { useState } from 'react'
 import Layout from '../components/Layout'
 import { modules } from '../content'
 import { progressStore, useProgress } from '../hooks/useProgress'
-import { EXAM_PASS_FRACTION, EXAM_SIZE, exportProgress, importProgress, isModuleUnlocked } from '../lib/progress'
+import { examScore, exportProgress, importProgress, isModuleUnlocked } from '../lib/progress'
 
 const day = (iso: string) => (iso ? new Date(iso).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' }) : '—')
 
@@ -67,11 +67,10 @@ export default function ProgressPage() {
         <h2>Exam attempts</h2>
         {p.exam.attempts.length === 0 ? <p className="muted">None yet.</p> : (
           <ul className="breakdown">
-            {[...p.exam.attempts].reverse().map((a) => {
-              const total = Object.values(a.byModule).reduce((s, r) => s + r.total, 0) || EXAM_SIZE
-              const ok = a.score / total >= EXAM_PASS_FRACTION
+            {[...p.exam.attempts].reverse().map((a, k) => {
+              const { total, passed: ok } = examScore(a)
               return (
-                <li key={a.finishedAt} className="breakdown-head">
+                <li key={k} className="breakdown-head">
                   <span>{day(a.finishedAt)}</span>
                   <span><strong>{a.score}/{total}</strong> <span className={ok ? 'pass' : 'fail'}>{ok ? 'Pass' : 'Not yet'}</span></span>
                 </li>

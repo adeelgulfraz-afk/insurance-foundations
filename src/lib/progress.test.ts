@@ -2,7 +2,7 @@ import { test } from 'node:test'
 import assert from 'node:assert/strict'
 import {
   emptyProgress, load, save, clear, exportProgress, importProgress, isModuleUnlocked, isExamUnlocked,
-  nextModuleId, recordQuizResult, STORAGE_KEY, type Progress,
+  nextModuleId, recordQuizResult, examScore, STORAGE_KEY, EXAM_SIZE, type Progress, type ExamInProgress,
 } from './progress.ts'
 
 const mods = [{ id: 'm01', order: 1 }, { id: 'm02', order: 2 }, { id: 'm03', order: 3 }]
@@ -91,4 +91,28 @@ test('blocked or full storage never throws', () => {
   }
   const full = { ...mem(), setItem: () => { throw new Error('QuotaExceededError') } }
   assert.doesNotThrow(() => save(emptyProgress(), full))
+})
+
+const ip = (over: Partial<ExamInProgress> = {}): ExamInProgress =>
+  ({ startedAt: 'x', elapsedBefore: 0, resumedAt: 'x', questions: [{ id: 'm01-q01', order: [0, 1, 2, 3] }], answers: [null], flagged: [], current: 0, ...over })
+
+test('import drops an inProgress exam even from a hand-made code', () => {
+  const code = btoa(JSON.stringify({ version: 1, modules: {}, exam: { attempts: [], inProgress: ip() } }))
+  assert.equal(importProgress(code).exam.inProgress, undefined)
+})
+
+test('load keeps a valid inProgress but drops one with a non-integer current', () => {
+  const s = mem()
+  s.setItem(STORAGE_KEY, JSON.stringify({ version: 1, modules: {}, exam: { attempts: [], inProgress: ip() } }))
+  assert.deepEqual(load(s).exam.inProgress, ip())
+  s.setItem(STORAGE_KEY, JSON.stringify({ version: 1, modules: {}, exam: { attempts: [], inProgress: ip({ current: 1.5 }) } }))
+  assert.equal(load(s).exam.inProgress, undefined)
+})
+
+test('examScore totals the questions asked, falls back to EXAM_SIZE, and passes at 70%', () => {
+  const a = (score: number, byModule: Record<string, { correct: number; total: number }>) => ({ startedAt: 'x', finishedAt: 'y', score, byModule })
+  assert.deepEqual(examScore(a(70, { m01: { correct: 40, total: 60 }, mixed: { correct: 30, total: 40 } })), { total: 100, percent: 70, passed: true })
+  assert.deepEqual(examScore(a(69, { m01: { correct: 69, total: 100 } })), { total: 100, percent: 69, passed: false })
+  assert.deepEqual(examScore(a(50, {})), { total: EXAM_SIZE, percent: 50, passed: false })
+  assert.deepEqual(examScore(a(8, { m01: { correct: 8, total: 10 } })), { total: 10, percent: 80, passed: true })
 })

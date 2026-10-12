@@ -1,7 +1,7 @@
 import Layout from '../components/Layout'
 import { moduleById } from '../content'
 import { useProgress } from '../hooks/useProgress'
-import { EXAM_PASS_FRACTION } from '../lib/progress'
+import { examScore } from '../lib/progress'
 
 const when = (iso: string) => new Date(iso).toLocaleString('en-GB', { dateStyle: 'medium', timeStyle: 'short' })
 
@@ -21,9 +21,7 @@ export default function ExamResults() {
   const rows = Object.entries(last.byModule)
     .map(([id, r]) => ({ id, ...r, pct: r.total ? r.correct / r.total : 0, title: id === 'mixed' ? 'Mixed scenarios' : moduleById(id)?.title ?? id }))
     .sort((a, b) => a.pct - b.pct)
-  const total = rows.reduce((s, r) => s + r.total, 0)
-  const passed = total > 0 && last.score / total >= EXAM_PASS_FRACTION
-  const pct = total ? Math.round((last.score / total) * 100) : 0
+  const { total, percent: pct, passed } = examScore(last)
 
   return (
     <Layout title="Exam results" back={{ href: '#/', label: 'Home' }}>
