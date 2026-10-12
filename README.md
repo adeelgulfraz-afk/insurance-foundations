@@ -60,6 +60,26 @@ Run `npm run validate` for the whole set before committing.
 
 All content JSON is bundled into the app's single JavaScript file (about 680 kB, 210 kB gzipped). That's fine for this app, so `vite.config.ts` raises Vite's chunk-size warning limit to 800 kB instead of code-splitting. If the content grows past that, the build will warn again.
 
+## Narration (listen to a module)
+
+Each module page has a player that reads the recap, every section and "why this matters" in a natural British voice. The audio is generated once, by hand, on a Mac and committed under `public/audio/<moduleId>/` (one MP3 per part plus `hashes.json`). Nothing runs at build time and nothing costs money.
+
+One-off setup (Kokoro needs Python 3.12; Python 3.14 is too new for its dependencies at the time of writing):
+
+```bash
+brew install espeak-ng python@3.12
+"$(brew --prefix python@3.12)/bin/python3.12" -m venv .venv && .venv/bin/pip install kokoro soundfile
+```
+
+Then, after editing any module text:
+
+```bash
+.venv/bin/python scripts/tts.py          # all modules; only re-records parts whose text changed
+.venv/bin/python scripts/tts.py m05      # one module
+```
+
+`npm run validate` warns (it does not fail) when a module's narration is missing or out of date, naming the part to re-record. The voice is Kokoro's `bf_emma`; change `VOICE` in `scripts/tts.py` and delete `public/audio` to re-record everything with another voice.
+
 ## Adding questions
 
 Every question has this shape:
