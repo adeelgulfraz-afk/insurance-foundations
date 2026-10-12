@@ -1,0 +1,428 @@
+{
+  "id": "m03",
+  "order": 3,
+  "title": "Contract basics & agency",
+  "estimatedMinutes": 15,
+  "recap": [
+    "A contract needs offer, acceptance, consideration, intention to create legal relations and capacity; a counter-offer kills the original offer.",
+    "Insurance forms through proposal, quote and acceptance; a cover note gives binding temporary cover, and the policy is evidence of the contract.",
+    "A broker is normally the client's agent, even when paid commission by the insurer, but can act for the insurer on tasks like delegated authority.",
+    "Authority is actual express, actual implied or apparent (created by the principal's conduct); agents owe care, obedience, good faith, confidentiality and an account of money.",
+    "Consumers get 14 days to cool off (30 for pure protection), and each annual renewal is a new contract, so disclosure applies again."
+  ],
+  "sections": [
+    {
+      "heading": "What makes a contract",
+      "body": "A **contract** is a promise, or a bundle of promises, that the law will enforce. Most are never written down: buying a coffee, tapping onto a bus. Insurance is a contract too, just more carefully worded. For any contract to exist, English law looks for five ingredients.\n\n### Offer\n\nAn **offer** is a clear, definite proposal to be bound on particular terms, made in a way that shows the person means it. \"I'll insure your car for £600 for the next 12 months\" is an offer. It's different from an **invitation to treat**, which only invites people to make offers, like a price tag in a shop window or an advert. At the till, *you* make the offer and the shop accepts.\n\n### Acceptance\n\n**Acceptance** is an unconditional yes to the exact terms on the table, communicated to the person who made the offer. \"Yes, but knock £50 off\" isn't acceptance. It's a **counter-offer**, which kills the original offer and replaces it. Silence doesn't normally count as acceptance either.\n\n### Consideration\n\n**Consideration** is what each side gives in return for the other side's promise: the price of the promise. It must have some value, but needn't be a fair bargain. In insurance, the customer's consideration is the premium, paid or promised, and the insurer's is its promise to pay valid claims. A promise with nothing coming back is a gift, which the law won't normally enforce unless it's made by deed (a formal signed document).\n\n### Intention to create legal relations\n\nBoth sides must intend the deal to be legally binding. The law presumes this for business deals and presumes the opposite for family and social arrangements, so cancelling dinner with your sister won't land you in court. In insurance the intention is never in doubt.\n\n### Capacity\n\nEach party must have the legal **capacity** to make the contract. You know this idea from consent: a patient can only consent if they can understand, retain and weigh up the information and communicate a decision. Similarly, people under 18, people who lack mental capacity at the time, and sometimes people who are very drunk may not be bound by some contracts. A company acts through people authorised to sign for it.\n\nThe consent parallel goes further. Consent is to *this* procedure, as explained. Acceptance is the same: it has to match the offer exactly.\n\nThe contract must also be for a legal purpose, with terms certain enough for a court to work out what was agreed."
+    },
+    {
+      "heading": "How an insurance contract comes together",
+      "body": "Insurance follows the same offer-and-acceptance pattern, with its own vocabulary. The usual journey, whether for a phone policy bought online or a group health scheme placed by a broker:\n\n1. **Proposal.** The customer, called the *proposer*, gives the insurer the information it needs to assess the risk. Traditionally this was a paper **proposal form**; today it's more often an online question set, a phone call or a broker's presentation of the risk. Submitting it is usually treated as the customer's offer to buy cover.\n2. **Quotation.** The insurer's underwriter assesses the risk and comes back with terms: price, excess, any exclusions or special conditions. If the quote gives the customer exactly what they asked for, they just have to say yes. If the insurer changes anything, say by adding an exclusion or raising the excess, that's a counter-offer.\n3. **Acceptance.** Whoever made the last offer, the other side accepts it. Usually that means the customer agreeing to the quote and paying, or agreeing to pay, the premium. At that moment the contract exists, even if no paperwork has arrived.\n4. **Cover note.** Sometimes cover needs to start before the full documents are ready. A **cover note** is a short, temporary document confirming that insurance is in force for a limited period while the policy is prepared. It's a contract of temporary insurance in its own right, so it binds the insurer. It's most familiar in motor insurance, where you legally can't drive without cover.\n5. **Policy.** The **policy** is the formal document setting out the full terms: what's covered, the exclusions, the conditions and how to claim. It's *evidence* of the contract, not the contract itself. Alongside it sits the **schedule**, which holds the details specific to this customer: who's insured, the period of insurance, the sum insured and the premium.\n\nThe proposal stage is like a pre-assessment clinic: the insurer's decision is only as good as the information it gathers. Module 5 covers the customer's duty to give it fairly.\n\nSo the contract can exist before any policy is printed: a valid claim between acceptance and the documents arriving is covered. And if the documents don't match what was agreed, that needs fixing straight away, which is why good brokers check every policy against what they placed."
+    },
+    {
+      "heading": "Agency: who the broker works for",
+      "body": "**Agency** is the legal relationship where one person, the **agent**, is authorised to act for another, the **principal**, in dealings with third parties. When an agent makes a contract within their authority, the principal is bound as if they'd signed it themselves, and the agent usually drops out of the picture.\n\nIn insurance there are three parties: the client, the broker and the insurer.\n\n### Who does the broker act for?\n\nAs a general rule, an **insurance broker is the agent of the client**, the person or business buying the insurance. The broker understands the client's needs, searches the market, presents the risk to insurers and arranges suitable cover. Its loyalty runs to the client.\n\nHere's the twist that catches most newcomers. Brokers are often paid **commission** by the insurer, a percentage of the premium. Who pays the broker does *not* decide who the broker acts for. Brokers must be open about how they're paid.\n\n### When the broker acts for the insurer\n\nFor specific tasks, a broker can wear the insurer's hat. Under a **delegated authority**, often called a *binding authority*, an insurer lets a broker accept risks, issue documents or even handle claims on its behalf, within agreed limits. A broker may also hold premiums as the insurer's agent under a risk transfer arrangement. For those tasks the broker acts for the insurer, and any conflict with the client's interests has to be managed openly.\n\nFor consumers, the Consumer Insurance (Disclosure and Representations) Act 2012 sets out how to decide whose agent an intermediary was for a particular task. The starting point is that they act for the consumer, unless, for example, they had the insurer's authority to collect the information or to agree the cover.\n\n### Why it matters in practice\n\nBecause the broker is normally the client's agent, telling the broker isn't automatically telling the insurer. If the broker fails to pass on something important, the insurer may still have a remedy against the client, and the client may then have a negligence claim against the broker. Hence brokers carry professional indemnity insurance.\n\n### How agency is created\n\nUsually agency is created by **agreement**, in writing (such as a broker's terms of business) or by conduct. It can also arise by **ratification**: someone acts without authority and the principal approves it afterwards, as if the authority existed from the start. Rarer is agency of **necessity**, where someone must act in a genuine emergency to protect another's property and can't get instructions."
+    },
+    {
+      "heading": "Authority and the broker's duties",
+      "body": "An agent can only bind the principal within their **authority**. Think about a referral. When a GP refers a patient to you for dietetic input, you have authority to assess and advise on nutrition, not to change their heart medication because you're in the room. Agency works the same way. There are three kinds of authority.\n\n### Actual express authority\n\nThis is what the principal has explicitly said the agent can do, in words or writing. \"Renew my home insurance with the same insurer and pay up to £400\" is express authority. So is a terms of business agreement listing a broker's services.\n\n### Actual implied authority\n\nThis covers things reasonably necessary or normal to carry out the express authority, even if nobody spelled them out. A broker asked to arrange an employer's group health scheme has implied authority to request claims history from the current insurer and send scheme details to other insurers. That's simply part of doing the job.\n\n### Apparent authority\n\n**Apparent authority**, also called *ostensible* authority, exists where the agent has no real authority but the **principal's** words or conduct led a third party to reasonably believe they did. The principal is then bound. Imagine an insurer has let a broker issue cover notes in its name for years, then quietly withdraws that permission. If the broker issues another cover note and a customer reasonably relies on it, the insurer is likely to be bound.\n\nThe key: apparent authority comes from what the *principal* did or allowed. An agent can't create it just by claiming it. If an agent acts with no authority at all, the principal isn't bound unless it ratifies, and the agent may be personally liable for **breach of warranty of authority**.\n\n### What the broker owes the client\n\nA broker, as agent, must:\n\n- **Follow lawful instructions.** Do what the client asked, and if that isn't possible (say no insurer will offer those terms), tell them promptly rather than improvising.\n- **Use reasonable care and skill.** Meet the standard of a competent broker: understand the client's needs, choose suitable cover, explain key terms, check documents.\n- **Act in good faith.** Put the client's interests first, disclose any conflict of interest and make no secret profit.\n- **Act personally.** Don't hand the work to someone else without consent, apart from routine tasks normally delegated.\n- **Keep confidences.** Use client information only for the client's business.\n- **Account for money.** Keep proper records and hold client money separately from the firm's own funds.\n\nIn return, the principal must pay the agent what was agreed and reimburse proper expenses. Regulated brokers also have FCA duties, including the Consumer Duty, which get their own module."
+    },
+    {
+      "heading": "Cancellation and renewal",
+      "body": "Most general insurance (car, home, travel, pet) runs for a fixed **period of insurance**, usually 12 months. Leaving early and carrying on both have rules.\n\n### Cancelling: the cooling-off period\n\nUnder the FCA's ICOBS rules (the Insurance: Conduct of Business sourcebook), consumers buying most general insurance get a **cooling-off period** of 14 days to cancel without giving a reason. For pure protection products such as life insurance or income protection, it's 30 days. Policies under a month, like a single-trip travel policy, are an exception. The clock usually runs from the later of the day cover starts and the day the customer receives the terms. Cancel within it and you normally pay only for the cover you've had.\n\n### Cancelling after cooling-off\n\nAfter that, cancellation depends on the policy wording. The customer can usually cancel at any time and get a partial refund, often worked out pro rata or on a sliding scale, less an admin fee. Many policies give no refund at all if a claim has been made during the period.\n\nAn insurer can only cancel where the policy gives it that right, typically for non-payment of premium or fraud, and must give the written notice the policy specifies. For a broker, that notice is urgent: the client needs replacement cover before the old cover ends.\n\n### Renewal: a fresh contract each year\n\nFor annual general insurance, **renewal** is legally a new contract, not a continuation. Offer and acceptance happen again, and so does the customer's duty to give accurate information. If something important has changed, such as a business moving premises, the insurer needs to know: a business must disclose it, and a consumer must answer the renewal questions carefully. Equally, the insurer is free to change the terms or decline to renew.\n\nLong-term contracts like life insurance work differently: as long as premiums are paid, the insurer can't refuse to continue cover or re-ask the health questions. Health insurance has its own renewal habits, covered in the health modules.\n\n### Renewal rules that protect customers\n\nRenewal invitations must arrive in good time and show last year's premium alongside the new one. For home and motor insurance, FCA pricing rules mean the renewal price can't exceed what a new customer would be quoted for the same cover through the same sales channel, ending the practice of quietly charging loyal customers more. Customers must also be able to switch off automatic renewal easily.\n\nFor a broker, renewal means checking what's changed, reviewing whether the cover still fits and comparing the market. In group health broking, that's much of the year's real work."
+    }
+  ],
+  "whyItMatters": "As a broker you act as the client's agent: you must work within the authority they give you, with care, good faith and confidentiality, and get each stage of forming, cancelling and renewing cover right, or your client could be left uninsured and your firm liable.",
+  "questions": [
+    {
+      "id": "m03-q01",
+      "topic": "offer",
+      "stem": "In contract law, what is an offer?",
+      "options": [
+        "A clear, definite proposal to be bound on specific terms if the other side says yes",
+        "An invitation for others to start negotiating, such as a price tag in a shop window",
+        "Any statement of price made during a conversation about a possible sale",
+        "A promise that only becomes capable of acceptance once it has been put in writing"
+      ],
+      "answerIndex": 0,
+      "explanation": "An offer shows the person means to be bound on those terms as soon as they're accepted. A shop price tag or advert is usually only an invitation to treat, inviting customers to make offers."
+    },
+    {
+      "id": "m03-q02",
+      "topic": "counter-offer",
+      "stem": "What happens to the original offer when the other party replies with a counter-offer?",
+      "options": [
+        "It stays open, so the person who made the counter-offer can still accept the original terms later",
+        "It is suspended until the counter-offer has been answered, then revives automatically",
+        "It is destroyed, and the counter-offer becomes the new offer that can be accepted or rejected",
+        "It becomes binding on the original terms, with the changes treated as requests"
+      ],
+      "answerIndex": 2,
+      "explanation": "A counter-offer rejects the original offer and replaces it. The person who made the counter-offer can't later fall back on accepting the original terms unless they are offered again."
+    },
+    {
+      "id": "m03-q03",
+      "topic": "consideration in insurance",
+      "stem": "In an insurance contract, what is the customer's consideration?",
+      "options": [
+        "The information they give on the proposal form",
+        "The premium they pay or promise to pay",
+        "The insurer's promise to pay valid claims",
+        "Their financial interest in the thing being insured"
+      ],
+      "answerIndex": 1,
+      "explanation": "Consideration is what each side gives in exchange for the other's promise. The customer gives the premium; the insurer's consideration is its promise to pay valid claims."
+    },
+    {
+      "id": "m03-q04",
+      "topic": "intention to create legal relations",
+      "stem": "What presumption does English law make about intention to create legal relations?",
+      "options": [
+        "Family and social arrangements are presumed to be legally binding, while business agreements must prove it",
+        "Any agreement is presumed binding only once it has been written down and signed",
+        "There are no presumptions, so intention must be proved from scratch in every case",
+        "Business agreements are presumed to be legally binding, while family and social arrangements are presumed not to be"
+      ],
+      "answerIndex": 3,
+      "explanation": "The law assumes commercial deals are meant to be enforceable and that domestic or social promises are not. Clear evidence can overturn either presumption, but insurance is always a commercial deal."
+    },
+    {
+      "id": "m03-q05",
+      "topic": "capacity",
+      "stem": "Which contract ingredient is the closest parallel to a patient needing to understand, retain and weigh up information before giving valid consent?",
+      "options": [
+        "Consideration",
+        "Intention to create legal relations",
+        "Capacity",
+        "Invitation to treat"
+      ],
+      "answerIndex": 2,
+      "explanation": "Capacity is about whether a party is legally able to make the contract at all, just as consent depends on the patient being able to make the decision. Minors and people lacking mental capacity may not be bound by some contracts."
+    },
+    {
+      "id": "m03-q06",
+      "topic": "cover note",
+      "stem": "What is a cover note?",
+      "options": [
+        "A summary of key exclusions that an insurer sends out with a renewal invitation",
+        "A temporary document confirming insurance is in force for a limited period while the full policy is prepared",
+        "A broker's written recommendation explaining which insurer the client should choose",
+        "A letter confirming an insurer is still considering a proposal but hasn't yet agreed to cover it"
+      ],
+      "answerIndex": 1,
+      "explanation": "A cover note gives real, binding cover for a short period before the policy documents are issued. It is a contract of temporary insurance in its own right, not just a progress update."
+    },
+    {
+      "id": "m03-q07",
+      "topic": "policy as evidence",
+      "stem": "What is the relationship between the policy document and the insurance contract?",
+      "options": [
+        "The policy is evidence of the contract, which can already exist before the document is issued",
+        "The contract only comes into existence once the policy document has been signed by both sides",
+        "The policy replaces the contract and cancels anything agreed before it was issued",
+        "The policy is a summary for the customer's information and has no legal significance"
+      ],
+      "answerIndex": 0,
+      "explanation": "The contract is formed by offer and acceptance, often when the customer accepts the quote and pays or agrees to pay. The policy records the terms, so cover can be in place before it arrives."
+    },
+    {
+      "id": "m03-q08",
+      "topic": "policy schedule",
+      "stem": "Which part of the insurance documents holds the details specific to one customer, such as the period of insurance, sum insured and premium?",
+      "options": [
+        "The policy wording",
+        "The schedule",
+        "The proposal form",
+        "The statement of demands and needs"
+      ],
+      "answerIndex": 1,
+      "explanation": "The schedule personalises the policy with the customer's own details. The policy wording sets out the general terms that apply to everyone with that product."
+    },
+    {
+      "id": "m03-q09",
+      "topic": "who the broker acts for",
+      "stem": "As a general rule, whose agent is an insurance broker?",
+      "options": [
+        "The insurer that pays the broker's commission",
+        "Both the client and the insurer equally, on every task",
+        "Whichever insurer the business is finally placed with",
+        "The client buying the insurance"
+      ],
+      "answerIndex": 3,
+      "explanation": "A broker normally acts for the client, finding and arranging suitable cover. Being paid commission by an insurer doesn't change who the broker acts for."
+    },
+    {
+      "id": "m03-q10",
+      "topic": "actual implied authority",
+      "stem": "What is actual implied authority?",
+      "options": [
+        "Authority the principal has spelled out in words or in writing",
+        "Authority a third party reasonably believes the agent has because of the principal's conduct",
+        "Authority to do the things reasonably necessary or normal to carry out what the agent was expressly asked to do",
+        "Authority an agent assumes they have because they've done similar work before"
+      ],
+      "answerIndex": 2,
+      "explanation": "Implied authority fills in the routine steps needed to do the job the principal actually gave. Authority based on a third party's reasonable belief is apparent authority, a different thing."
+    },
+    {
+      "id": "m03-q11",
+      "topic": "apparent authority",
+      "stem": "Apparent (ostensible) authority arises mainly from what?",
+      "options": [
+        "The principal's words or conduct leading a third party to reasonably believe the agent has authority",
+        "The agent's own statements to a third party that they have authority",
+        "A written agreement between the principal and the agent setting out the agent's powers",
+        "The principal approving the agent's act after it has already happened"
+      ],
+      "answerIndex": 0,
+      "explanation": "Apparent authority is rooted in how the principal presented things to the outside world, so an agent can't create it just by claiming it. Approval after the event is ratification."
+    },
+    {
+      "id": "m03-q12",
+      "topic": "ratification",
+      "stem": "What is ratification in agency law?",
+      "options": [
+        "Someone acting to protect another's property in an emergency when they can't get instructions",
+        "A principal formally ending the agency and withdrawing the agent's authority",
+        "An agent confirming in writing the limits of what they are allowed to do",
+        "A principal approving, after the event, an act done on its behalf without authority, making it binding as if authorised from the start"
+      ],
+      "answerIndex": 3,
+      "explanation": "Ratification works backwards: the principal's later approval treats the act as authorised all along. Acting in an emergency without instructions is agency of necessity."
+    },
+    {
+      "id": "m03-q13",
+      "topic": "cooling-off period",
+      "stem": "For most consumer general insurance policies, how long is the cooling-off period under ICOBS?",
+      "options": [
+        "7 days",
+        "14 days",
+        "30 days",
+        "28 days"
+      ],
+      "answerIndex": 1,
+      "explanation": "Consumers usually have 14 days to cancel general insurance without giving a reason. The longer 30-day period applies to pure protection products such as life insurance and income protection."
+    },
+    {
+      "id": "m03-q14",
+      "topic": "delegated authority",
+      "stem": "What is a binding (delegated) authority?",
+      "options": [
+        "An arrangement where a client authorises a broker to sign proposal forms for them",
+        "Permission from the regulator for a firm to carry on insurance broking",
+        "An arrangement where an insurer lets a broker accept risks and issue cover on the insurer's behalf, within agreed limits",
+        "A court order that binds an insurer to pay a disputed claim"
+      ],
+      "answerIndex": 2,
+      "explanation": "Under a delegated authority the broker acts as the insurer's agent for those tasks. That's one of the situations where a broker who usually acts for the client is acting for the insurer instead."
+    },
+    {
+      "id": "m03-q15",
+      "topic": "agent's duties",
+      "stem": "Which of these is a duty an agent owes to its principal?",
+      "options": [
+        "To pay the principal's expenses arising from the agency",
+        "To guarantee that the insurer will pay any claim the client makes",
+        "To share the principal's information with any third party who asks for it",
+        "To make no secret profit from acting as agent"
+      ],
+      "answerIndex": 3,
+      "explanation": "Agents must act in good faith, which includes making no undisclosed profit from their position. Paying expenses runs the other way: it's the principal who reimburses the agent's proper expenses."
+    },
+    {
+      "id": "m03-q16",
+      "topic": "counter-offer scenario",
+      "stem": "Poppy's brother asks for a van insurance quote with a £250 excess. The insurer replies offering cover, but only with a £500 excess. What is the insurer's reply in law?",
+      "options": [
+        "An acceptance of his proposal, so a contract now exists on the £250 excess",
+        "A counter-offer, which her brother can accept or reject",
+        "An invitation to treat with no legal effect at all",
+        "A binding contract on the £500 excess, because the insurer has the final say"
+      ],
+      "answerIndex": 1,
+      "explanation": "By changing the terms, the insurer has rejected the original proposal and made a new offer. No contract exists until her brother accepts the £500 excess, usually by paying or agreeing to pay the premium."
+    },
+    {
+      "id": "m03-q17",
+      "topic": "contract before documents",
+      "stem": "Poppy's friend buys car insurance online on Saturday, accepts the quote for cover starting that day and pays the premium. Her documents arrive on Wednesday, but she has a minor accident on Monday. What's the position?",
+      "options": [
+        "She's covered, because the contract was formed when she accepted the quote and paid; the documents only record it",
+        "She isn't covered, because cover only starts once the policy documents have arrived",
+        "She's only covered if the insurer posted her a paper cover note before Monday",
+        "She isn't covered until her 14-day cooling-off period has ended"
+      ],
+      "answerIndex": 0,
+      "explanation": "Offer and acceptance created the contract on Saturday, and the policy is just evidence of it. The cooling-off period gives her a right to cancel; it doesn't delay the start of cover."
+    },
+    {
+      "id": "m03-q18",
+      "topic": "broker as client's agent",
+      "stem": "A café owner tells her broker she has moved her deep-fat fryer to a new kitchen. The broker forgets to tell the insurer. After a fire, the insurer says it was never told. Which best describes the position?",
+      "options": [
+        "The insurer must pay in full, because anything a broker is told is automatically known to the insurer",
+        "She has no remedy against anyone, because she should have contacted the insurer herself",
+        "Telling her broker isn't automatically telling the insurer, so the insurer may have a remedy, and she may have a claim against the broker",
+        "The broker becomes the policyholder and must deal with the insurer in her place"
+      ],
+      "answerIndex": 2,
+      "explanation": "Because the broker is normally the client's agent, the broker's knowledge isn't automatically the insurer's knowledge. If the broker negligently failed to pass the information on, she can pursue the broker, which is why brokers carry professional indemnity insurance."
+    },
+    {
+      "id": "m03-q19",
+      "topic": "implied authority scenario",
+      "stem": "A company asks its broker to renew its group health scheme on the best terms available. Without being told to, the broker requests the scheme's claims history from the current insurer so other insurers can quote. What authority is the broker using for that step?",
+      "options": [
+        "Apparent authority",
+        "Actual express authority",
+        "Agency of necessity",
+        "Actual implied authority"
+      ],
+      "answerIndex": 3,
+      "explanation": "Requesting claims history is a normal, reasonably necessary step in carrying out the express instruction to renew the scheme. That makes it implied authority, even though nobody spelled it out."
+    },
+    {
+      "id": "m03-q20",
+      "topic": "apparent authority scenario",
+      "stem": "For years an insurer let a broker issue cover notes in its name. It withdraws this permission but tells nobody. The broker then issues a cover note to Poppy's neighbour, who relies on it, and her car is stolen the next day. What's the likely outcome?",
+      "options": [
+        "The insurer isn't bound, because the broker no longer had actual authority",
+        "The insurer is likely to be bound, because its past conduct gave the broker apparent authority",
+        "Only the broker is liable, because it acted outside its express authority",
+        "The insurer is bound only if the neighbour had signed a full proposal form"
+      ],
+      "answerIndex": 1,
+      "explanation": "The insurer's long-standing conduct led customers to reasonably believe the broker could issue cover notes, and it didn't tell anyone that had changed. The neighbour relied on that, so the insurer is likely bound."
+    },
+    {
+      "id": "m03-q21",
+      "topic": "cooling-off scenario",
+      "stem": "Ten days after buying an annual pet insurance policy, Poppy finds a cheaper deal. What can she normally do?",
+      "options": [
+        "Cancel without giving a reason, paying only for the cover she has already had",
+        "Nothing, because the contract was formed when she paid",
+        "Cancel, but she must still pay the full annual premium",
+        "Cancel only if the insurer agrees she has a good reason"
+      ],
+      "answerIndex": 0,
+      "explanation": "As a consumer she's within the 14-day cooling-off period for general insurance, so she can cancel for any reason. She will normally only pay for the time she was on cover."
+    },
+    {
+      "id": "m03-q22",
+      "topic": "disclosure at renewal",
+      "stem": "Poppy's uncle runs a bakery and has installed a wood-fired oven since his insurance started. His policy is due to renew. What should he do?",
+      "options": [
+        "Nothing, because what he said when he first bought the policy carries over until he changes insurer",
+        "Mention it only if he ever needs to make a claim",
+        "Tell the insurer, because renewal is a new contract and the duty to give accurate information applies again",
+        "Wait and mention it at the following year's renewal, once the oven has been in use for a while"
+      ],
+      "answerIndex": 2,
+      "explanation": "Each annual renewal is a fresh contract, so material changes since the last one need to be disclosed. Leaving it out could give the insurer a remedy if he later claims."
+    },
+    {
+      "id": "m03-q23",
+      "topic": "ratification scenario",
+      "stem": "While Poppy's friend is away hiking, her flatmate arranges contents insurance in her name without being asked. When she gets back, she approves the arrangement. What has happened in agency terms?",
+      "options": [
+        "The flatmate acted under agency of necessity, so the friend's approval makes no difference",
+        "The flatmate had apparent authority because they share a flat",
+        "Nothing binding, because a contract made without authority can never later bind the person it was made for",
+        "The friend has ratified the contract, so it binds her as if she had authorised it from the start"
+      ],
+      "answerIndex": 3,
+      "explanation": "Ratification lets a principal adopt an unauthorised act afterwards, which makes it binding as if authorised all along. Arranging insurance isn't a genuine emergency, so necessity doesn't fit."
+    },
+    {
+      "id": "m03-q24",
+      "topic": "conflict of interest",
+      "stem": "An insurer offers a broker a bonus for placing more business with it. The broker steers a client to that insurer without telling the client about the bonus. Which duty is the broker most clearly breaching?",
+      "options": [
+        "The duty to act personally rather than delegate the work",
+        "The duty to act in good faith and avoid undisclosed conflicts of interest",
+        "The duty to keep client information confidential",
+        "The duty to follow the client's lawful instructions"
+      ],
+      "answerIndex": 1,
+      "explanation": "A broker must put the client's interests first and disclose any conflict, including incentives that could sway its advice. Keeping the bonus hidden while steering the client is a classic good-faith breach."
+    },
+    {
+      "id": "m03-q25",
+      "topic": "consideration statements",
+      "stem": "Which statement about consideration is true?",
+      "options": [
+        "Consideration must equal the market value of what the other side provides",
+        "In insurance, the insurer gives no consideration until it actually pays a claim",
+        "Consideration must have some value, but it doesn't have to be a fair price for what's received",
+        "A promise to pay in the future can never count as consideration"
+      ],
+      "answerIndex": 2,
+      "explanation": "The courts check that something of value is exchanged, not whether the bargain is a good one. A promise can be consideration, which is why the insurer's promise to pay claims, and a customer's promise to pay premium, both count."
+    },
+    {
+      "id": "m03-q26",
+      "topic": "broker's dual roles",
+      "stem": "Which statement about who a broker acts for is true?",
+      "options": [
+        "A broker paid commission by an insurer automatically becomes that insurer's agent for everything",
+        "A broker can act for the insurer on specific tasks, such as issuing cover under a delegated authority, while generally acting for the client",
+        "A broker can never act for an insurer in any capacity",
+        "Under the 2012 consumer disclosure Act, an intermediary is always treated as the insurer's agent"
+      ],
+      "answerIndex": 1,
+      "explanation": "The broker's default role is the client's agent, but agency is assessed task by task. Holding a binding authority or collecting premium under a risk transfer arrangement are examples of acting for the insurer."
+    },
+    {
+      "id": "m03-q27",
+      "topic": "renewal statements",
+      "stem": "Which statement about renewing insurance is true?",
+      "options": [
+        "For annual general insurance, each renewal is legally a new contract",
+        "An insurer must offer renewal on the same terms as the previous year",
+        "For home and motor, a renewal price can exceed the new-customer price as long as last year's premium is shown",
+        "Life insurers can re-ask health questions each year before agreeing to continue cover"
+      ],
+      "answerIndex": 0,
+      "explanation": "Annual policies end and are replaced by a new contract, so both sides can change terms. For home and motor, FCA pricing rules stop renewal prices being higher than the equivalent new-customer price."
+    },
+    {
+      "id": "m03-q28",
+      "topic": "apparent authority statements",
+      "stem": "Which statement about apparent authority is FALSE?",
+      "options": [
+        "It can bind the principal even though the agent had no actual authority",
+        "It depends on a third party reasonably relying on what the principal said or did",
+        "An agent can create it simply by telling a third party they have authority",
+        "It is sometimes called ostensible authority"
+      ],
+      "answerIndex": 2,
+      "explanation": "Apparent authority comes from the principal's own representations or conduct, never from the agent's say-so alone. Where it exists, it binds the principal despite the lack of actual authority."
+    },
+    {
+      "id": "m03-q29",
+      "topic": "insurer cancellation",
+      "stem": "Which statement about an insurer cancelling a policy mid-term is true?",
+      "options": [
+        "It can cancel at any moment, without notice, if the risk turns out to be more expensive than expected",
+        "Once the cooling-off period has ended, neither side can cancel before the policy expires",
+        "It must refund the full annual premium whatever the reason for cancelling",
+        "It can only cancel where the policy gives it that right, and it must give the notice the policy specifies"
+      ],
+      "answerIndex": 3,
+      "explanation": "An insurer's right to cancel comes from the policy wording, typically for reasons like non-payment or fraud, with a stated period of written notice. The customer can usually cancel too, often with a partial refund."
+    },
+    {
+      "id": "m03-q30",
+      "topic": "forming the contract",
+      "stem": "Which statement about how an insurance contract forms is FALSE?",
+      "options": [
+        "A cover note is an informal reassurance that cannot bind the insurer",
+        "Submitting a proposal is usually treated as the customer's offer to buy cover",
+        "An insurer that changes the excess in its quote is making a counter-offer",
+        "The policy wording sets out the full terms, including exclusions and conditions"
+      ],
+      "answerIndex": 0,
+      "explanation": "A cover note is a binding contract of temporary insurance, giving real cover while the full policy is prepared. The other three describe the normal stages of forming and documenting the contract accurately."
+    }
+  ]
+}
