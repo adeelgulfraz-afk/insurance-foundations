@@ -15,7 +15,7 @@ export default function App() {
   useEffect(() => { if (route.name !== 'module') window.scrollTo(0, 0) }, [path]) // eslint-disable-line react-hooks/exhaustive-deps
   switch (route.name) {
     case 'home': return <Home />
-    case 'module': return <ModuleRead id={route.id} />
+    case 'module': return <ModuleRead key={route.id} id={route.id} />
     case 'quiz': return <ModuleQuiz id={route.id} />
     case 'exam': return <Exam />
     case 'examResults': return <ExamResults />

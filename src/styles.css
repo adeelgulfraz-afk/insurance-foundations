@@ -240,4 +240,3 @@ footer.page-foot a { display: inline-flex; align-items: center; min-height: 44px
   font-size: 0.8rem; cursor: pointer;
 }
 .btn-play:hover { border-color: var(--accent); }
-.eyebrow .btn-play { min-height: 32px; min-width: 32px; }
