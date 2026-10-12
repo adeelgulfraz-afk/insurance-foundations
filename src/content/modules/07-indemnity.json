@@ -1,0 +1,432 @@
+{
+  "id": "m07",
+  "order": 7,
+  "title": "Indemnity",
+  "estimatedMinutes": 15,
+  "recap": [
+    "Indemnity puts you back in the same financial position as just before the loss: no better, no worse.",
+    "Loss is measured by market value, reinstatement (rebuild cost), new-for-old or agreed value; for liability it's the damages plus costs.",
+    "Insurers settle by cash, repair, replacement or reinstatement, and excesses and sums insured shape what's paid.",
+    "Average cuts claims pro rata when underinsured: £40,000 of contents insured for £20,000 means a £4,000 loss pays £2,000.",
+    "Benefit policies (life, personal accident, critical illness, income protection) pay agreed sums, not indemnity; PMI pays actual costs."
+  ],
+  "sections": [
+    {
+      "heading": "Back to where you were",
+      "body": "An indemnity policy promises to put you back in the same financial position you were in immediately before the loss. No better off, no worse off. Just back where you were.\n\nYou know this idea from clinical work. After an acute episode, the goal is usually to get someone back to their baseline, not to turn them into a marathon runner. Indemnity is the financial version of returning someone to baseline.\n\n### Why \"no better\" matters\n\nThe \"no better\" half matters as much as the \"no worse\" half. If a claim could leave you better off, insurance would start to look like a way of making money, and some people would be tempted to let losses happen, or invent them. That's **moral hazard**: the way someone's attitude or behaviour can make a loss more likely or bigger.\n\nHolding everyone to their pre-loss position keeps the pool fair: premiums buy protection from loss, not a profit. The \"no worse\" half is the promise you're actually buying: if a pipe bursts and ruins your kitchen, the financial hole gets filled.\n\n### What \"financial position\" means\n\nNotice the word *financial*. Insurance can't undo the stress of a burglary or give you back a grandparent's ring. It deals in money and the things money can buy. So indemnity is about the financial value of what was lost, measured at the moment just before the loss, not when you bought the item or took out the policy.\n\nA sofa you bought for £1,500 five years ago is worth less today after five years of family life. Under strict indemnity, that lower figure is what you'd be paid.\n\nThe rest of this module covers how the loss is valued, how it's settled, and what can shrink or cap the payment."
+    },
+    {
+      "heading": "Measuring the loss",
+      "body": "First, someone has to put a number on \"where you were\". Which method applies depends on the property and the policy wording.\n\n### Market value\n\nFor many things, indemnity means **market value**: what it would cost to buy an equivalent item, in the same condition, at the time of the loss. Cars are the classic example. If your car is written off, the insurer pays what a car of the same make, model, age, mileage and condition would have sold for just before the accident. Not what you paid, and not the price of a new one.\n\nMarket value builds in a deduction for **wear and tear** (the loss of value through age and use), which is exactly what strict indemnity asks for.\n\n### Reinstatement\n\nFor buildings, market value is the wrong yardstick. A house's sale price includes the land and the location, and neither of those burns down. What you need after a fire is enough to rebuild. So buildings are usually insured on a **reinstatement** basis: the cost of rebuilding to the same size and standard as before, often including demolition, site clearance and professional fees.\n\nSo rebuild cost and sale price can be very different: a city flat may sell for far more than it would cost to rebuild.\n\n### New-for-old\n\nMost UK home contents policies are written on a **new-for-old** basis. If your three-year-old TV is stolen, you get a brand-new equivalent with no deduction for age. Strictly, that's better than indemnity, because you end up with something newer than you had. The insurer agrees to it in the contract and prices the premium to match. Some items, often clothing and household linen, may still have a deduction for wear and tear, depending on the wording.\n\n### Agreed value\n\nSome things are hard to value once they've gone: a classic car, a painting, an antique necklace. For these, insurer and customer can agree a value up front, usually backed by a professional valuation. If the item is totally lost, the **agreed value** is paid without arguing over what it was \"really\" worth.\n\n### Liability claims\n\nLiability insurance covers you when you're legally responsible for injuring someone or damaging their property. There's no item of yours to value, so indemnity means paying the **damages** you owe (the compensation a court awards or that's agreed in a settlement), plus the claimant's legal costs you're ordered to pay, and usually your own defence costs if the insurer agreed them."
+    },
+    {
+      "heading": "How insurers settle a claim",
+      "body": "Once the loss is valued, the insurer has to actually put you back. There are four methods, and most policies let the insurer choose.\n\n1. **Cash.** The most common method. The insurer pays you (or sometimes the repairer, or a lender with an interest in the property) a sum of money.\n2. **Repair.** The insurer arranges and pays for the item to be fixed. Motor insurers do this all the time through approved repairers, and home insurers send contractors for leaks and storm damage.\n3. **Replacement.** The insurer supplies a replacement instead of money. Insurers buy phones, laptops, jewellery and glass in bulk at a discount, so replacing can cost them less than paying you the retail price in cash. That's why you might be offered a voucher or a new item rather than a payment.\n4. **Reinstatement.** The insurer takes charge of rebuilding or restoring the property, usually a building, to its previous condition. It's rare, because once an insurer starts rebuilding it's committed to finishing, even if the costs overrun.\n\nDon't mix up reinstatement as a *method* (the insurer does the rebuilding) with reinstatement as a *basis of valuation* (the claim is measured by the cost of rebuilding). Most buildings claims are valued on a reinstatement basis but settled in cash or by paying contractors.\n\n### Why the insurer gets to choose\n\nLetting the insurer choose helps keep claims at true indemnity. If you could always insist on cash at full retail price when the insurer could replace the item for less, you'd be pocketing the difference.\n\nThat choice still has to be used fairly. Under the FCA's Consumer Duty, insurers dealing with retail customers must avoid causing foreseeable harm. A replacement offer that leaves someone genuinely worse off, such as a voucher for a shop that doesn't stock what they need, is exactly the sort of thing a good broker challenges."
+    },
+    {
+      "heading": "Excesses, sums insured and limits",
+      "body": "Two things shape the final figure: what you pay yourself, and the ceiling on what the insurer pays.\n\n### Excesses and deductibles\n\nAn **excess** is the first part of a claim that you pay yourself. If your phone insurance has a £100 excess and the repair costs £350, the insurer pays £250. If the repair costs £80, there's nothing to claim.\n\nExcesses cut out small claims that would cost more to handle than they're worth, keep premiums down, and give the policyholder a reason to take care. You'll meet a few versions:\n\n- A **compulsory excess** is set by the insurer and can't be removed.\n- A **voluntary excess** is extra excess you choose to carry in return for a lower premium, common in car insurance.\n- A **deductible** is the same idea, but the word is mostly used in commercial insurance, often for bigger amounts. A business might carry a £25,000 deductible because it can easily absorb smaller losses.\n- A **franchise** is rarer: below the franchise amount you get nothing, but once the loss goes over it, the whole loss is paid.\n\nAn excess doesn't break the indemnity principle. You agreed to it, so the indemnity you bought was \"everything above the excess\".\n\n### Sums insured and limits of indemnity\n\nEvery policy has a ceiling. In property insurance it's the **sum insured**: the maximum the insurer will pay, which you choose when you buy the policy. In liability insurance it's the **limit of indemnity**, often set per claim or per event, such as £5 million any one occurrence for public liability.\n\nThe sum insured is a *maximum*, not a promise. Insure your contents for £50,000, lose £3,000 of belongings, and you get £3,000 (less any excess), not £50,000. Insurance pays the loss, not the sum insured.\n\nPolicies also have smaller **inner limits** inside the main one. A contents policy might cap any single item at £2,000 unless it's listed separately, or limit cash and valuables to a set amount. These catch people out, which is why brokers ask about expensive items."
+    },
+    {
+      "heading": "Underinsurance, average and betterment",
+      "body": "### Underinsurance\n\n**Underinsurance** means the sum insured is lower than the real value of what's covered. It's common: people guess low, or forget to update after buying things or doing building work.\n\nThe obvious result is that a total loss isn't fully covered. Insure a home that costs £300,000 to rebuild for £200,000, and £200,000 is the most you'll get. The less obvious result comes from a clause called average.\n\n### The condition of average\n\nPremiums are based on the sum insured, so insuring for half the true value means paying roughly half the premium you should. That's unfair on everyone else in the pool. So many policies include a **condition of average**, also called the pro rata condition: if you're underinsured, every claim is cut in proportion.\n\nThe formula:\n\n**Claim paid = loss × (sum insured ÷ full value at risk)**\n\nA worked example. Poppy's friend has contents that would cost £40,000 to replace, but she insured them for £20,000. A burst pipe causes £4,000 of damage. She's insured for half the true value (£20,000 ÷ £40,000), so the insurer pays half the loss: £2,000. She carries the other £2,000 herself, even though the loss was well under her sum insured.\n\nWorth knowing:\n\n- Average only applies if the policy includes it. Marine insurance is the exception, where it applies by law.\n- It bites on partial losses, not just total ones.\n- Some home policies allow a margin of tolerance before applying it, so always check the wording.\n- Commercial property policies almost always include it.\n\n### Betterment\n\n**Betterment** is the opposite problem: the repair or replacement leaves you better off than before. Say a storm damages a 25-year-old garage roof that was near the end of its life anyway. A new roof is worth far more than the old one. Under strict indemnity, the insurer can ask you to pay towards that improvement.\n\nBetterment deductions turn up mostly in motor claims (a worn part replaced with a new one) and commercial property claims. On new-for-old and reinstatement cover, the insurer has generally agreed in advance not to make this deduction, which is part of what the premium pays for."
+    },
+    {
+      "heading": "Policies that aren't indemnity",
+      "body": "Everything so far assumes you can put a price on the loss. Some losses can't be priced that way. What's a life worth? There's no market value, so indemnity doesn't fit.\n\nInstead, these are **benefit policies**: they pay a fixed or pre-agreed sum when a defined event happens, whatever the \"actual\" financial loss. You choose the amount when you buy, within the insurer's limits, and that's what's paid.\n\n- **Life insurance** pays a set sum if the insured person dies during the policy term.\n- **Personal accident** pays set amounts for defined injuries, such as a lump sum for loss of a limb, or a weekly amount if you can't work after an accident.\n- **Critical illness** pays a lump sum on diagnosis of a listed condition, such as certain cancers, heart attacks or strokes, as defined in the policy.\n- **Income protection** pays a regular monthly benefit if illness or injury stops you working. Insurers usually cap it at a proportion of your earnings, so there's still a reason to return to work.\n\nBecause there's nothing to measure, the tools from earlier don't apply in the same way. There's no average and no betterment. Contribution and subrogation, which you'll meet in the next module, also flow from indemnity, so they don't normally apply either. Hold two life policies and both pay in full.\n\n### Where health insurance sits\n\nHealth and protection products are a mix of both types. **Private medical insurance** (PMI) mostly works on indemnity lines: it pays the actual cost of eligible treatment, up to the policy's limits. A £6,000 hospital bill gets paid (less any excess), not a fixed sum.\n\nMany products sold alongside it, such as critical illness, income protection, life cover and hospital cash plans that pay a set amount per night in hospital, are benefit products. Travel insurance shows both side by side: the medical expenses section pays real costs, while the personal accident section pays fixed sums.\n\nYou'll go deeper in module 12. For now, ask one question of any policy: *does it pay what was actually lost, or an amount agreed up front?* The answer tells you which set of rules applies."
+    }
+  ],
+  "whyItMatters": "Underinsurance and the wrong basis of cover cause some of the most painful claim conversations a broker has, so getting sums insured, excesses and the valuation basis right at the start is one of the most practical ways you protect a client. In health broking you'll also need to explain clearly which products pay actual costs and which pay a fixed benefit.",
+  "questions": [
+    {
+      "id": "m07-q01",
+      "topic": "principle of indemnity",
+      "stem": "What is the core aim of the principle of indemnity?",
+      "options": [
+        "To put the insured back in the same financial position they were in immediately before the loss",
+        "To pay the full sum insured whenever a valid claim is made",
+        "To replace any lost or damaged property with a brand-new item",
+        "To refund the price the insured originally paid for the lost item"
+      ],
+      "answerIndex": 0,
+      "explanation": "Indemnity restores the insured's financial position as it stood just before the loss, no better and no worse. The sum insured is only a ceiling, and the original purchase price ignores what the item was worth at the time."
+    },
+    {
+      "id": "m07-q02",
+      "topic": "purpose of indemnity",
+      "stem": "Why do insurers insist that a claim should not leave the policyholder better off than before the loss?",
+      "options": [
+        "Because the Insurance Act 2015 sets a fixed maximum on every claim",
+        "Because profiting from a claim would encourage people to let losses happen or invent them",
+        "Because it lets insurers avoid paying the excess on a claim",
+        "Because premiums must be refunded whenever a claim is paid"
+      ],
+      "answerIndex": 1,
+      "explanation": "If insurance could make you better off, it would create moral hazard, tempting people to cause or exaggerate losses. Keeping everyone at their pre-loss position keeps the pool fair for all policyholders."
+    },
+    {
+      "id": "m07-q03",
+      "topic": "market value",
+      "stem": "Which basis of valuation builds in a deduction for wear and tear?",
+      "options": [
+        "New-for-old",
+        "Agreed value",
+        "Market value",
+        "Reinstatement"
+      ],
+      "answerIndex": 2,
+      "explanation": "Market value is what an equivalent item in the same condition would cost at the time of loss, so age and use are already reflected. New-for-old and agreed value deliberately avoid that kind of argument about depreciation."
+    },
+    {
+      "id": "m07-q04",
+      "topic": "reinstatement basis",
+      "stem": "A buildings policy is written on a reinstatement basis. What does that mean the claim is measured by?",
+      "options": [
+        "The price the house would sell for on the open market",
+        "The price paid for the property, adjusted for inflation",
+        "The combined value of the land and the building",
+        "The cost of rebuilding the property to the same size and standard as before"
+      ],
+      "answerIndex": 3,
+      "explanation": "Reinstatement means the cost of rebuilding, because land and location aren't destroyed by fire or flood. That's why rebuild cost and sale price can be very different numbers."
+    },
+    {
+      "id": "m07-q05",
+      "topic": "new-for-old",
+      "stem": "How does a new-for-old home contents policy usually settle a claim for a stolen three-year-old TV?",
+      "options": [
+        "It provides a new equivalent TV with no deduction for its age",
+        "It provides a second-hand TV of a similar age",
+        "It pays the price the policyholder originally paid for the TV",
+        "It pays a value for the TV fixed when the policy started"
+      ],
+      "answerIndex": 0,
+      "explanation": "New-for-old replaces items with new equivalents without deducting for wear and tear. It goes beyond strict indemnity, which is why the insurer agrees it in the contract and prices for it."
+    },
+    {
+      "id": "m07-q06",
+      "topic": "agreed value",
+      "stem": "What is an agreed value policy?",
+      "options": [
+        "One where a loss adjuster agrees the market value after the loss",
+        "One where insurer and policyholder fix the item's value at the start, and that figure is paid on a total loss",
+        "One where the insurer pays whatever the policyholder says the item was worth after it was lost",
+        "One where the sum insured reduces each year to reflect depreciation"
+      ],
+      "answerIndex": 1,
+      "explanation": "With agreed value, the value is settled up front, usually backed by a professional valuation. It suits things that are hard to value after they've gone, like classic cars or artwork."
+    },
+    {
+      "id": "m07-q07",
+      "topic": "liability indemnity",
+      "stem": "Under a liability policy, what does indemnity usually consist of?",
+      "options": [
+        "The market value of the insured's own property damaged in the incident",
+        "A fixed sum agreed when the policy was taken out",
+        "The damages the insured is legally liable to pay, plus the associated legal costs",
+        "Only the cost of defending the claim, not the damages themselves"
+      ],
+      "answerIndex": 2,
+      "explanation": "Liability indemnity pays what the insured owes the injured party plus the claimant's costs and, usually, agreed defence costs. There's no item of the insured's own to value."
+    },
+    {
+      "id": "m07-q08",
+      "topic": "methods of indemnity",
+      "stem": "Which of these is NOT one of the four methods an insurer uses to provide indemnity?",
+      "options": [
+        "Repair",
+        "Replacement",
+        "Reinstatement",
+        "Subrogation"
+      ],
+      "answerIndex": 3,
+      "explanation": "The four methods are cash, repair, replacement and reinstatement. Subrogation is a separate principle about the insurer recovering its outlay from a third party who caused the loss."
+    },
+    {
+      "id": "m07-q09",
+      "topic": "replacement method",
+      "stem": "Why might an insurer choose to replace a stolen laptop rather than pay cash?",
+      "options": [
+        "It can often buy the item at a discount, so replacing costs less than paying the full retail price",
+        "The law requires replacement for any item worth under £1,000",
+        "Replacing an item means no excess can be applied",
+        "Replacement always gives the policyholder a better item than they had"
+      ],
+      "answerIndex": 0,
+      "explanation": "Insurers buy in bulk at discounted prices, so replacement can be cheaper than cash and still restores the insured fully. Paying full retail cash when replacement costs less would hand the insured a profit."
+    },
+    {
+      "id": "m07-q10",
+      "topic": "reinstatement method",
+      "stem": "Why do insurers rarely choose reinstatement as the method of settling a claim?",
+      "options": [
+        "The FCA does not allow it for home insurance",
+        "Once the insurer starts rebuilding, it is committed to finishing the job even if costs overrun",
+        "It is only available under agreed value policies",
+        "The policyholder must pay any betterment in full before work can begin"
+      ],
+      "answerIndex": 1,
+      "explanation": "Taking charge of the rebuild means the insurer carries the risk of the costs running higher than expected. Most buildings claims are valued on a rebuild basis but settled in cash or by paying contractors."
+    },
+    {
+      "id": "m07-q11",
+      "topic": "excess",
+      "stem": "In an insurance policy, what is an excess?",
+      "options": [
+        "The maximum amount the insurer will pay under the policy",
+        "An extra premium charged after the policyholder makes a claim",
+        "The first part of each claim that the policyholder pays themselves",
+        "The amount a claim is reduced by because of underinsurance"
+      ],
+      "answerIndex": 2,
+      "explanation": "An excess is the policyholder's own share at the start of each claim. The maximum the insurer pays is the sum insured or limit, and reductions for underinsurance come from average."
+    },
+    {
+      "id": "m07-q12",
+      "topic": "voluntary excess",
+      "stem": "What is a voluntary excess?",
+      "options": [
+        "An excess set by the insurer that cannot be removed",
+        "An excess used only in commercial insurance, usually for large amounts",
+        "An amount below which nothing is paid but above which the whole loss is paid",
+        "An extra excess the policyholder chooses to carry in return for a lower premium"
+      ],
+      "answerIndex": 3,
+      "explanation": "A voluntary excess is chosen by the customer on top of any compulsory excess, trading a bigger share of each claim for a cheaper premium. The all-or-nothing threshold describes a franchise, which works differently."
+    },
+    {
+      "id": "m07-q13",
+      "topic": "condition of average",
+      "stem": "What does the condition of average do?",
+      "options": [
+        "It reduces a claim in proportion to how far the property is underinsured",
+        "It pays the average of several valuations obtained after a loss",
+        "It reduces each claim by the average excess used across the market",
+        "It caps claims at the average claim size for that type of policy"
+      ],
+      "answerIndex": 0,
+      "explanation": "Average, also called the pro rata condition, scales the claim down by the ratio of sum insured to full value. It exists because an underinsured customer has paid less premium than the risk deserves."
+    },
+    {
+      "id": "m07-q14",
+      "topic": "betterment",
+      "stem": "In insurance, what does betterment mean?",
+      "options": [
+        "An extra benefit paid to customers who haven't claimed for several years",
+        "The improvement in value when a repair or replacement leaves the insured better off than before",
+        "The gap between the sum insured and the property's real value",
+        "An upgrade to the level of cover offered at renewal"
+      ],
+      "answerIndex": 1,
+      "explanation": "Betterment is the gain the insured would get when old property is replaced or repaired with new. Under strict indemnity the insurer can ask the insured to contribute towards it; the gap between sum insured and value is underinsurance."
+    },
+    {
+      "id": "m07-q15",
+      "topic": "benefit policies",
+      "stem": "Why is life insurance written as a benefit policy rather than an indemnity policy?",
+      "options": [
+        "Because life policies have no sum insured",
+        "Because insurable interest never applies to life insurance",
+        "Because there's no way to put a market value on a human life, so a sum is agreed in advance",
+        "Because life insurers are exempt from indemnity under the Insurance Act 2015"
+      ],
+      "answerIndex": 2,
+      "explanation": "A life can't be valued like a car or a house, so the policyholder chooses a sum and that's what's paid. Life policies do have a chosen sum, and insurable interest still applies at the start."
+    },
+    {
+      "id": "m07-q16",
+      "topic": "average calculation",
+      "stem": "Poppy's friend's café has stock and equipment that would cost £80,000 to replace, but they are insured for £60,000 under a policy with an average clause. A flood causes £8,000 of damage. Ignoring any excess, how much will the insurer pay?",
+      "options": [
+        "£8,000, because the loss is well below the sum insured",
+        "£2,000, the amount of the underinsurance shortfall",
+        "£4,000, half of the loss",
+        "£6,000, three quarters of the loss"
+      ],
+      "answerIndex": 3,
+      "explanation": "The café is insured for three quarters of its value (£60,000 ÷ £80,000), so average pays three quarters of the £8,000 loss, which is £6,000. Average applies to partial losses even when they're below the sum insured."
+    },
+    {
+      "id": "m07-q17",
+      "topic": "market value scenario",
+      "stem": "Her brother bought his car four years ago for £18,000. A similar car of the same age, mileage and condition sold for £9,500 just before it was written off, and a new equivalent costs £21,000. Ignoring the excess, what will a standard motor policy pay?",
+      "options": [
+        "£9,500, the market value just before the accident",
+        "£18,000, the price he originally paid",
+        "£21,000, the cost of a new equivalent car",
+        "£13,750, halfway between the purchase price and the market value"
+      ],
+      "answerIndex": 0,
+      "explanation": "Motor write-offs are normally settled at market value at the time of loss, which reflects age and wear. Paying the purchase price or a new car's price would leave him better off than before the accident."
+    },
+    {
+      "id": "m07-q18",
+      "topic": "excess scenario",
+      "stem": "Poppy's phone insurance has a £75 excess. She cracks the screen and the repair costs £300. How much does the insurer pay?",
+      "options": [
+        "£300",
+        "£225",
+        "£375",
+        "£75"
+      ],
+      "answerIndex": 1,
+      "explanation": "The insurer pays the loss minus the excess, so £300 less £75 is £225. The excess is always the policyholder's share, never an extra amount the insurer adds."
+    },
+    {
+      "id": "m07-q19",
+      "topic": "rebuild cost scenario",
+      "stem": "Poppy's aunt's cottage would sell for £450,000, but a surveyor says it would cost £280,000 to rebuild. What should the buildings sum insured be based on?",
+      "options": [
+        "The £450,000 sale price",
+        "The amount left on her mortgage",
+        "The £280,000 rebuild cost",
+        "The price she paid for the cottage plus inflation"
+      ],
+      "answerIndex": 2,
+      "explanation": "Buildings cover is normally on a reinstatement basis, so the sum insured should reflect what it costs to rebuild. The sale price includes land and location, which a fire or flood doesn't destroy."
+    },
+    {
+      "id": "m07-q20",
+      "topic": "betterment scenario",
+      "stem": "A storm damages the 30-year-old roof of a workshop, which was near the end of its life. The commercial property insurer pays for a new roof but asks the owner to contribute towards it. What is this contribution most likely for?",
+      "options": [
+        "Average, because the owner must be underinsured",
+        "An excess, because every claim carries one",
+        "Contribution, because two insurers must share the loss",
+        "Betterment, because a new roof leaves the owner better off than before"
+      ],
+      "answerIndex": 3,
+      "explanation": "Swapping a worn-out roof for a new one improves the owner's position, and strict indemnity lets the insurer ask for a contribution to that gain. Average needs underinsurance, and contribution involves two insurers covering the same loss."
+    },
+    {
+      "id": "m07-q21",
+      "topic": "liability scenario",
+      "stem": "A customer slips in Poppy's friend's café. The court awards £12,000 damages and orders the café to pay the customer's £5,000 legal costs. The public liability limit is £2 million. What will the insurer normally pay?",
+      "options": [
+        "The £12,000 damages and the £5,000 costs, plus any defence costs it agreed",
+        "£2 million, the full limit of indemnity",
+        "Only the £12,000 damages, as legal costs are never covered",
+        "£12,000 reduced pro rata because the limit is so much higher than the claim"
+      ],
+      "answerIndex": 0,
+      "explanation": "Liability indemnity covers what the insured is legally liable to pay, including the claimant's costs, up to the limit. The limit is a ceiling, not the amount paid, and a high limit doesn't trigger any reduction."
+    },
+    {
+      "id": "m07-q22",
+      "topic": "benefit policy scenario",
+      "stem": "Poppy's colleague holds two critical illness policies, one for £50,000 and one for £30,000. She is diagnosed with a condition covered by both. What happens?",
+      "options": [
+        "The two insurers share £50,000 between them",
+        "Both policies pay in full, £80,000 in total, because they are benefit policies",
+        "Only the policy taken out first pays",
+        "Each pays a proportion so she isn't left better off"
+      ],
+      "answerIndex": 1,
+      "explanation": "Critical illness pays an agreed lump sum, not a measured loss, so indemnity limits don't apply and both policies pay. Sharing a loss between insurers is a feature of indemnity policies."
+    },
+    {
+      "id": "m07-q23",
+      "topic": "sum insured as a maximum",
+      "stem": "Poppy cancels a holiday because of illness, losing £900 of non-refundable costs. Her travel policy has a £3,000 cancellation limit and a £50 excess. What should the insurer pay?",
+      "options": [
+        "£3,000, the cancellation limit",
+        "£900, as no excess applies to cancellation",
+        "£850, her actual loss less the excess",
+        "£2,950, the limit less the excess"
+      ],
+      "answerIndex": 2,
+      "explanation": "The cancellation section reimburses the real loss, so she's paid £900 minus the £50 excess. The £3,000 is only the most the insurer would pay, not what it pays on every claim."
+    },
+    {
+      "id": "m07-q24",
+      "topic": "insurer's choice of method",
+      "stem": "A burglar steals Poppy's friend's three-year-old laptop. Her contents policy is new-for-old, and the insurer offers a new laptop of the same specification from its supplier. She would prefer cash at full retail price. Which is most accurate?",
+      "options": [
+        "She is legally entitled to cash at full retail price",
+        "The insurer must deduct three years of wear and tear",
+        "The insurer must pay what she originally paid for the laptop",
+        "Most policies let the insurer choose the method, and a new equivalent laptop meets the new-for-old promise"
+      ],
+      "answerIndex": 3,
+      "explanation": "Policies usually give the insurer the choice of cash, repair, replacement or reinstatement, and a new equivalent fully restores her under new-for-old. Where the policy gives the insurer that choice, she can't insist on full retail cash instead."
+    },
+    {
+      "id": "m07-q25",
+      "topic": "average statements",
+      "stem": "Which statement about the condition of average is true?",
+      "options": [
+        "It can reduce a claim for a partial loss, even when the loss is well below the sum insured",
+        "It only applies when there is a total loss",
+        "It applies automatically to every UK home insurance policy by law",
+        "It increases the claim if the property is overinsured"
+      ],
+      "answerIndex": 0,
+      "explanation": "Average scales down every claim by the ratio of sum insured to value, so even small partial losses are cut. It applies only if the wording includes it, except in marine insurance."
+    },
+    {
+      "id": "m07-q26",
+      "topic": "new-for-old statements",
+      "stem": "Which statement about new-for-old cover is true?",
+      "options": [
+        "It is the standard basis for settling a car that has been written off",
+        "It goes beyond strict indemnity, and insurers price the premium to reflect that",
+        "It is unlawful because it leaves the insured better off",
+        "It always replaces every item, including clothing, without any deduction"
+      ],
+      "answerIndex": 1,
+      "explanation": "New-for-old deliberately gives more than strict indemnity, which is allowed because it's agreed in the contract and paid for in the premium. Cars are normally settled at market value, and clothing and linen often still have a wear-and-tear deduction."
+    },
+    {
+      "id": "m07-q27",
+      "topic": "excess statements",
+      "stem": "Which statement about excesses and deductibles is FALSE?",
+      "options": [
+        "Taking a voluntary excess usually lowers the premium",
+        "Excesses help cut out small claims that cost more to process than they're worth",
+        "An excess means the insurer pays nothing at all once the loss is bigger than the excess",
+        "The word deductible is mostly used in commercial insurance"
+      ],
+      "answerIndex": 2,
+      "explanation": "With an excess, the insurer pays the part of the loss above the excess, so it's the false statement. The other statements correctly describe how excesses keep premiums down and how deductibles are used."
+    },
+    {
+      "id": "m07-q28",
+      "topic": "benefit policy statements",
+      "stem": "Which statement about benefit policies is true?",
+      "options": [
+        "They pay the actual financial loss, measured at the time of the event",
+        "Private medical insurance is the classic example of a benefit policy",
+        "Income protection pays any amount chosen, regardless of earnings",
+        "Contribution and subrogation don't normally apply, because they pay a fixed sum rather than the actual loss"
+      ],
+      "answerIndex": 3,
+      "explanation": "Contribution and subrogation flow from indemnity, so they don't fit policies that pay an agreed sum. PMI pays actual treatment costs, and income protection is usually capped at a proportion of earnings."
+    },
+    {
+      "id": "m07-q29",
+      "topic": "limits statements",
+      "stem": "Which statement about sums insured and limits is true?",
+      "options": [
+        "An inner limit can cap the payment for a single item even when the overall sum insured is much higher",
+        "If a claim is valid, the insurer always pays the full sum insured",
+        "A limit of indemnity is the liability equivalent of an excess",
+        "Inner limits only appear in commercial policies"
+      ],
+      "answerIndex": 0,
+      "explanation": "Inner limits, such as a single-item cap on a contents policy, sit inside the main sum insured and catch people out. The sum insured and limit of indemnity are ceilings, not what's paid on every claim."
+    },
+    {
+      "id": "m07-q30",
+      "topic": "reinstatement statements",
+      "stem": "Which statement about reinstatement is true?",
+      "options": [
+        "Most buildings claims are settled by the insurer physically rebuilding the property",
+        "The term can mean both a way of valuing a buildings claim and a method where the insurer does the rebuilding",
+        "A reinstatement basis means the claim is measured by the house's sale price",
+        "Reinstatement applies only to contents, not buildings"
+      ],
+      "answerIndex": 1,
+      "explanation": "As a basis of valuation, reinstatement measures the claim by rebuild cost; as a method, the insurer takes charge of the rebuild itself. In practice most buildings claims are valued on that basis but settled in cash or by paying contractors."
+    }
+  ]
+}
