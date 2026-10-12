@@ -181,6 +181,7 @@ article h2 { margin-bottom: 14px; }
 /* Exam */
 .exam-nav { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; }
 .exam-nav .btn { padding: 10px 8px; }
+.btn-flag[aria-pressed='true'] { border-color: var(--warn); color: var(--warn); background: var(--warn-soft); }
 .grid-review { display: grid; grid-template-columns: repeat(10, 1fr); gap: 4px; margin: 16px 0; }
 .grid-review button {
   aspect-ratio: 1; min-height: 30px; padding: 0;
@@ -218,5 +219,6 @@ textarea {
   font: 0.85rem/1.4 ui-monospace, Menlo, monospace; word-break: break-all;
 }
 textarea:focus { border-color: var(--accent); outline: none; }
+label.eyebrow { display: block; }
 .status { min-height: 1.6em; margin: 8px 0 0; font-weight: 600; }
 footer.page-foot { text-align: center; margin-top: 28px; }
