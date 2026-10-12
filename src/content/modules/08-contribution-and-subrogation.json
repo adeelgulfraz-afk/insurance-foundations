@@ -1,0 +1,432 @@
+{
+  "id": "m08",
+  "order": 8,
+  "title": "Contribution & subrogation",
+  "estimatedMinutes": 15,
+  "recap": [
+    "Contribution and subrogation are the corollaries of indemnity: they stop you being paid more than your loss, and only apply to indemnity policies.",
+    "Dual insurance needs the same insured, interest, subject matter and peril, with both policies in force; the insurers then share the loss.",
+    "Rateable proportion is worked out by sums insured (for similar policies) or by independent liability (what each would pay on its own).",
+    "Subrogation lets your insurer, after paying, step into your shoes and recover from whoever caused the loss, only up to what it paid, and you mustn't prejudice it.",
+    "A waiver of subrogation stops the insurer pursuing a named party like a tenant or contractor; benefit policies like life cover have neither contribution nor subrogation."
+  ],
+  "sections": [
+    {
+      "heading": "Two rules that keep indemnity honest",
+      "body": "Indemnity promises to put you back where you were before the loss, no better and no worse. That promise has two obvious leaks.\n\nThe first leak is having more than one policy. Claim a stolen laptop's full value from two insurers and you'd get paid for two laptops. The second leak is someone else being to blame. If another driver hits your car, you could claim from your insurer *and* sue the driver, collecting twice.\n\nInsurance law plugs each leak with its own principle:\n\n- **Contribution** deals with two or more policies covering the same loss. The insurers share the bill between them, so you get one full payment, not two.\n- **Subrogation** deals with a third party who caused the loss. Once your insurer has paid you, it takes over your right to recover the money from the person responsible.\n\nYou'll often hear these called the **corollaries of indemnity**. A corollary is something that follows naturally from another idea. They're the rules that make indemnity stick.\n\nThat also tells you where they *don't* apply. They belong only to contracts of indemnity: policies that measure and pay your actual loss, like home, motor, travel baggage or business property. **Benefit policies**, which pay a fixed sum when something happens (life cover, personal accident, critical illness), aren't measuring a loss at all, so neither principle applies to them. That matters a lot in health and protection broking."
+    },
+    {
+      "heading": "Dual insurance: two policies, one loss",
+      "body": "**Dual insurance** (sometimes called double insurance) is when more than one policy covers the same loss. It's common, because people pick up cover without realising it: gadget insurance on a packaged bank account, purchase protection on a credit card, a travel policy that also covers your camera.\n\nSay your laptop is covered by your home contents policy (personal possessions cover) and by gadget cover on your bank account. It's stolen from a café table, and both policies cover the theft. That's dual insurance.\n\nFor contribution to kick in, the overlap has to be genuine. All of these need to be true:\n\n1. **Same insured**: both policies protect the same person or business.\n2. **Same interest**: both protect the same financial stake. A landlord's interest in a building and a tenant's interest in their own furniture are different interests, even under one roof.\n3. **Same subject matter**: both cover the item or liability that's been lost or damaged.\n4. **Same peril**: both cover the cause of the loss. If one covers theft and the other only covers accidental damage, a theft claim isn't shared.\n5. **Both in force**: both policies were live at the time of the loss, and each would actually pay this claim on its own terms.\n\nThe policies don't need to match: different insurers, sums insured, excesses and wordings are fine, as long as they overlap on this loss.\n\n### What the law says by default\n\nUnder the general law, with no special wording in either policy, you could claim the whole loss from either insurer. That insurer would then turn to the other and say, in effect, \"you owe me your share.\" That right of one insurer to recover from another is contribution in its purest form.\n\nMost policies change this with their own wording (more on that shortly). Either way, you're paid once, in full (subject to excesses and limits), and the insurers sort out who carries what. Claim forms usually ask whether you have any other insurance. Answer honestly: hiding a second policy so you can be paid twice is fraud."
+    },
+    {
+      "heading": "Contribution: sharing the bill fairly",
+      "body": "**Contribution** is the right of an insurer that has paid more than its fair share of a loss to recover the difference from the other insurers covering it. Each insurer's fair share is called its **rateable proportion**. \"Rateable\" just means worked out in proportion to something. The real question is: in proportion to what? There are two main answers.\n\n### Method one: by sums insured\n\nThe simplest approach compares the **sums insured**, the maximum each policy will pay. Each insurer pays the same percentage of the loss as its share of the total cover.\n\nHere's a worked example. Your friend has an engagement ring insured as a specified item on her home policy for £6,000, and also on a separate jewellery policy for £4,000. Total cover is £10,000. She loses the ring, and the agreed loss is £5,000.\n\n- Home insurer: £6,000 out of £10,000 is 60%, so it pays 60% of £5,000, which is £3,000.\n- Jewellery insurer: £4,000 out of £10,000 is 40%, so it pays £2,000.\n\nShe receives £5,000 in total. Not £10,000, and not £5,000 twice.\n\nThis works well when the policies are similar. It falls apart when they aren't. A home contents policy might have a £60,000 sum insured covering everything in the house, while a gadget policy covers one laptop up to £800. Comparing £60,000 with £800 would leave the gadget insurer paying almost nothing, which isn't fair.\n\n### Method two: independent liability\n\nThe **independent liability** method asks a different question: if each policy were the only one, how much would it pay for this loss? Add those amounts together, then share the loss in the same proportions. It copes far better with different limits, excesses and conditions. It's the usual method for liability insurance, where there's a limit of indemnity rather than a sum insured on a particular item.\n\nBack to the stolen laptop, worth £1,200:\n\n- On its own, the home contents policy would pay £1,200.\n- On its own, the bank's gadget policy would pay only £800, because that's its limit per gadget.\n- Total independent liabilities: £1,200 plus £800 makes £2,000.\n\nSo the shares are:\n\n- Home insurer: £1,200 out of £2,000 is 60%, so it pays 60% of the £1,200 loss, which is £720.\n- Gadget insurer: £800 out of £2,000 is 40%, so it pays £480.\n\nYou receive £1,200, exactly your loss. To keep the maths clean we've ignored excesses; in real life each policy's excess is taken into account when working out what it would pay on its own."
+    },
+    {
+      "heading": "\"Other insurance\" clauses",
+      "body": "Insurers write \"other insurance\" clauses into their policies to control how dual insurance plays out. There are three common types.\n\n### The rateable proportion clause\n\nThis says something like: \"If any other insurance covers the same loss, we'll pay no more than our rateable proportion.\" The insurer only pays its share, so you have to claim each part from each insurer rather than everything from one.\n\n### The non-contribution clause\n\nA **non-contribution clause** goes further. It says the policy won't pay at all if the loss is covered elsewhere, or will only pay whatever the other policy doesn't. Some gadget and add-on policies take this approach, making themselves the back-up cover.\n\nWhat if *both* policies say this? If each insurer could point at the other and walk away, you'd be left with nothing, the opposite of what either policy promised. UK courts have generally refused to allow that. They treat the two clauses as cancelling each other out, so the insurers share the loss in the normal way.\n\n### The \"more specific insurance\" clause\n\nSome broad policies, like home contents, say they'll step back if a more specific policy covers the item. If you've insured your camera under a dedicated camera policy, your contents insurer may treat that policy as the one that pays first, and only top up anything left over.\n\nFor a broker, these clauses matter twice. When arranging cover: are we buying a policy that will refuse to pay because of something the client already has? And when a claim comes in: which insurer does the client approach first, and for how much?"
+    },
+    {
+      "heading": "Subrogation: your insurer steps into your shoes",
+      "body": "Now the second leak. **Subrogation** is the right of an insurer, once it has paid your claim, to take over your legal rights against whoever caused the loss and recover its money from them. The usual phrase is that the insurer \"steps into your shoes\": it can pursue exactly the rights you had, no more and no less.\n\n### Why it exists\n\nPicture a car crash. You're stopped at a red light and another driver goes into the back of you. Your car needs £3,000 of repairs, and your comprehensive insurer pays for them. But the other driver was at fault and legally owes you that £3,000. If you could keep the insurance money *and* collect from the other driver, you'd make £3,000 out of a crash, which breaks indemnity. And if nobody could pursue the other driver, the person who caused the damage would never pay for it, and everyone else's premiums would carry the cost.\n\nSubrogation fixes both problems. You're paid once, by your insurer. Your insurer then recovers from the at-fault driver, in practice usually from their motor insurer.\n\n### The rules that keep it fair\n\n- **Only after indemnity.** Under the general law, the right arises once the insurer has paid you. Most policies add a condition letting the insurer take over earlier, for example to start talking to the other side straight away.\n- **Only up to what it paid.** The insurer can keep recoveries up to the amount it paid out. If it recovers more, the surplus belongs to you, which is how you can get back uninsured losses like your excess.\n- **Your rights, not new ones.** The insurer can only use rights you had. These might come from negligence (the careless driver), a contract (a removals firm that dropped your sofa) or a law that makes someone responsible. If you had no claim against anyone, neither does your insurer.\n- **Usually in your name.** The recovery is normally pursued in your name, so you're expected to cooperate, for example by giving a statement.\n\n### Don't prejudice the insurer\n\nBecause the insurer is relying on your rights, you mustn't do anything that weakens them. Don't admit fault, don't promise the other side you won't pursue them, and don't settle privately with the person responsible. If you sign away your rights after the loss, the insurer can reduce your claim by whatever it could have recovered.\n\n### Where subrogation doesn't apply\n\nSubrogation only makes sense where a policy has measured and paid a loss. **Benefit policies** such as life insurance, personal accident and critical illness pay an agreed sum regardless of your actual financial loss, so there's nothing to recover and no subrogation. If someone is hurt by a careless driver and receives £10,000 from their personal accident policy, they can still sue the driver in full and keep both. Private medical insurance is closer to indemnity because it pays actual treatment bills, which is why PMI policies often ask members to include their treatment costs in any compensation claim against the person responsible."
+    },
+    {
+      "heading": "Waiver of subrogation",
+      "body": "Sometimes subrogation would cause more trouble than it solves, so the parties agree in advance to switch it off. A **waiver of subrogation** is an agreement, usually added to the policy by endorsement, that the insurer won't pursue a named person or business even if they cause a loss the insurer pays for.\n\n### Landlord and tenant\n\nA landlord insures the building and recovers the premium from tenants through the rent or service charge. One evening a tenant leaves a pan on the hob, the kitchen catches fire and the building is damaged. The landlord's insurer pays for the repairs. Without a waiver, it could then use subrogation to sue the tenant for causing the fire.\n\nThat feels unfair to a tenant who has been paying towards the insurance, and it sours the relationship. So leases commonly require the landlord to get the insurer to waive its subrogation rights against tenants, or to note the tenants' interest on the policy.\n\n### Contractor and client\n\nBuilding projects are similar: a client, a main contractor and several subcontractors share one site. If the insurer paid the client for fire damage and then sued the subcontractor who caused it, the project could descend into claims and counter-claims, and every firm would need its own expensive cover for the same risk. Instead, the works are often insured under one policy in **joint names**, with a waiver of subrogation in favour of everyone working on the project.\n\nAn insurer generally can't use subrogation against its own policyholder anyway, because it can't sue the person it has promised to protect. Joint names cover and waivers extend that protection to the other people in the relationship.\n\nThe practical point for a broker is to read the lease or contract. They often *require* a waiver or joint names cover, and if the policy doesn't match, your client could be in breach of contract and personally exposed to a large claim."
+    }
+  ],
+  "whyItMatters": "Clients often hold overlapping cover without knowing it, and leases and contracts often demand a waiver of subrogation or joint names cover, so a broker who spots both avoids claim disputes and contract breaches. In health broking, knowing which products pay fixed benefits and which pay actual costs tells you when other insurance or a compensation claim affects a payout.",
+  "questions": [
+    {
+      "id": "m08-q01",
+      "topic": "dual insurance",
+      "stem": "What does \"dual insurance\" mean?",
+      "options": [
+        "One policy covers two different people living at the same address",
+        "An insurer passes part of a large risk on to a reinsurer",
+        "Two or more separate policies cover the same insured's interest in the same subject matter against the same peril",
+        "Two insurers jointly write a single policy, each taking a fixed percentage of it"
+      ],
+      "answerIndex": 2,
+      "explanation": "Dual insurance is an overlap between separate policies covering the same loss, and it's what triggers contribution. Two insurers sharing one policy is co-insurance, and passing risk to another insurer is reinsurance."
+    },
+    {
+      "id": "m08-q02",
+      "topic": "conditions for contribution",
+      "stem": "For contribution to apply between two policies, which of these must be true?",
+      "options": [
+        "Both policies were in force at the time of the loss",
+        "Both policies are with insurers in the same group",
+        "Both policies have the same sum insured",
+        "Both policies were arranged through the same broker"
+      ],
+      "answerIndex": 0,
+      "explanation": "A policy that had lapsed or hadn't yet started can't share a loss. The policies can be with unrelated insurers, carry different sums insured and come from different sources."
+    },
+    {
+      "id": "m08-q03",
+      "topic": "purpose of contribution",
+      "stem": "What is the main purpose of contribution?",
+      "options": [
+        "To let the insured claim on whichever policy has the lowest excess and ignore the other",
+        "To allow an insurer to recover its payout from the person who caused the loss",
+        "To make the insured carry a share of every loss alongside the insurers",
+        "To share a loss fairly between the insurers covering it, so the insured is paid once and no more than the loss"
+      ],
+      "answerIndex": 3,
+      "explanation": "Contribution supports indemnity by stopping a double payout and spreading the cost between insurers. Recovering money from the person who caused the loss is subrogation, a different principle."
+    },
+    {
+      "id": "m08-q04",
+      "topic": "rateable proportion",
+      "stem": "In contribution, what is an insurer's \"rateable proportion\"?",
+      "options": [
+        "The premium rate it charges per £1,000 of sum insured",
+        "Its fair share of the loss, worked out in proportion to the cover it provides",
+        "The part of the loss the insured pays as an excess",
+        "The percentage of a claim it recovers from a third party"
+      ],
+      "answerIndex": 1,
+      "explanation": "Rateable proportion is the slice of a shared loss that each insurer carries, measured against its cover by sums insured or by independent liability. It has nothing to do with premium rates or excesses."
+    },
+    {
+      "id": "m08-q05",
+      "topic": "sums insured method",
+      "stem": "Poppy's colleague has a painting insured under two policies, one with a £30,000 sum insured and one with £10,000. It's damaged and the agreed loss is £8,000. Using the sums insured method, how much does the £30,000 policy pay?",
+      "options": [
+        "£4,000",
+        "£6,000",
+        "£8,000",
+        "£2,000"
+      ],
+      "answerIndex": 1,
+      "explanation": "The £30,000 policy provides three-quarters of the total £40,000 cover, so it pays three-quarters of the £8,000 loss; the other policy pays £2,000. Splitting it equally ignores the different amounts of cover each insurer accepted."
+    },
+    {
+      "id": "m08-q06",
+      "topic": "independent liability method",
+      "stem": "How does the independent liability method of contribution work?",
+      "options": [
+        "Each insurer pays an equal share of the loss regardless of its limit",
+        "The insurer whose policy started first pays in full and the other pays nothing",
+        "Each insurer pays in proportion to the premium it charged",
+        "Each insurer's share is based on what it would have paid if it had been the only policy covering the loss"
+      ],
+      "answerIndex": 3,
+      "explanation": "Independent liability works out each policy's payout as if it stood alone, then shares the loss in those proportions. That makes it fairer than sums insured when limits, excesses or terms differ."
+    },
+    {
+      "id": "m08-q07",
+      "topic": "choosing a method",
+      "stem": "When is the independent liability method usually preferred over comparing sums insured?",
+      "options": [
+        "When the policies have different limits or terms, as with liability policies or a broad contents policy overlapping a single-item gadget policy",
+        "When both policies are identical in wording and sum insured",
+        "When the loss was caused by a third party who can be sued",
+        "When one of the policies lapsed shortly before the loss"
+      ],
+      "answerIndex": 0,
+      "explanation": "Comparing a whole-house sum insured with a single-gadget limit gives a lopsided answer, so independent liability looks at what each would really pay. Liability policies have limits of indemnity rather than item sums insured, so the same logic applies."
+    },
+    {
+      "id": "m08-q08",
+      "topic": "independent liability calculation",
+      "stem": "Poppy's bike, worth £900, is stolen. On its own, her home contents policy would pay £900; on its own, a specialist cycle policy would pay only £600 because of its limit. Using independent liability, how much does the cycle policy pay?",
+      "options": [
+        "£600",
+        "£450",
+        "£360",
+        "£540"
+      ],
+      "answerIndex": 2,
+      "explanation": "Total independent liabilities are £1,500, so the cycle policy pays 600/1,500 (40%) of the £900 loss, which is £360; the contents policy pays the other £540. Together they pay exactly the £900 loss."
+    },
+    {
+      "id": "m08-q09",
+      "topic": "no double recovery",
+      "stem": "Poppy's housemate has her laptop stolen. It's covered by her home contents policy and by gadget cover on her bank account, and she plans to claim the full £1,200 from each. What should she expect?",
+      "options": [
+        "She'll receive £1,200 in total, with the two insurers sharing the cost between them",
+        "She'll receive £2,400, because she paid two separate premiums",
+        "She'll receive nothing, because holding two policies makes both void",
+        "Only the policy she bought first will pay anything"
+      ],
+      "answerIndex": 0,
+      "explanation": "Indemnity means she can't profit from the theft, so she's paid her £1,200 loss once and contribution splits it between the insurers. Having two policies is perfectly legal; it just doesn't double the payout."
+    },
+    {
+      "id": "m08-q10",
+      "topic": "default legal position",
+      "stem": "Where neither policy has any clause about other insurance, what is the general legal position for someone with dual insurance?",
+      "options": [
+        "They must claim exactly half the loss from each insurer",
+        "They can only claim from the insurer whose policy was issued first",
+        "They must get a court to decide each insurer's share before claiming",
+        "They can claim the whole loss from either insurer, which can then recover a share from the other"
+      ],
+      "answerIndex": 3,
+      "explanation": "By default the insured can go to either insurer for the full loss, and contribution then lets that insurer recover the other's share. Policy wordings usually change this, but that's the starting point in law."
+    },
+    {
+      "id": "m08-q11",
+      "topic": "rateable proportion clause",
+      "stem": "A policy says: \"If any other insurance covers this loss, we will pay no more than our rateable proportion.\" What is the practical effect?",
+      "options": [
+        "The insurer will refuse the claim entirely if any other insurance exists",
+        "The insured has to claim each insurer's share from that insurer, rather than the whole loss from one",
+        "The insurer pays in full and the insured must refund it from the other policy",
+        "The insured's excess is split between the two insurers"
+      ],
+      "answerIndex": 1,
+      "explanation": "A rateable proportion clause limits the insurer to its fair share, so the insured collects from each insurer separately. A clause refusing to pay at all where other cover exists is a non-contribution clause."
+    },
+    {
+      "id": "m08-q12",
+      "topic": "non-contribution clause",
+      "stem": "What is a non-contribution clause?",
+      "options": [
+        "Wording that stops the insurer pursuing a named third party after a loss",
+        "Wording that requires the insured to pay a share of every claim",
+        "Wording saying the policy won't pay, or will only pay what's left over, if another policy covers the loss",
+        "Wording that lets the insurer take over a claim before it has paid it"
+      ],
+      "answerIndex": 2,
+      "explanation": "A non-contribution clause tries to make the policy the back-up cover where other insurance exists. Agreeing not to pursue a named party is a waiver of subrogation."
+    },
+    {
+      "id": "m08-q13",
+      "topic": "clashing exclusion clauses",
+      "stem": "Which statement about \"other insurance\" clauses is true?",
+      "options": [
+        "If two policies each exclude loss covered by other insurance, neither insurer pays and the insured bears the loss",
+        "Non-contribution clauses are unlawful in UK insurance contracts and are simply ignored",
+        "A rateable proportion clause means the insurer charging the higher premium pays the whole loss",
+        "If two policies each exclude loss covered by other insurance, UK courts generally treat the clauses as cancelling out, so the insurers share the loss"
+      ],
+      "answerIndex": 3,
+      "explanation": "Courts won't let each insurer point at the other and leave the insured with nothing, which would defeat the cover both promised. The clauses are lawful; they just can't both win."
+    },
+    {
+      "id": "m08-q14",
+      "topic": "more specific insurance clause",
+      "stem": "Poppy's uncle insures his camera under a dedicated camera policy and also has home contents cover with a \"more specific insurance\" clause. What does that clause usually mean for a camera claim?",
+      "options": [
+        "The camera policy pays first, and the contents policy only tops up anything it doesn't cover",
+        "The contents policy pays first because it's the broader policy",
+        "The two policies split the loss equally",
+        "The contents policy cancels the camera policy and refunds its premium"
+      ],
+      "answerIndex": 0,
+      "explanation": "A more specific insurance clause makes the broad policy step back where a dedicated policy covers the item. The contents policy only picks up any shortfall."
+    },
+    {
+      "id": "m08-q15",
+      "topic": "subrogation definition",
+      "stem": "What is subrogation?",
+      "options": [
+        "The right of one insurer to recover a share of a claim from another insurer covering the same loss",
+        "The insured's right to choose between a repair and a cash settlement",
+        "The insurer's right, once it has indemnified the insured, to take over the insured's rights against a third party who caused the loss",
+        "The insurer's right to cancel a policy after a third party causes a loss"
+      ],
+      "answerIndex": 2,
+      "explanation": "Subrogation lets the insurer step into the insured's shoes and pursue whoever was responsible. Recovering a share from another insurer of the same loss is contribution."
+    },
+    {
+      "id": "m08-q16",
+      "topic": "why subrogation exists",
+      "stem": "Why does subrogation exist?",
+      "options": [
+        "To let insurers make a profit on claims by recovering more than they paid",
+        "To stop the insured being paid twice for one loss, once by the insurer and again by the person responsible",
+        "To allow insurers to refuse claims where someone else was at fault",
+        "To transfer the insured's legal liabilities to the insurer"
+      ],
+      "answerIndex": 1,
+      "explanation": "Subrogation is a corollary of indemnity: you're paid once, and the person who caused the loss still ends up bearing it. It doesn't let insurers refuse valid claims or profit from recoveries."
+    },
+    {
+      "id": "m08-q17",
+      "topic": "when subrogation arises",
+      "stem": "Under the general law (ignoring any policy conditions), when does an insurer's right of subrogation arise?",
+      "options": [
+        "Once it has indemnified the insured by paying the claim",
+        "As soon as the loss happens, before any claim is made",
+        "When the policy is first taken out",
+        "Only after a court has found the third party liable"
+      ],
+      "answerIndex": 0,
+      "explanation": "Under the general law the insurer must pay before it steps into the insured's shoes. Many policies add a condition letting it take control earlier, for example to start negotiating with the other side."
+    },
+    {
+      "id": "m08-q18",
+      "topic": "recovery limited to payment",
+      "stem": "An insurer pays a £4,000 claim and later recovers £5,000 from the third party responsible. What happens to the extra £1,000?",
+      "options": [
+        "The insurer keeps it as a reward for pursuing the recovery",
+        "It's returned to the third party who paid it",
+        "It's split equally between the insurer and the insured",
+        "It goes to the insured, because the insurer can only keep up to what it paid"
+      ],
+      "answerIndex": 3,
+      "explanation": "Subrogation lets an insurer recoup its outlay, not profit from it, so any surplus belongs to the insured. That's how insureds often get back uninsured losses such as their excess."
+    },
+    {
+      "id": "m08-q19",
+      "topic": "motor recovery",
+      "stem": "Poppy's car is hit from behind by a driver who's clearly at fault. Her comprehensive insurer pays £3,000 for the repairs. What happens next?",
+      "options": [
+        "Poppy must sue the other driver herself and repay her insurer from whatever she recovers",
+        "Her insurer can recover the £3,000 from the at-fault driver, in practice usually from their motor insurer",
+        "Nothing more can happen, because Poppy has already been paid",
+        "Poppy can also claim £3,000 from the other driver's insurer and keep both payments"
+      ],
+      "answerIndex": 1,
+      "explanation": "Having paid Poppy, her insurer steps into her shoes and pursues the at-fault driver's side for its £3,000. Poppy can't collect twice, but the person responsible still pays."
+    },
+    {
+      "id": "m08-q20",
+      "topic": "prejudicing the insurer",
+      "stem": "After a crash that wasn't her fault, Poppy's friend tells the other driver in writing that she won't hold them responsible. Her insurer later pays her claim. What's the problem?",
+      "options": [
+        "There's no problem, because subrogation rights only start once the insurer has paid",
+        "Her policy automatically becomes void and all premiums must be repaid",
+        "She has prejudiced her insurer's subrogation rights, so it may reduce her claim by what it could have recovered",
+        "The other driver's insurer now has to pay her claim instead of her own insurer"
+      ],
+      "answerIndex": 2,
+      "explanation": "The insurer can only use the rights the insured had, so giving them away weakens its recovery. Insureds must not admit fault, waive rights or settle privately with the person responsible."
+    },
+    {
+      "id": "m08-q21",
+      "topic": "benefit policies",
+      "stem": "Subrogation does NOT apply to which of these policies?",
+      "options": [
+        "A life insurance policy paying a fixed sum on death",
+        "Home buildings insurance",
+        "Motor insurance covering repairs to your own car",
+        "Business contents insurance"
+      ],
+      "answerIndex": 0,
+      "explanation": "Life cover is a benefit policy: it pays an agreed sum rather than measuring a loss, so there's nothing for the insurer to recover. Buildings, motor and contents policies are indemnity contracts where subrogation applies."
+    },
+    {
+      "id": "m08-q22",
+      "topic": "personal accident and compensation",
+      "stem": "Poppy's brother breaks his leg when a careless cyclist knocks him over. His personal accident policy pays a fixed £5,000 for a broken leg, and he also receives £8,000 compensation from the cyclist. Can the personal accident insurer claim back its £5,000?",
+      "options": [
+        "Yes, subrogation lets it recover the £5,000 out of his compensation",
+        "Yes, but only half, under the rateable proportion rule",
+        "Only if the cyclist had liability insurance, because subrogation can only be used against an insurer",
+        "No, it's a benefit policy, so there's no subrogation and he keeps both payments"
+      ],
+      "answerIndex": 3,
+      "explanation": "Personal accident pays a fixed benefit rather than an indemnity, so neither subrogation nor contribution applies. He can keep the benefit and his full compensation."
+    },
+    {
+      "id": "m08-q23",
+      "topic": "waiver of subrogation",
+      "stem": "What is a waiver of subrogation?",
+      "options": [
+        "An insured's decision to give up a claim on their own policy",
+        "An agreement between two insurers not to seek contribution from each other",
+        "An agreement that the insurer won't pursue a named party, even if that party causes a loss the insurer pays for",
+        "A condition letting the insurer take over a claim before it has paid"
+      ],
+      "answerIndex": 2,
+      "explanation": "A waiver switches off the insurer's right to recover from a specific person or business, such as a tenant or contractor. It's agreed in advance, usually by endorsement."
+    },
+    {
+      "id": "m08-q24",
+      "topic": "landlord and tenant",
+      "stem": "A tenant leaves a pan on the hob and starts a fire that damages the building. The landlord's buildings insurer pays for repairs, and the tenant contributes to the premium through the service charge. What would most clearly stop the insurer suing the tenant?",
+      "options": [
+        "The tenant buying separate buildings insurance on the same block",
+        "A waiver of subrogation in favour of tenants on the landlord's policy",
+        "A rateable proportion clause in the landlord's policy",
+        "The landlord agreeing to pay the tenant's contents excess"
+      ],
+      "answerIndex": 1,
+      "explanation": "A waiver stops the landlord's insurer stepping into the landlord's shoes to sue the tenant. Extra buildings cover would just create dual insurance, and a rateable proportion clause deals with sharing between insurers, not recovery from tenants."
+    },
+    {
+      "id": "m08-q25",
+      "topic": "contractor and client",
+      "stem": "On a building project, the works are insured under one policy in the joint names of the client and the contractor, with a waiver of subrogation for subcontractors. Why might everyone want this?",
+      "options": [
+        "So the insurer can't pay one party on the project and then sue another, avoiding disputes and duplicated cover",
+        "So each party can claim the full value of the same damage separately",
+        "So subcontractors no longer need to take care to avoid causing damage",
+        "So the premium is paid by the subcontractors rather than the client"
+      ],
+      "answerIndex": 0,
+      "explanation": "Joint names and waivers stop the insurer turning one project party against another after paying a claim. Everyone is still paid only once, and the duty to take care doesn't disappear."
+    },
+    {
+      "id": "m08-q26",
+      "topic": "corollaries of indemnity",
+      "stem": "Which statement about contribution and subrogation is true?",
+      "options": [
+        "Contribution caps the total payout across several life policies at the person's actual financial loss",
+        "They are corollaries of indemnity, so they apply to indemnity policies but not to benefit policies",
+        "Subrogation means the insured can claim from both their insurer and the person responsible",
+        "They only apply if the insured chooses to add them when the policy starts"
+      ],
+      "answerIndex": 1,
+      "explanation": "Both principles exist to stop indemnity being undermined, so they have no role where a policy pays a fixed benefit. You can hold several life policies and every one will pay in full."
+    },
+    {
+      "id": "m08-q27",
+      "topic": "dual insurance features",
+      "stem": "Which statement about dual insurance is true?",
+      "options": [
+        "Dual insurance only exists if the two policy wordings are identical",
+        "A policy that lapsed a week before the loss still shares the claim",
+        "A landlord's buildings policy and a tenant's contents policy always create dual insurance",
+        "Two policies can share a loss even if they're with different insurers and have different sums insured"
+      ],
+      "answerIndex": 3,
+      "explanation": "The overlap that matters is the same insured, interest, subject matter and peril, with both policies in force. A landlord's buildings cover and a tenant's contents cover protect different interests in different property."
+    },
+    {
+      "id": "m08-q28",
+      "topic": "rights subrogated",
+      "stem": "Which statement about subrogation is true?",
+      "options": [
+        "Subrogation rights exist only if they're written into the policy wording",
+        "Once the insurer subrogates, the insured loses any right to recover uninsured losses such as the excess",
+        "The insurer can only pursue rights the insured actually had against the third party",
+        "An insurer can use subrogation to sue its own policyholder who negligently caused the loss"
+      ],
+      "answerIndex": 2,
+      "explanation": "The insurer steps into the insured's shoes, so it gets exactly the insured's rights, no more. Subrogation arises under the general law even without wording, and an insurer can't use it against its own policyholder."
+    },
+    {
+      "id": "m08-q29",
+      "topic": "joint names",
+      "stem": "Which statement about waivers and joint names cover is true?",
+      "options": [
+        "An insurer generally can't use subrogation against its own policyholder, and joint names cover extends that protection to co-insureds",
+        "A waiver of subrogation increases the amount the insured can claim",
+        "A waiver of subrogation can only be agreed after a loss has happened",
+        "Where there's a waiver, the third party's own insurer must reimburse the insurer instead"
+      ],
+      "answerIndex": 0,
+      "explanation": "An insurer can't sue the person it promised to protect, and naming others on the policy brings them inside that protection. A waiver doesn't change the claim amount and is agreed in advance."
+    },
+    {
+      "id": "m08-q30",
+      "topic": "disclosing other insurance",
+      "stem": "Which statement about claiming with two overlapping policies is true?",
+      "options": [
+        "You must cancel one of the policies before either insurer will pay",
+        "Telling each insurer about the other policy means you'll be paid less than your loss",
+        "You can claim in full from each insurer as long as the claims are made on different days",
+        "You should tell each insurer about the other policy when you claim, because hiding it to be paid twice would be fraudulent"
+      ],
+      "answerIndex": 3,
+      "explanation": "Insurers need to know about other cover to apply contribution, and you're still paid your full loss once. Concealing a second policy to collect twice is a fraudulent claim."
+    }
+  ]
+}
