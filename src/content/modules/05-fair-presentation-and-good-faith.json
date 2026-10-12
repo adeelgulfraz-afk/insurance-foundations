@@ -1,0 +1,432 @@
+{
+  "id": "m05",
+  "order": 5,
+  "title": "Fair presentation & good faith",
+  "estimatedMinutes": 15,
+  "recap": [
+    "Insurance rests on utmost good faith; the detail now comes from CIDRA 2012 (consumers) and the Insurance Act 2015 (businesses).",
+    "Businesses owe a duty of fair presentation: disclose every material circumstance they know or ought to know (via a reasonable search), or enough to put the insurer on notice, clearly, with facts substantially correct and beliefs held in good faith.",
+    "Consumers don't volunteer: they must take reasonable care not to misrepresent when answering the insurer's questions.",
+    "Deliberate or reckless: the insurer can avoid and keep the premium. Careless: proportionate remedies (avoid and refund, apply different terms, or cut the claim pro rata).",
+    "Brokers get disclosure right by explaining the duty, asking the right questions, recording answers and warning about consequences."
+  ],
+  "sections": [
+    {
+      "heading": "Utmost good faith: why honesty sits at the centre",
+      "body": "Imagine a patient at a pre-assessment clinic who leaves out that they've had two heart attacks. Whatever plan gets made rests on a false picture, and when it goes wrong it isn't really the clinician's fault. Insurance has exactly the same problem.\n\nThe person buying cover knows far more about the risk than the insurer does: their house, their business, their health. The insurer has to accept and price that risk largely on what it's told. That imbalance is why insurance has long been called a contract of **utmost good faith** (you'll sometimes see the Latin, *uberrimae fidei*). Both sides are expected to deal openly and honestly, more so than in an ordinary purchase, where the old rule was broadly \"buyer beware\".\n\nGood faith runs both ways. The customer should give a true and fair picture of the risk. The insurer should be straight too, not least when handling claims.\n\n### From one harsh rule to two modern Acts\n\nFor a long time the law here was brutal. If a customer failed to mention something important, even innocently, the insurer could often treat the policy as if it had never existed and refuse every claim.\n\nThat approach has been replaced by two Acts, and which one applies depends on who the customer is:\n\n- **Consumer Insurance (Disclosure and Representations) Act 2012**, usually shortened to **CIDRA**, covers *consumers*: individuals buying cover wholly or mainly for purposes unrelated to their trade, business or profession. Think home, car, travel, or a personal private medical policy.\n- **Insurance Act 2015** covers *non-consumer* insurance: companies, partnerships, sole traders insuring their business, charities and so on. Think a café's property cover, or an employer buying group private medical insurance for its staff.\n\nUtmost good faith is still the background principle, but the detail of what must be disclosed, and what happens if it isn't, now comes from these Acts. The old right to cancel a policy simply by saying \"you breached good faith\" has gone; an insurer has to use the specific remedies the Acts set out."
+    },
+    {
+      "heading": "Business customers: the duty of fair presentation",
+      "body": "Under the Insurance Act 2015, a business customer (the law calls them the **insured**) owes the insurer a **duty of fair presentation** before the contract is made. It applies again if the policy is changed mid-term, and each renewal is a fresh contract, so it bites then too.\n\n### What counts as material\n\nA **material circumstance** is anything that would influence a prudent insurer's judgement about whether to take the risk at all, or on what terms: price, excess, exclusions, conditions. \"Prudent insurer\" means a sensible, careful underwriter in general, not the quirks of one particular company.\n\nFor a café, material circumstances might include a previous kitchen fire, deep-fat fryers on site, a flat roof, or a refusal of cover by another insurer last year. For an employer buying group health cover, it might be the scheme's recent claims history or a big change in the size or make-up of the workforce.\n\n### The three parts of the duty\n\nA fair presentation means:\n\n1. **Disclosing every material circumstance** the insured knows or ought to know. Failing that, it must at least give enough information to put a prudent insurer on notice that it needs to ask further questions.\n2. **Presenting it in a reasonably clear and accessible way.** Handing an underwriter a thousand pages of unsorted documents and hoping they spot the important line doesn't count. The nickname for this is \"data dumping\".\n3. **Getting representations right.** Statements of *fact* must be substantially correct, meaning any inaccuracy wouldn't matter to a prudent insurer. Statements of *expectation or belief* (\"we expect turnover to grow next year\") must be made in good faith: honestly held, even if they later turn out wrong.\n\nThe big point: a business must *volunteer* material information. It can't just answer the questions on the form and keep quiet about the rest.\n\n### What doesn't need saying\n\nThe duty isn't endless. Unless the insurer asks, the insured doesn't have to disclose something that:\n\n- reduces the risk, such as a newly fitted sprinkler system;\n- the insurer already knows;\n- the insurer ought to know, because one of its own staff or agents knows it, or it holds the information and it's readily available;\n- the insurer is presumed to know, such as common knowledge or things any insurer writing that kind of cover would know about the trade;\n- the insurer has said it doesn't need (it has waived it).\n\nThe \"on notice\" route matters. If the insured says enough to make a sensible underwriter think \"hang on, I should ask about that\", and the insurer doesn't ask, it usually can't complain later."
+    },
+    {
+      "heading": "Knows or ought to know: the reasonable search",
+      "body": "The duty covers what the insured **knows** and what it **ought to know**, and the Act spells out both.\n\n### What a business \"knows\"\n\nAn individual knows what they actually know, plus what's known to anyone responsible for arranging their insurance. A company or other organisation knows what's known to its **senior management** (the people who make the key decisions about how it's run) and to the people responsible for its insurance.\n\nTurning a blind eye counts too. If someone suspected something and deliberately avoided checking, they're treated as knowing it.\n\n### What it \"ought to know\"\n\nOn top of that, the insured ought to know whatever a **reasonable search** of the information available to it would have revealed. That information might sit inside the organisation (other departments, site managers, old records) or with others, such as its broker or the people the policy covers.\n\nWhat's reasonable depends on the size and nature of the business and how complex the risk is. A sole-trader café owner might check their own paperwork, ask their manager and look back over past claims. A company with sites across the country would be expected to run a proper process: asking each site about incidents, checking with facilities and HR, and reviewing loss records.\n\nIt's like a medication history: you don't rely only on what the patient remembers, you check the GP record too. The search doesn't have to be perfect. It has to be the kind of search a sensible business in that position would carry out, and a good broker helps by suggesting where to look."
+    },
+    {
+      "heading": "When a business gets it wrong: remedies under the 2015 Act",
+      "body": "A breach only gives the insurer a remedy if it's a **qualifying breach**. The insurer must show that, with a fair presentation, it either wouldn't have offered cover at all or would have offered it on different terms. If the missing fact would have made no difference, there's no remedy.\n\n### Deliberate or reckless\n\nA breach is **deliberate or reckless** if the insured knew it was breaching the duty, or didn't care whether it was. It's for the insurer to prove this. The remedy is severe: the insurer can **avoid** the policy (treat it as if it never existed), refuse all claims, and **keep the premium**.\n\n### Careless: the proportionate remedies\n\nAnything else, from honest oversight to plain sloppiness, gets a **proportionate remedy**. The aim is to put the insurer where it would have been with a fair presentation, so you ask what it would have done:\n\n1. **Wouldn't have written the risk at all:** it can avoid the policy and refuse claims, but must **return the premium**.\n2. **Would have written it on different terms** (other than price), such as an exclusion: the policy is treated as if those terms had applied.\n3. **Would have charged a higher premium:** claims are **reduced proportionately**.\n\n### A worked example\n\nPoppy's friend runs a café. When buying cover she carelessly forgets to mention a small kitchen fire two years ago. Later, a storm damages the roof and she claims £9,000.\n\nSuppose the insurer shows it would have charged £1,500 instead of the £1,000 she paid. She paid two-thirds of the proper premium, so she gets two-thirds of the claim: £6,000.\n\nSuppose instead the insurer would have added an exclusion for fires started by cooking equipment. The policy is treated as if that exclusion was there. It has nothing to do with storm damage, so the roof claim is paid in full. A fryer fire, though, wouldn't be.\n\nIf she'd hidden the fire on purpose to get cheaper cover, that's deliberate: no payment, and no premium back."
+    },
+    {
+      "heading": "Consumers: CIDRA and taking reasonable care",
+      "body": "Consumers are treated differently, because most people buying car or travel insurance have no idea what an underwriter needs to know. Under CIDRA, a consumer doesn't have to volunteer anything. Instead they have a duty to **take reasonable care not to make a misrepresentation**: in plain terms, to answer the insurer's questions carefully and honestly.\n\nA **misrepresentation** is a statement that's untrue or misleading. Saying \"no claims in five years\" when there was one is a misrepresentation. So is failing to update details when the insurer asks you to confirm or amend them at renewal. This puts the onus on the insurer to **ask clear questions**; if it doesn't ask, the customer generally can't be penalised for staying silent.\n\n### What reasonable care looks like\n\nIt's judged against a reasonable consumer, taking account of the type of policy, any explanatory material, and how clear and specific the questions were. A vague \"anything else we should know?\" carries far less weight than \"have you seen a doctor about back pain in the last two years?\" If the insurer knew, or should have known, about the customer's particular characteristics (limited English, say), that's taken into account too. An honest and reasonable answer that turns out wrong isn't penalised: the claim gets paid.\n\n### Qualifying misrepresentations and remedies\n\nThe insurer only has a remedy for a **qualifying misrepresentation**: the customer failed to take reasonable care, *and* the insurer shows it would have refused cover or offered different terms with the truth. These come in two kinds:\n\n- **Deliberate or reckless:** the customer knew the answer was untrue or misleading, or didn't care, *and* knew the matter was relevant to the insurer, or didn't care. The insurer can avoid the policy and refuse all claims, and can keep the premium unless that would be unfair.\n- **Careless:** any other qualifying misrepresentation. The remedy is proportionate, with the same logic as for businesses: avoid and refund if cover wouldn't have been offered, apply the different terms, or reduce the claim proportionately if more premium would have been charged.\n\nSay Poppy's brother ticks \"no\" to that back-pain question on a personal medical policy without thinking back properly, forgetting two GP visits. If the insurer would have added a back exclusion, it's treated as if the exclusion was there: a back claim fails, but an unrelated knee claim is paid."
+    },
+    {
+      "heading": "The broker's role: pre-assessment done properly",
+      "body": "Brokers sit in the middle of all this, and it's very like a good pre-assessment: you can only plan well if you're told the whole picture, and the clinician has to ask the right questions to get it.\n\nIn practice that means:\n\n- **Explaining the duty.** Tell business clients they must volunteer anything material, not just answer questions, and tell consumers to answer every question carefully and fully. Do it in plain words, before anything is filled in.\n- **Asking the right questions.** Don't just read the form aloud. Probe previous claims, refusals, changes in the business, health conditions and plans for the year ahead. For a business, help it run a sensible reasonable search.\n- **Presenting the risk clearly.** Organise the information so the underwriter can find what matters: the opposite of data dumping.\n- **Recording answers.** Note the questions asked, the answers given and the advice provided, and have the client check and confirm what's being submitted for them. It protects everyone if there's a dispute.\n- **Warning about consequences.** Make sure the client understands that getting it wrong can mean a reduced claim, a refused claim or a cancelled policy.\n- **Coming back to it.** Remind clients at renewal and whenever something changes mid-term.\n\nThere's another reason to care. A broker acting for the client is usually treated as the client's agent, so a broker's slip, like mis-keying an answer or not passing something on, can count against the client. And if the client loses out because the broker didn't advise properly, the broker may face a complaint or a negligence claim.\n\nIn health broking this is everyday work. An employer buying group cover needs to give a fair presentation of its workforce and claims history; an individual buying a personal policy needs to answer medical questions carefully. Your habit of taking a thorough, well-documented history is exactly the skill it calls for."
+    }
+  ],
+  "whyItMatters": "Most claims that go badly wrong trace back to what was or wasn't said at the start, and the broker is the one asking the questions. Getting disclosure right protects your client's claims and your own professional standing.",
+  "questions": [
+    {
+      "id": "m05-q01",
+      "topic": "utmost good faith",
+      "stem": "Why has insurance traditionally been described as a contract of utmost good faith?",
+      "options": [
+        "The insurer must pay any claim made honestly, whatever the policy wording says",
+        "The insurer is expected to investigate every risk itself, so the buyer can stay silent",
+        "The buyer usually knows far more about the risk than the insurer, so both sides are expected to deal openly and honestly",
+        "Only the insurer owes a duty of honesty, because it writes the policy wording"
+      ],
+      "answerIndex": 2,
+      "explanation": "The customer holds most of the information about the risk, so the law expects openness from them and honest dealing from the insurer. Good faith runs both ways rather than resting on one side."
+    },
+    {
+      "id": "m05-q02",
+      "topic": "good faith today",
+      "stem": "Which statement about utmost good faith in UK insurance today is true?",
+      "options": [
+        "It applies to both parties, so insurers must also deal honestly, including when handling claims",
+        "An insurer can still cancel any policy simply by showing the customer breached good faith",
+        "It was abolished entirely by the Insurance Act 2015 and no longer has any role",
+        "It applies only to marine insurance and has no bearing on health or home cover"
+      ],
+      "answerIndex": 0,
+      "explanation": "Good faith remains a background principle that binds both sides. What changed is that the old right to avoid a policy just for a breach of good faith was abolished, so insurers must use the remedies in the Acts."
+    },
+    {
+      "id": "m05-q03",
+      "topic": "consumer legislation",
+      "stem": "Which Act sets the disclosure rules when an individual buys insurance for their own home?",
+      "options": [
+        "Insurance Act 2015",
+        "Financial Services and Markets Act 2000",
+        "Marine Insurance Act 1906",
+        "Consumer Insurance (Disclosure and Representations) Act 2012"
+      ],
+      "answerIndex": 3,
+      "explanation": "CIDRA governs consumer insurance, which covers someone insuring their own home. The Insurance Act 2015 deals with business (non-consumer) insurance, and FSMA 2000 is the regulatory framework rather than the disclosure rules."
+    },
+    {
+      "id": "m05-q04",
+      "topic": "who is a consumer",
+      "stem": "Under CIDRA, who counts as a consumer?",
+      "options": [
+        "Any business with fewer than ten employees, because it lacks insurance expertise",
+        "An individual buying cover wholly or mainly for purposes unrelated to their trade, business or profession",
+        "Any individual named on a policy, whatever the cover is used for",
+        "Anyone who buys through a broker rather than directly from the insurer"
+      ],
+      "answerIndex": 1,
+      "explanation": "The test is the purpose of the cover: an individual insuring mainly for personal reasons is a consumer. A small business is still a non-consumer, and how the policy is bought makes no difference."
+    },
+    {
+      "id": "m05-q05",
+      "topic": "which Act applies",
+      "stem": "A company buys group private medical insurance for its 40 employees. Which law sets out what the company must tell the insurer before cover starts?",
+      "options": [
+        "CIDRA, because the people covered are individual employees",
+        "CIDRA, because health insurance is always treated as consumer insurance",
+        "The Insurance Act 2015, because the company is buying the cover for business purposes",
+        "Neither Act, because group schemes are covered only by the scheme rules"
+      ],
+      "answerIndex": 2,
+      "explanation": "The policyholder is the employer, buying cover as part of running its business, so it is non-consumer insurance under the Insurance Act 2015. The fact that individuals benefit does not make the employer a consumer."
+    },
+    {
+      "id": "m05-q06",
+      "topic": "material circumstance",
+      "stem": "Under the Insurance Act 2015, what makes a circumstance \"material\"?",
+      "options": [
+        "It would influence a prudent insurer's judgement on whether to take the risk and, if so, on what terms",
+        "The insured personally believes it is important to the cover being bought",
+        "It turns out to be the cause of the loss that is later claimed for",
+        "The particular insurer quoting has an internal underwriting rule about it"
+      ],
+      "answerIndex": 0,
+      "explanation": "Materiality is judged by what would influence a sensible underwriter in general when deciding whether and on what terms to accept the risk. It is assessed when cover is arranged, not by whether the fact later causes a claim."
+    },
+    {
+      "id": "m05-q07",
+      "topic": "volunteering information",
+      "stem": "Which statement about the duty of fair presentation under the Insurance Act 2015 is true?",
+      "options": [
+        "A business only has to answer the questions printed on the proposal form",
+        "The duty applies when the policy is first bought but not at renewal",
+        "Any breach, however innocent, lets the insurer cancel the policy and keep the premium",
+        "A business must volunteer material information, not just answer the insurer's questions"
+      ],
+      "answerIndex": 3,
+      "explanation": "Businesses carry an active duty to disclose material circumstances whether or not they are asked. The duty applies again at renewal and on mid-term changes, and innocent breaches get proportionate remedies, not automatic avoidance."
+    },
+    {
+      "id": "m05-q08",
+      "topic": "putting insurer on notice",
+      "stem": "If a business does not disclose every material circumstance it knows or ought to know, how else can it meet the disclosure part of the duty of fair presentation?",
+      "options": [
+        "By signing a declaration that every question on the proposal form has been answered",
+        "By giving enough information to put a prudent insurer on notice that it needs to make further enquiries",
+        "By agreeing to pay a higher premium to cover anything that might have been missed",
+        "By telling the insurer about the missing facts once a claim has been made"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Act accepts disclosure that flags enough for a sensible underwriter to realise it should ask more. If the insurer then fails to ask, it usually cannot complain later."
+    },
+    {
+      "id": "m05-q09",
+      "topic": "clear and accessible",
+      "stem": "In the context of fair presentation, what is meant by \"data dumping\"?",
+      "options": [
+        "Handing the insurer a mass of unsorted information so the key facts are hard to find",
+        "Removing old claims records from the file before a renewal is submitted",
+        "Sharing a client's personal data with an insurer without consent",
+        "Leaving out information that would reduce the risk in the insurer's eyes"
+      ],
+      "answerIndex": 0,
+      "explanation": "The presentation must be reasonably clear and accessible to a prudent insurer. Burying important facts in a heap of documents can breach the duty even if the facts are technically in there somewhere."
+    },
+    {
+      "id": "m05-q10",
+      "topic": "representations of fact",
+      "stem": "Under the Insurance Act 2015, how accurate must a business's material statements of fact be?",
+      "options": [
+        "Perfectly correct in every detail, with no inaccuracy of any kind",
+        "Honestly believed, even if they turn out to be badly wrong",
+        "Substantially correct, meaning any inaccuracy wouldn't matter to a prudent insurer",
+        "Correct only where the insurer has asked about that specific topic"
+      ],
+      "answerIndex": 2,
+      "explanation": "Statements of fact need to be substantially correct, so trivial slips that would not affect a sensible underwriter do not breach the duty. The \"honestly held\" standard applies to statements of expectation or belief, not facts."
+    },
+    {
+      "id": "m05-q11",
+      "topic": "expectation or belief",
+      "stem": "A business tells its insurer, \"We expect to open two new branches next year.\" Which statement about this is true under the Insurance Act 2015?",
+      "options": [
+        "It must turn out to be substantially correct, or the duty is breached",
+        "It is ignored completely, because it concerns the future",
+        "It only counts if it is supported by audited accounts",
+        "It must be made in good faith, even if the plans later change"
+      ],
+      "answerIndex": 3,
+      "explanation": "Statements of expectation or belief must be honestly held. If the branches never open because plans genuinely changed, the business has not breached the duty; \"substantially correct\" is the test for statements of fact."
+    },
+    {
+      "id": "m05-q12",
+      "topic": "what need not be disclosed",
+      "stem": "Unless the insurer asks, which of these does a business NOT need to disclose under the Insurance Act 2015?",
+      "options": [
+        "A fire at the premises two years ago",
+        "A newly fitted sprinkler system that reduces the fire risk",
+        "A refusal of cover by another insurer last year",
+        "A new practice of storing flammable chemicals on site"
+      ],
+      "answerIndex": 1,
+      "explanation": "Circumstances that reduce the risk do not need to be disclosed unless asked. Past fires, refusals elsewhere and new hazards are classic material circumstances that would influence a prudent insurer."
+    },
+    {
+      "id": "m05-q13",
+      "topic": "organisational knowledge",
+      "stem": "Under the Insurance Act 2015, whose knowledge counts as what a company \"knows\"?",
+      "options": [
+        "Every employee of the company, however junior their role",
+        "Only the person who signs the proposal form on the company's behalf",
+        "Its senior management and the people responsible for arranging its insurance",
+        "Only the shareholders, because they own the company"
+      ],
+      "answerIndex": 2,
+      "explanation": "A company knows what its senior management and those responsible for its insurance know. Information held elsewhere in the business is picked up through the separate \"ought to know\" test of a reasonable search."
+    },
+    {
+      "id": "m05-q14",
+      "topic": "blind-eye knowledge",
+      "stem": "A factory manager suspects the warehouse wiring is faulty but deliberately avoids checking before the insurance is arranged. How does the Insurance Act 2015 treat this?",
+      "options": [
+        "As knowledge, because deliberately avoiding confirming a suspicion counts as knowing",
+        "As not known, because nothing was ever confirmed",
+        "As relevant only if the wiring later causes a fire",
+        "As relevant only if the insurer asked specifically about wiring"
+      ],
+      "answerIndex": 0,
+      "explanation": "Turning a blind eye to something you suspect is treated as knowing it. Materiality is judged when the risk is presented, so it does not matter whether the wiring later causes a loss, and businesses must volunteer material facts unprompted."
+    },
+    {
+      "id": "m05-q15",
+      "topic": "reasonable search",
+      "stem": "What does the Insurance Act 2015 mean by a \"reasonable search\"?",
+      "options": [
+        "A full independent audit of every record the business has ever held",
+        "A check of public records that the insurer carries out before quoting",
+        "A review of the proposal form for spelling and arithmetic errors",
+        "A search of information available to the insured, scaled to its size and the complexity of the risk"
+      ],
+      "answerIndex": 3,
+      "explanation": "The insured ought to know what a reasonable search would reveal, and what is reasonable depends on the business and the risk. It can include information held by others, such as the broker, but it does not need to be exhaustive."
+    },
+    {
+      "id": "m05-q16",
+      "topic": "qualifying breach",
+      "stem": "When does a breach of the duty of fair presentation give the insurer a remedy?",
+      "options": [
+        "Whenever any fact was left out, whether or not it would have changed anything",
+        "When the insurer shows that, with a fair presentation, it would have declined the risk or written it on different terms",
+        "Only when the missing fact directly caused the loss being claimed for",
+        "Only when the insured left the fact out deliberately"
+      ],
+      "answerIndex": 1,
+      "explanation": "Only a qualifying breach triggers a remedy: the insurer must show the full picture would have changed its decision. Careless breaches can qualify, and there is no requirement that the missing fact caused the loss."
+    },
+    {
+      "id": "m05-q17",
+      "topic": "deliberate or reckless breach",
+      "stem": "Under the Insurance Act 2015, what can an insurer do if a breach of the duty of fair presentation was deliberate or reckless?",
+      "options": [
+        "Avoid the policy, refuse all claims and keep the premium",
+        "Avoid the policy and refuse all claims, but return the premium",
+        "Reduce each claim in proportion to the extra premium it would have charged",
+        "Apply the terms it would have imposed but pay all other claims"
+      ],
+      "answerIndex": 0,
+      "explanation": "A deliberate or reckless breach lets the insurer treat the policy as if it never existed and keep the premium. Returning the premium, applying different terms and proportionate reductions are the remedies for careless breaches."
+    },
+    {
+      "id": "m05-q18",
+      "topic": "burden of proof",
+      "stem": "Who has to prove that a breach of fair presentation was deliberate or reckless?",
+      "options": [
+        "The insured business",
+        "The broker who placed the risk",
+        "The insurer",
+        "The Financial Ombudsman Service"
+      ],
+      "answerIndex": 2,
+      "explanation": "The burden is on the insurer to show a breach was deliberate or reckless. That matters because the harshest remedy, avoiding the policy and keeping the premium, depends on it."
+    },
+    {
+      "id": "m05-q19",
+      "topic": "careless breach remedies",
+      "stem": "Which statement about remedies for a careless breach of fair presentation is FALSE?",
+      "options": [
+        "If the insurer would have charged more, claims are reduced proportionately",
+        "If the insurer would have imposed different terms, the policy is treated as if those terms applied",
+        "If the insurer would not have written the risk at all, it can avoid the policy but must return the premium",
+        "The insurer can avoid the policy and keep the premium"
+      ],
+      "answerIndex": 3,
+      "explanation": "Keeping the premium is reserved for deliberate or reckless breaches. For careless breaches the remedies are proportionate: refund and avoid, apply the different terms, or scale the claim down."
+    },
+    {
+      "id": "m05-q20",
+      "topic": "proportionate reduction",
+      "stem": "Poppy's friend carelessly fails to mention a past flood when insuring her café. She paid £600, but the insurer shows it would have charged £800. She later claims £4,000 for a burst pipe. What should the insurer pay?",
+      "options": [
+        "£4,000",
+        "£3,000",
+        "£1,000",
+        "Nothing, and it returns her £600"
+      ],
+      "answerIndex": 1,
+      "explanation": "She paid 600/800, or three-quarters, of the proper premium, so she receives three-quarters of the claim. The claim is not refused, because the breach was careless and the insurer would still have offered cover."
+    },
+    {
+      "id": "m05-q21",
+      "topic": "different terms remedy",
+      "stem": "Poppy's brother, a self-employed plumber, carelessly forgets to tell his van insurer that he leaves tools in the van overnight. The insurer would have added an exclusion for theft of tools left in the van overnight. He then claims for crash damage to the van. What happens?",
+      "options": [
+        "The crash claim is refused, because he breached the duty of fair presentation",
+        "The crash claim is reduced in proportion to the premium he paid",
+        "The crash claim is paid as normal, because the extra exclusion would not have affected it",
+        "The policy is avoided and his premium is returned"
+      ],
+      "answerIndex": 2,
+      "explanation": "Where the insurer would have used different terms, the policy is treated as if those terms applied. An overnight tool-theft exclusion has no bearing on crash damage, so that claim is paid."
+    },
+    {
+      "id": "m05-q22",
+      "topic": "consumer duty under CIDRA",
+      "stem": "What is a consumer's main duty to the insurer under CIDRA?",
+      "options": [
+        "To take reasonable care not to make a misrepresentation",
+        "To volunteer every circumstance a prudent insurer would want to know",
+        "To carry out a reasonable search of all information available to them",
+        "To have their answers checked by a broker before submitting them"
+      ],
+      "answerIndex": 0,
+      "explanation": "Consumers answer the questions they are asked, carefully and honestly; they do not have to volunteer information. Volunteering material facts and the reasonable search belong to the business duty under the Insurance Act 2015."
+    },
+    {
+      "id": "m05-q23",
+      "topic": "reasonable care factors",
+      "stem": "Under CIDRA, which factor helps decide whether a consumer took reasonable care?",
+      "options": [
+        "How many insurance policies the consumer has held before",
+        "How clear and specific the insurer's questions were",
+        "How large the claim turns out to be",
+        "Whether the consumer bought online or by phone"
+      ],
+      "answerIndex": 1,
+      "explanation": "Reasonable care is judged against a reasonable consumer, considering the type of policy, explanatory material and how clear and specific the questions were. A vague catch-all question carries far less weight than a precise one."
+    },
+    {
+      "id": "m05-q24",
+      "topic": "CIDRA basics",
+      "stem": "Which statement about CIDRA is true?",
+      "options": [
+        "Consumers must volunteer anything a prudent insurer would consider material",
+        "Any incorrect answer allows the insurer to avoid the policy and keep the premium",
+        "An honest and reasonable mistake still allows the insurer to reduce a claim",
+        "If the insurer doesn't ask about something, the consumer generally can't be penalised for not mentioning it"
+      ],
+      "answerIndex": 3,
+      "explanation": "CIDRA replaced the consumer duty to volunteer with a duty to answer carefully, so the onus is on the insurer to ask clear questions. Honest, reasonable mistakes are not qualifying misrepresentations, so the claim is paid."
+    },
+    {
+      "id": "m05-q25",
+      "topic": "accurate answers",
+      "stem": "Poppy's colleague buys car insurance and is asked, \"Have you made any claims in the last five years?\" She answers \"no\". She did make a claim, but it was six years ago. What is the position under CIDRA?",
+      "options": [
+        "There is no misrepresentation, because her answer to the question asked was true",
+        "It is a careless misrepresentation, so any claim will be reduced",
+        "It is a deliberate misrepresentation, so the policy can be avoided",
+        "She breached her duty by not volunteering the older claim"
+      ],
+      "answerIndex": 0,
+      "explanation": "A misrepresentation is an untrue or misleading statement, and her answer was accurate. Consumers are not required to volunteer information beyond the questions asked."
+    },
+    {
+      "id": "m05-q26",
+      "topic": "deliberate misrepresentation",
+      "stem": "Poppy's friend knowingly hides a recent speeding conviction when buying car insurance, to get a cheaper price. The insurer later finds out. What can it do under CIDRA?",
+      "options": [
+        "Reduce any claim in proportion to the extra premium it would have charged",
+        "Add an endorsement for the conviction but pay claims in full",
+        "Avoid the policy and refuse all claims, and keep the premium unless that would be unfair",
+        "Nothing, because a speeding conviction is a minor matter"
+      ],
+      "answerIndex": 2,
+      "explanation": "Knowingly giving a false answer on something she knew was relevant is a deliberate misrepresentation. The insurer can treat the policy as never having existed, and may keep the premium unless that would be unfair."
+    },
+    {
+      "id": "m05-q27",
+      "topic": "careless misrepresentation",
+      "stem": "On a personal medical policy, Poppy's brother ticks \"no\" to a question about back pain in the last two years, forgetting two GP visits because he didn't think back properly. The insurer would have added a back exclusion. He later claims for knee surgery. What happens?",
+      "options": [
+        "The knee claim is refused, because he made a misrepresentation",
+        "The knee claim is paid, but the policy is treated as if it had a back exclusion",
+        "The policy is avoided and he gets his premium back",
+        "The knee claim is reduced in proportion to the premium paid"
+      ],
+      "answerIndex": 1,
+      "explanation": "This is a careless misrepresentation where the insurer would have used different terms, so the policy is treated as if the back exclusion applied. An unrelated knee claim is unaffected, though any back claim would fail."
+    },
+    {
+      "id": "m05-q28",
+      "topic": "broker good practice",
+      "stem": "A broker is taking details from a shop owner for a new commercial policy. Which approach best reflects good practice on disclosure?",
+      "options": [
+        "Read the proposal form aloud and record only the answers to the printed questions",
+        "Send the insurer every document the owner holds, unsorted, so nothing can be missed",
+        "Leave disclosure entirely to the owner, since the legal duty belongs to the insured",
+        "Explain that the owner must volunteer anything material, ask probing questions, and send a written summary for the owner to check before submission"
+      ],
+      "answerIndex": 3,
+      "explanation": "Good brokers explain the duty, ask beyond the form, and get the client to confirm what is being submitted. Sending everything unsorted risks data dumping, and the broker cannot simply step back from the process."
+    },
+    {
+      "id": "m05-q29",
+      "topic": "broker's errors",
+      "stem": "A broker mis-keys a client's claims history when submitting it to the insurer. What is the most likely consequence?",
+      "options": [
+        "The error can count against the client, because the broker usually acts as the client's agent, and the client may have a claim against the broker",
+        "Nothing, because errors made by a broker never affect the client's cover",
+        "The insurer must bear the error, because a broker always acts for the insurer",
+        "The policy is automatically void, whatever the insurer would have done"
+      ],
+      "answerIndex": 0,
+      "explanation": "A broker acting for the client is usually treated as the client's agent, so the mistake can be attributed to the client. If the client loses out, they may complain about or claim against the broker, which is why accurate recording matters."
+    },
+    {
+      "id": "m05-q30",
+      "topic": "broker responsibilities",
+      "stem": "Which statement about the broker's role in disclosure is FALSE?",
+      "options": [
+        "Keeping a record of the questions asked and answers given helps protect both client and broker",
+        "Clients should be reminded about disclosure at renewal and when their circumstances change",
+        "Once the client has signed the proposal form, the broker has no further responsibility for what it contains",
+        "Clients should be warned that wrong information can lead to a reduced or refused claim"
+      ],
+      "answerIndex": 2,
+      "explanation": "A signature does not end the broker's job: they should check what is submitted, record it and revisit it at renewal and on changes. Recording, reminding and warning about consequences are all core parts of the role."
+    }
+  ]
+}
