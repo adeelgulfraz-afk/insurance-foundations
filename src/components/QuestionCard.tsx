@@ -9,17 +9,19 @@ interface QuestionCardProps {
   submitted: boolean
   showFeedback: boolean
   onSelect: (optionIndex: number) => void
+  /** Focus the stem on first render too, e.g. when the card replaces the button that was just pressed. */
+  focusOnMount?: boolean
 }
 
-export default function QuestionCard({ question, index, total, selected, submitted, showFeedback, onSelect }: QuestionCardProps) {
+export default function QuestionCard({ question, index, total, selected, submitted, showFeedback, onSelect, focusOnMount = false }: QuestionCardProps) {
   const reveal = showFeedback && submitted
   const correct = selected === question.answerIndex
   const stemRef = useRef<HTMLHeadingElement>(null)
   const prevId = useRef<string | undefined>(undefined)
 
-  // Move focus to the new stem when the question changes (not on first mount).
+  // Move focus to the new stem when the question changes (on first mount only if asked).
   useEffect(() => {
-    if (prevId.current !== undefined && prevId.current !== question.id) stemRef.current?.focus()
+    if (prevId.current === undefined ? focusOnMount : prevId.current !== question.id) stemRef.current?.focus()
     prevId.current = question.id
   }, [question.id])
 

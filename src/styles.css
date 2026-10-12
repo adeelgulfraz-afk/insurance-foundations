@@ -198,7 +198,7 @@ article h2 { margin-bottom: 14px; }
 .stat b { display: block; font-size: 1.3rem; }
 
 /* Results */
-.score-big { font-family: var(--serif); font-size: 3rem; font-weight: 600; line-height: 1; margin: 4px 0 8px; }
+.score-big, .card .score-big { font-family: var(--serif); font-size: 3rem; font-weight: 600; line-height: 1; margin: 4px 0 8px; }
 .pass { color: var(--ok); }
 .fail { color: var(--warn); }
 .breakdown { list-style: none; padding: 0; margin: 0; }

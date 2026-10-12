@@ -29,7 +29,7 @@ function startOrResume(): { questions: DrawnQuestion[]; ip: ExamInProgress } {
     })
     // Content changed under us (a question vanished) → the saved answers no longer line up, so start again.
     const fits = questions.length === saved.questions.length && questions.length === Math.min(EXAM_SIZE, examBank.length)
-    if (fits && saved.answers.length === questions.length && saved.current >= 0 && saved.current < questions.length) {
+    if (fits && saved.answers.length === questions.length && Number.isInteger(saved.current) && saved.current >= 0 && saved.current < questions.length) {
       return { questions, ip: { ...saved, resumedAt: now } }
     }
   }
@@ -72,6 +72,7 @@ function ExamRun() {
   const ipRef = useRef(ip)
   const finished = useRef(false)
   const reviewTitle = useRef<HTMLHeadingElement>(null)
+  const fromReview = useRef(false) // leaving review remounts the question card; it should take focus
 
   const save = (next: ExamInProgress) => {
     if (finished.current) return
@@ -116,7 +117,7 @@ function ExamRun() {
   const isFlagged = ip.flagged.includes(q.id)
   const elapsed = formatElapsed(ip.elapsedBefore + (now - Date.parse(ip.resumedAt)))
 
-  const go = (k: number) => { change({ current: k }); setView('question'); window.scrollTo(0, 0) }
+  const go = (k: number) => { fromReview.current = view === 'review'; change({ current: k }); setView('question'); window.scrollTo(0, 0) }
   const toggleFlag = () => change({ flagged: isFlagged ? ip.flagged.filter((id) => id !== q.id) : [...ip.flagged, q.id] })
   const openReview = () => { setView('review'); window.scrollTo(0, 0) }
 
@@ -157,7 +158,7 @@ function ExamRun() {
         <p className="legend"><span>Tinted: answered</span><span>Amber ring: flagged</span><span>Tap a number to jump to it</span></p>
         <div className="btn-row">
           <button type="button" className="btn btn-primary" onClick={submit}>Submit exam</button>
-          <button type="button" className="btn btn-ghost" onClick={() => setView('question')}>Back to questions</button>
+          <button type="button" className="btn btn-ghost" onClick={() => go(ip.current)}>Back to questions</button>
         </div>
         <p style={{ textAlign: 'center', marginTop: 24 }}>
           <button type="button" className="link-btn" onClick={abandon}>Abandon this attempt</button>
@@ -169,7 +170,7 @@ function ExamRun() {
   return (
     <Layout title="Final exam" back={{ href: '#/', label: 'Home' }} action={meta}>
       <QuestionCard
-        question={q} index={ip.current} total={total}
+        question={q} index={ip.current} total={total} focusOnMount={fromReview.current}
         selected={ip.answers[ip.current]} submitted={false} showFeedback={false}
         onSelect={(k) => change({ answers: ip.answers.map((v, j) => (j === ip.current ? k : v)) })}
       />

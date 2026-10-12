@@ -16,10 +16,10 @@ export default function ModuleQuiz({ id }: { id: string }) {
   if (!m) return <NotFound />
   if (!isModuleUnlocked(p, modules, id)) return <LockedModule m={m} />
   // A new key on retry (or on a different module) gives a completely fresh attempt and draw.
-  return <QuizRun key={`${id}-${run}`} m={m} onRetry={() => { setRun((r) => r + 1); window.scrollTo(0, 0) }} />
+  return <QuizRun key={`${id}-${run}`} m={m} isRetry={run > 0} onRetry={() => { setRun((r) => r + 1); window.scrollTo(0, 0) }} />
 }
 
-function QuizRun({ m, onRetry }: { m: Module; onRetry: () => void }) {
+function QuizRun({ m, isRetry, onRetry }: { m: Module; isRetry: boolean; onRetry: () => void }) {
   const p = useProgress()
   const [questions] = useState(() => draw(moduleBank(m), QUIZ_SIZE))
   const [i, setI] = useState(0)
@@ -60,8 +60,8 @@ function QuizRun({ m, onRetry }: { m: Module; onRetry: () => void }) {
       <Layout title={title} back={back}>
         <section className="card">
           <p className="eyebrow">Quiz score</p>
-          <h2 ref={scoreRef} tabIndex={-1} className={`score-big ${passedNow ? 'pass' : 'fail'}`}>{result}/{QUIZ_SIZE}</h2>
-          <p>{headline}</p>
+          <h2 ref={scoreRef} tabIndex={-1} aria-describedby="quiz-headline" className={`score-big ${passedNow ? 'pass' : 'fail'}`}>{result}/{QUIZ_SIZE}</h2>
+          <p id="quiz-headline">{headline}</p>
         </section>
         <div className="btn-row">
           {p.modules[m.id]?.passed && nextMod && <a className="btn btn-primary" href={`#/module/${nextMod.id}`}>Next module</a>}
@@ -81,7 +81,7 @@ function QuizRun({ m, onRetry }: { m: Module; onRetry: () => void }) {
       </div>
       <QuestionCard
         question={questions[i]} index={i} total={questions.length}
-        selected={answers[i]} submitted={submitted} showFeedback onSelect={choose}
+        selected={answers[i]} submitted={submitted} showFeedback onSelect={choose} focusOnMount={isRetry}
       />
       {submitted && (
         <button ref={nextRef} type="button" className="btn btn-primary btn-block" onClick={next}>
