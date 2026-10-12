@@ -67,7 +67,7 @@ Each module page has a player that reads the recap, every section and "why this 
 One-off setup (Kokoro needs Python 3.12; Python 3.14 is too new for its dependencies at the time of writing):
 
 ```bash
-brew install espeak-ng python@3.12
+brew install espeak-ng python@3.12 ffmpeg
 "$(brew --prefix python@3.12)/bin/python3.12" -m venv .venv && .venv/bin/pip install kokoro soundfile
 ```
 

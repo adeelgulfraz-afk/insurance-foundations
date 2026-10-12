@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useCallback, useEffect, useState } from 'react'
 import AudioPlayer from '../components/AudioPlayer'
 import Layout from '../components/Layout'
 import Markdown from '../components/Markdown'
@@ -28,7 +28,7 @@ export default function ModuleRead({ id }: { id: string }) {
   const open = !!m && isModuleUnlocked(p, modules, id)
   const [track, setTrack] = useState(0)
   const [playKey, setPlayKey] = useState(0)
-  const listen = (i: number) => { setTrack(i); setPlayKey((k) => k + 1) }
+  const listen = useCallback((i: number) => { setTrack(i); setPlayKey((k) => k + 1) }, [])
 
   // Remember where she was, and restore it on the way back in.
   useEffect(() => {
@@ -87,5 +87,5 @@ export default function ModuleRead({ id }: { id: string }) {
 }
 
 function PlayButton({ label, onClick }: { label: string; onClick: () => void }) {
-  return <button type="button" className="btn-play" aria-label={`Listen to ${label}`} onClick={onClick}>▶</button>
+  return <button type="button" className="btn-play" aria-label={`Listen to ${label}`} onClick={onClick}>{'▶︎'}</button>
 }

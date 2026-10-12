@@ -29,6 +29,11 @@ export default function AudioPlayer({ tracks, moduleId, moduleTitle, index, play
     navigator.mediaSession.metadata = new MediaMetadata({ title: t.title, artist: moduleTitle, album: 'Insurance Foundations' })
     navigator.mediaSession.setActionHandler('previoustrack', index > 0 ? () => onSelect(index - 1) : null)
     navigator.mediaSession.setActionHandler('nexttrack', index < last ? () => onSelect(index + 1) : null)
+    return () => {
+      navigator.mediaSession.setActionHandler('previoustrack', null)
+      navigator.mediaSession.setActionHandler('nexttrack', null)
+      navigator.mediaSession.metadata = null
+    }
   }, [index, last, moduleTitle, onSelect, t.title])
 
   return (

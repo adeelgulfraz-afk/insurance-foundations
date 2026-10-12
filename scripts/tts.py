@@ -2,7 +2,7 @@
 """Generate module narration with Kokoro (voice bf_emma) into public/audio/<id>/.
 
 Setup (once, on the Mac):
-    brew install espeak-ng python@3.12
+    brew install espeak-ng python@3.12 ffmpeg
     "$(brew --prefix python@3.12)/bin/python3.12" -m venv .venv && .venv/bin/pip install kokoro soundfile
 Usage:
     .venv/bin/python scripts/tts.py            # all modules, skipping tracks whose text is unchanged
