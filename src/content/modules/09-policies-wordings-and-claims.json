@@ -1,0 +1,428 @@
+{
+  "id": "m09",
+  "order": 9,
+  "title": "Policies, wordings & claims",
+  "estimatedMinutes": 15,
+  "recap": [
+    "A policy is the schedule (your details) plus the wording (operative clause, definitions, exclusions, conditions, warranties) plus any endorsements; customers get an IPID summary before buying.",
+    "Under the Insurance Act 2015 a breached warranty suspends cover until it is fixed, and an insurer cannot rely on a breach that could not have increased the risk of the actual loss.",
+    "The claims pathway: notify promptly, evidence, adjuster (insurer's side) or assessor (policyholder's side), reserve, settlement; complaints go to the firm first, then FOS after a final response or eight weeks.",
+    "Losses-occurring pays for what happened in the policy year; claims-made pays for claims made in the year, back to the retroactive date, with run-off cover once you stop.",
+    "Claims history drives renewal terms and no-claims discounts, brokers re-present the risk, and consumer renewal notices must show last year's premium."
+  ],
+  "sections": [
+    {
+      "heading": "The policy document, piece by piece",
+      "body": "You already know how to read a prescription chart. Patient details on the front, the drugs prescribed, allergies flagged, instructions like \"take with food\", and signed amendments when something changes. An insurance policy is built the same way.\n\nThe main document is the **policy wording**: the standard text the insurer uses for everyone who buys that product. Alongside it sits the **schedule**, the personalised part. Read together (plus any endorsements), they make up the contract.\n\n### The schedule\n\nThe schedule is the front sheet of the chart. It shows who's insured, the policy number, the **period of insurance** (the dates cover starts and ends), what's covered, the **sum insured** or **limit** (the most the insurer will pay), any **excess** (the slice of each claim the policyholder pays themselves) and the premium. When a client asks \"am I covered for…?\", the schedule is where you start.\n\n### The operative clause\n\nThe **operative clause**, also called the **insuring clause**, is the insurer's core promise: \"we will pay for loss of or damage to your property caused by…\". Everything else in the wording explains, limits or adds to that promise. It's the drug, dose and route on the chart.\n\n### Definitions\n\nMany wordings print certain words in **bold**. That's a signal that the word has a specific meaning, set out in the definitions section, which applies every time it appears. \"Flood\", \"theft\", \"unoccupied\" or \"pre-existing condition\" may mean something narrower (or wider) than in everyday speech.\n\n### Exclusions\n\n**Exclusions** take particular causes, events or items out of cover that would otherwise fall within the operative clause. Some apply to the whole policy, like war or wear and tear. Others sit in one section, such as a home policy excluding theft by lodgers. They're the allergy box: easy to skim past, and they matter enormously.\n\n### Endorsements\n\nAn **endorsement** is a written change to the standard wording for one particular policy. It might add cover (a new engagement ring), restrict it (no cover for an outbuilding in poor repair). Endorsements can be added at the start or mid-term, and where one conflicts with the standard wording, the endorsement wins, just as a signed amendment overrides the original entry on a chart.\n\n### The IPID\n\nCustomers buying general insurance, including every consumer, are given an **Insurance Product Information Document (IPID)** before they buy. It's a short, standardised summary of what's covered, what isn't, the main obligations and how to claim, and it replaced the older \"policy summary\". It doesn't replace the wording, but it's the sensible first look."
+    },
+    {
+      "heading": "Conditions, warranties and the Insurance Act 2015",
+      "body": "### Conditions\n\n**Conditions** are the rules the policyholder has to follow for the policy to work as promised. **General conditions** apply across the whole policy: take reasonable precautions, tell the insurer about changes, how cancellation and fraud are handled. **Claims conditions** set out what to do after a loss: notify within a time limit, don't admit liability, keep damaged items for inspection.\n\nWhat happens after a breach depends on how the condition is written. A **condition precedent** (short for \"condition precedent to liability\") is one the insurer's duty to pay depends on. If it isn't met, the insurer can refuse that claim, even though the policy itself carries on. Notification deadlines are often written this way. Breaching an ordinary condition is less drastic: the insurer can usually only claim for any real harm the breach caused it.\n\nFor consumers, the FCA's ICOBS rules add a safety net. Fraud aside, an insurer shouldn't reject a consumer's claim for breach of a condition or warranty unless the circumstances of the claim are connected to the breach.\n\n### Warranties\n\nA **warranty** is a promise by the policyholder that something will or won't be done, or that a fact is true: \"the burglar alarm will be set whenever the premises are closed\", \"no deep-fat frying on the premises\". You'll mostly meet them in commercial policies.\n\nUnder the old law, warranties were brutal. Any breach, however trivial and however unrelated to the loss, automatically ended the insurer's liability from the moment it happened, and putting it right later didn't bring cover back. Insurers could also use **basis of the contract** clauses to turn every answer on a proposal form into a warranty, so one small inaccuracy could wipe out cover entirely.\n\n### What the Insurance Act 2015 changed\n\nFor commercial (non-consumer) insurance, the Act made three changes worth knowing by heart:\n\n1. **Basis of the contract clauses are abolished.** Proposal answers can't be converted into warranties that way any more. For consumers, the Consumer Insurance (Disclosure and Representations) Act 2012 had already done this.\n2. **Breach suspends cover rather than discharging the insurer.** While a warranty is breached, the insurer isn't liable for losses that happen. Once the breach is remedied, cover comes back.\n3. **Irrelevant breaches can't be relied on.** If a term is aimed at reducing the risk of a particular kind of loss (an alarm warranty is about theft), and the policyholder shows the breach couldn't have increased the risk of the loss that actually happened, the insurer can't use it to refuse the claim. Forgetting the alarm doesn't defeat a claim for a burst pipe.\n\nThe law now asks the sensible question: did this breach have anything to do with what went wrong?"
+    },
+    {
+      "heading": "The claims journey, from first call to settlement",
+      "body": "A claim works like a care pathway: referral, assessment, a plan, treatment, discharge, and a complaints route if something goes wrong.\n\n### 1. Notification\n\nThe policyholder tells the insurer, or their broker, what has happened. Most wordings ask for notice \"as soon as reasonably practicable\", and some set hard limits, such as reporting a theft to the police within a set number of hours. If notification is a condition precedent, missing it can sink an otherwise valid claim, so it's the first thing a broker checks. Liability policies also say: don't admit fault or promise to pay, because the insurer wants to take over the handling of the claim itself.\n\n### 2. Evidence\n\nThe insurer needs to see that the loss happened, that it's covered and what it's worth. Typical evidence is a claim form, photos, receipts or other proof of ownership, repair quotes, a police crime reference for theft, medical reports for injury, or the letter from a third party making a claim.\n\n### 3. Adjusters and assessors\n\nSmall claims are handled by the insurer's own claims team. Bigger or trickier ones may go to a **loss adjuster**: an independent specialist appointed and paid by the insurer to investigate the cause, check the cover and recommend a settlement. Adjusters should be fair, but they're instructed by the insurer.\n\nA **loss assessor** is the mirror image: someone the policyholder hires to prepare and negotiate the claim on their behalf, usually paid a fee or a percentage of the settlement. The names are confusingly close, so remember that the *assessor* sits on the *policyholder's* side. Brokers often play a similar advocate role for their clients.\n\n### 4. Reserving\n\nAs soon as a claim is reported, the insurer sets a **reserve**: its best estimate of what the claim will cost in the end, set aside so the money is there, and updated as the picture becomes clearer.\n\n### 5. Settlement\n\nOnce cover and value are agreed, the insurer settles by paying cash, paying for repairs, replacing the item or reinstating the property, depending on the policy, with the excess and limits applied. The policyholder often signs a **discharge form** confirming they accept the amount in full and final settlement of that claim. It's discharge in the clinical sense too: the episode is closed.\n\n### 6. Disputes and complaints\n\nIf the customer is unhappy with a decline, a delay or the amount, the first step is always the firm's own complaints process. FCA rules give the firm up to eight weeks to send a **final response**. If the customer is still unhappy, or eight weeks pass without one, an **eligible complainant** can go to the **Financial Ombudsman Service (FOS)**, normally within six months of the final response. Eligible complainants include consumers, micro-enterprises and small businesses, plus some small charities and trusts; large companies use the courts or arbitration instead.\n\nFOS is free for complainants. If they accept its decision, it binds the firm; if they reject it, they can still go to court. It's the same shape as NHS complaints: local resolution first, then the ombudsman."
+    },
+    {
+      "heading": "Claims-made or losses-occurring?",
+      "body": "Every liability policy has a **trigger**: the event that decides which year's policy pays. It matters because claims can arrive years later.\n\n### Losses-occurring\n\nA **losses-occurring** policy (sometimes called an *occurrence* basis) responds to loss, damage or injury that happens during the policy period, whenever the claim is eventually made. If a customer slips in a café in 2026 and sues in 2029, the café's 2026 public liability policy pays, even if the café has since changed insurer. Public liability and employers' liability are typically written this way, and property and motor cover work on the same idea of loss happening during the period.\n\n### Claims-made\n\nA **claims-made** policy responds to claims first made against the insured, and notified to the insurer, during the policy period, whenever the mistake behind them happened. Professional indemnity, directors' and officers' liability and medical malpractice cover usually work this way. So if a consultant gave poor advice in 2023 and the client complains in 2026, it's the 2026 policy that responds.\n\nClaims-made policies normally let you notify **circumstances** too: a situation that might lead to a claim. Report it during the policy and any later claim arising from it attaches to that policy, even if it arrives later.\n\n### Retroactive dates\n\nMost claims-made policies have a **retroactive date**. Work done before that date isn't covered, even if the claim arrives during the policy period. When a firm first buys cover, the retroactive date is often the start date. Keeping the same retroactive date at every renewal, and when moving insurer, is vital: if it's moved forward, earlier work is suddenly uninsured.\n\n### Run-off cover\n\nHere's the catch with claims-made: if there's no live policy when the claim arrives, nothing responds, even though cover was in place when the work was done. That bites when someone retires, sells a business or closes down. **Run-off cover** fills the gap by covering claims made after the business stops, about past work, for an agreed number of years. Picture a dietitian retiring from private practice: a former client could still claim about advice given years earlier, and run-off would protect her."
+    },
+    {
+      "heading": "Renewal and claims experience",
+      "body": "Most general insurance runs for a year, so every client comes up for **renewal** annually. It isn't a formality: it's when cover is reviewed, the risk re-presented and the price reset.\n\n### How claims history affects renewal\n\nInsurers price partly on the past. A client with frequent or large claims looks riskier, so at renewal the insurer may raise the premium, increase the excess, add exclusions or endorsements, ask for risk improvements or decline to renew. For businesses and group schemes, insurers look at the **loss ratio**: claims paid divided by premium received. A group private medical insurance scheme with a high loss ratio will usually see a bigger increase at renewal.\n\nClaims history also has to be shared. A business must include past claims in its fair presentation, and a consumer must answer the insurer's questions about previous claims carefully.\n\n### No-claims discount\n\nA **no-claims discount (NCD)**, or no-claims bonus, rewards years without a claim, and is most familiar from motor insurance. Each claim-free year builds the discount; a claim, usually one where the insurer can't recover its costs from someone else, knocks it back. Many insurers sell **NCD protection** so a claim or two doesn't reduce the discount, although the premium itself can still rise. Some individual health policies use a similar scale.\n\n### The broker's role at renewal\n\nA good broker starts well before the renewal date. They check whether the client's needs have changed, review sums insured and limits, gather the claims history and any risk improvements, and present the risk to the existing insurer and, where it helps, to others. Then they compare terms and recommend. It's a planned review, not a repeat prescription.\n\n### Renewal transparency\n\nThe FCA has specific rules for consumer renewals. Since 2017, general insurance renewal notices have had to show **last year's premium** alongside the new one, so the customer can see the change at a glance. Since 2022, for home and motor insurance, a renewing customer can't be charged more than an equivalent new customer would pay through the same channel, which ended \"price walking\", where loyal customers quietly paid more each year. Firms must also make it easy to switch off automatic renewal."
+    }
+  ],
+  "whyItMatters": "Clients judge a broker by what happens when they claim: knowing where to look in a wording, hitting notification deadlines, protecting retroactive dates and fighting the client's corner at claim and renewal time is a big part of what makes a broker worth paying.",
+  "questions": [
+    {
+      "id": "m09-q01",
+      "topic": "policy schedule",
+      "stem": "Which part of an insurance policy is personalised to the policyholder, showing their name, the period of insurance, sums insured, excesses and premium?",
+      "options": [
+        "The schedule",
+        "The operative clause",
+        "The general conditions",
+        "The definitions section"
+      ],
+      "answerIndex": 0,
+      "explanation": "The schedule is the personalised front sheet that sits alongside the standard wording; the operative clause, conditions and definitions are standard text shared by everyone who buys that product."
+    },
+    {
+      "id": "m09-q02",
+      "topic": "operative clause",
+      "stem": "What does the operative (insuring) clause of a policy do?",
+      "options": [
+        "Lists the events and causes that are not covered",
+        "Sets out the rules the policyholder must follow after a loss",
+        "States the insurer's core promise of what it will pay for or cover",
+        "Records the premium and the dates cover runs"
+      ],
+      "answerIndex": 2,
+      "explanation": "The operative clause is the insurer's central promise; exclusions, conditions and the schedule then limit, regulate or personalise that promise."
+    },
+    {
+      "id": "m09-q03",
+      "topic": "policy definitions",
+      "stem": "Which statement about the definitions in a policy wording is true?",
+      "options": [
+        "Defined words take their everyday dictionary meaning wherever they appear",
+        "A defined word carries its defined meaning wherever it is used in the policy, which can make cover narrower or wider than everyday use suggests",
+        "Definitions are only binding in commercial policies, not consumer ones",
+        "Definitions are set by the FCA, so they are identical across all insurers"
+      ],
+      "answerIndex": 1,
+      "explanation": "Words printed in bold usually have a policy-specific meaning, so \"flood\" or \"unoccupied\" may not mean what a client assumes. Insurers write their own definitions, which is why wordings differ."
+    },
+    {
+      "id": "m09-q04",
+      "topic": "endorsements",
+      "stem": "Poppy's cousin gets engaged mid-way through the year and asks her insurer to add cover for the £4,000 ring to her home policy. How is this change normally recorded?",
+      "options": [
+        "The insurer rewrites the operative clause of its standard wording",
+        "A warranty is added stating the ring will be kept in a safe",
+        "A separate new policy is issued just for the ring",
+        "An endorsement is added to her policy, amending the standard cover for her alone"
+      ],
+      "answerIndex": 3,
+      "explanation": "An endorsement is a written change to the standard wording for one policy, and it can be added mid-term to extend or restrict cover; the standard wording itself stays the same for everyone else."
+    },
+    {
+      "id": "m09-q05",
+      "topic": "IPID",
+      "stem": "What is an Insurance Product Information Document (IPID)?",
+      "options": [
+        "An insurer's internal record of the money set aside for an open claim",
+        "The full policy wording, issued only to commercial clients",
+        "A short, standardised summary of what is and is not covered, key obligations and how to claim, given before purchase",
+        "The renewal notice that compares this year’s premium with last year’s"
+      ],
+      "answerIndex": 2,
+      "explanation": "The IPID is a brief standardised summary given before someone buys general insurance; it replaced the old \"policy summary\" but does not replace the full wording, which still governs the contract."
+    },
+    {
+      "id": "m09-q06",
+      "topic": "exclusions",
+      "stem": "What is the job of an exclusion in a policy wording?",
+      "options": [
+        "To take specific causes, events or items out of cover that would otherwise fall within the operative clause",
+        "To set out what the policyholder must do after a loss",
+        "To change the standard cover for one individual policyholder",
+        "To state the maximum amount the insurer will pay"
+      ],
+      "answerIndex": 0,
+      "explanation": "Exclusions carve things out of the insuring promise. Post-loss duties are conditions, one-off changes are endorsements, and the maximum payable is a limit or sum insured."
+    },
+    {
+      "id": "m09-q07",
+      "topic": "condition precedent",
+      "stem": "What is special about a condition precedent to liability?",
+      "options": [
+        "It only takes effect at renewal",
+        "Any breach cancels the whole policy back to the start date",
+        "It is a promise about the state of the risk that runs for the whole policy period",
+        "If it is not complied with, the insurer can refuse the claim it relates to, even though the policy continues"
+      ],
+      "answerIndex": 3,
+      "explanation": "The insurer's duty to pay depends on a condition precedent being met, which is why notification deadlines written this way matter so much. A promise about the state of the risk is a warranty, a different kind of term."
+    },
+    {
+      "id": "m09-q08",
+      "topic": "warranties",
+      "stem": "In an insurance policy, what is a warranty?",
+      "options": [
+        "A manufacturer's guarantee covering faults in a product",
+        "A promise by the policyholder that something will or will not be done, or that a fact is true",
+        "An exclusion an insurer adds after a claim has been made",
+        "A broker's guarantee that the insurer will pay any valid claim"
+      ],
+      "answerIndex": 1,
+      "explanation": "A warranty is a policyholder promise such as \"the alarm will be set when the premises are closed\". It has nothing to do with product guarantees, and brokers cannot guarantee claims."
+    },
+    {
+      "id": "m09-q09",
+      "topic": "warranty breach suspends cover",
+      "stem": "Poppy's friend runs a café. Her commercial policy warrants that the kitchen fire-suppression system is serviced every six months. The service lapses for two months, then she gets it done. A month later, a kitchen fire breaks out. Under the Insurance Act 2015, what is the position?",
+      "options": [
+        "The insurer was discharged from all liability when the service lapsed, so there is no cover",
+        "Cover was suspended during the lapse but came back once the system was serviced, so the fire claim can be considered",
+        "The insurer can reduce the claim proportionately because of the earlier breach",
+        "The policy is treated as never having existed and the premium is returned"
+      ],
+      "answerIndex": 1,
+      "explanation": "Under the Insurance Act 2015 a warranty breach suspends cover only while it lasts; once remedied, cover resumes. Automatic discharge was the old rule, and proportionate reductions belong to the fair presentation remedies."
+    },
+    {
+      "id": "m09-q10",
+      "topic": "irrelevant breach",
+      "stem": "A shop owner's policy requires the burglar alarm to be set whenever the shop is closed. One night she forgets, and a burst pipe floods the stockroom overnight. Under the Insurance Act 2015, can the insurer refuse the flood claim because of the alarm breach?",
+      "options": [
+        "Yes, because any breach of a warranty discharges the insurer",
+        "Yes, because cover is suspended while the breach continues and the flood happened during it",
+        "No, because the alarm term is aimed at theft and the breach could not have increased the risk of the flood that actually happened",
+        "No, because alarm requirements are not allowed in commercial policies"
+      ],
+      "answerIndex": 2,
+      "explanation": "Suspension is the tempting answer, but the Act also stops insurers relying on a breach of a risk-reducing term if it could not have increased the risk of the loss that actually occurred. An unset alarm has nothing to do with a burst pipe."
+    },
+    {
+      "id": "m09-q11",
+      "topic": "warranties before 2015",
+      "stem": "Which statement about warranties under the law before the Insurance Act 2015 is true?",
+      "options": [
+        "A breach automatically discharged the insurer from liability from the moment of breach, even if it had nothing to do with a later loss",
+        "A breach only reduced the claim in proportion to the extra risk",
+        "Warranties could not be used in commercial insurance",
+        "A breach suspended cover until it was put right"
+      ],
+      "answerIndex": 0,
+      "explanation": "The old rule was all or nothing and permanent: any breach ended liability from that point, and fixing it later did not help. Suspension until remedied is the newer rule introduced by the 2015 Act."
+    },
+    {
+      "id": "m09-q12",
+      "topic": "basis of contract clauses",
+      "stem": "What did the Insurance Act 2015 do to \"basis of the contract\" clauses in commercial policies?",
+      "options": [
+        "Made them compulsory on all proposal forms",
+        "Limited them to large commercial risks",
+        "Converted them into conditions precedent",
+        "Abolished them, so proposal answers can no longer be turned into warranties that way"
+      ],
+      "answerIndex": 3,
+      "explanation": "Basis of the contract clauses once turned every proposal answer into a warranty, so a small slip could void cover. The 2015 Act abolished them for commercial insurance, as the 2012 Act had already done for consumers."
+    },
+    {
+      "id": "m09-q13",
+      "topic": "policy conditions",
+      "stem": "Which statement about policy conditions is true?",
+      "options": [
+        "Conditions only appear in commercial policies",
+        "Breaching any condition always entitles the insurer to cancel the policy",
+        "Claims conditions, such as notifying a loss within a set time, are often written as conditions precedent",
+        "Conditions are found only in the schedule, not the wording"
+      ],
+      "answerIndex": 2,
+      "explanation": "Claims conditions are frequently conditions precedent, so missing them can defeat that claim. Breaching an ordinary condition usually only lets the insurer claim for real harm it caused, not cancel the policy."
+    },
+    {
+      "id": "m09-q14",
+      "topic": "claim notification",
+      "stem": "Poppy's brother's van is broken into overnight and his tools are stolen. His policy says thefts must be reported to the police and the insurer as soon as reasonably practicable. What should he do?",
+      "options": [
+        "Wait until he has quotes for replacement tools before telling anyone, so the claim is complete",
+        "Report it to the police and notify his insurer or broker promptly, keeping receipts and photos as evidence",
+        "Buy replacement tools and mention the theft at renewal",
+        "Hire a loss adjuster to submit the claim for him"
+      ],
+      "answerIndex": 1,
+      "explanation": "Prompt notification protects the claim, especially if it is a condition precedent, and a crime reference plus proof of ownership are standard evidence. A loss adjuster is appointed by the insurer, not by the policyholder."
+    },
+    {
+      "id": "m09-q15",
+      "topic": "loss adjuster",
+      "stem": "Who appoints and pays a loss adjuster?",
+      "options": [
+        "The insurer",
+        "The policyholder",
+        "The policyholder's broker",
+        "The Financial Ombudsman Service"
+      ],
+      "answerIndex": 0,
+      "explanation": "A loss adjuster is an independent specialist instructed and paid by the insurer to investigate, check cover and recommend a settlement. The policyholder's own representative is a loss assessor."
+    },
+    {
+      "id": "m09-q16",
+      "topic": "loss assessor",
+      "stem": "After a serious kitchen fire, Poppy's neighbour wants a professional on her side to prepare her claim and negotiate with the insurer. Who should she hire?",
+      "options": [
+        "A loss adjuster",
+        "An underwriter",
+        "A claims handler at the insurer",
+        "A loss assessor, usually paid by her as a fee or a percentage of the settlement"
+      ],
+      "answerIndex": 3,
+      "explanation": "The assessor sits on the policyholder's side; adjusters, underwriters and claims handlers all work for or are instructed by the insurer."
+    },
+    {
+      "id": "m09-q17",
+      "topic": "claims reserve",
+      "stem": "What is a claims reserve?",
+      "options": [
+        "The excess the policyholder pays towards each claim",
+        "The insurer's estimate of what an open claim will ultimately cost, set aside to pay it",
+        "A fund the broker keeps to pay claims quickly",
+        "Money held by the FSCS in case an insurer fails"
+      ],
+      "answerIndex": 1,
+      "explanation": "Insurers set a reserve as soon as a claim is reported and adjust it as more is known, so the money is there when the claim is settled."
+    },
+    {
+      "id": "m09-q18",
+      "topic": "discharge form",
+      "stem": "When a claim is agreed, the policyholder is often asked to sign a discharge form. What does it typically do?",
+      "options": [
+        "Appoints a loss assessor to act for the policyholder",
+        "Extends the policy for another year",
+        "Confirms the policyholder accepts the agreed amount in full and final settlement of that claim",
+        "Gives the insurer permission not to renew the policy"
+      ],
+      "answerIndex": 2,
+      "explanation": "Signing a discharge form closes that claim at the agreed figure, much like a discharge closes an episode of care, so it is worth checking the amount is right before signing."
+    },
+    {
+      "id": "m09-q19",
+      "topic": "complaints first step",
+      "stem": "A customer is unhappy with how her travel claim after a cancelled flight was handled. What is the right first step?",
+      "options": [
+        "Complain to the insurer (or broker) through its own complaints process",
+        "Take the complaint straight to the Financial Ombudsman Service",
+        "Ask the Financial Services Compensation Scheme to review it",
+        "Report the insurer to the Prudential Regulation Authority"
+      ],
+      "answerIndex": 0,
+      "explanation": "Complaints start with the firm itself; FOS only steps in after a final response or eight weeks. The FSCS pays out when firms fail, and the PRA supervises financial soundness, not individual complaints."
+    },
+    {
+      "id": "m09-q20",
+      "topic": "FOS timing",
+      "stem": "When can an eligible complainant take a complaint to the Financial Ombudsman Service?",
+      "options": [
+        "Only after a court has ruled on the dispute",
+        "At any time within the first week of the complaint",
+        "Only if the insurer has gone out of business",
+        "Once the firm has issued its final response, or eight weeks have passed without one"
+      ],
+      "answerIndex": 3,
+      "explanation": "Firms get up to eight weeks to resolve a complaint; after a final response, or if that time runs out, the customer can go to FOS, normally within six months of the final response."
+    },
+    {
+      "id": "m09-q21",
+      "topic": "Financial Ombudsman Service",
+      "stem": "Which statement about the Financial Ombudsman Service is true?",
+      "options": [
+        "It can hear complaints from businesses of any size",
+        "It is free for complainants, and its decision binds the firm if the complainant accepts it",
+        "It pays compensation when an insurer goes out of business",
+        "Its decisions bind the complainant even if they disagree with them"
+      ],
+      "answerIndex": 1,
+      "explanation": "FOS is free and its accepted decisions bind the firm, while a complainant who rejects a decision can still go to court. Only eligible complainants such as consumers and small businesses can use it, and failed firms are the FSCS's territory."
+    },
+    {
+      "id": "m09-q22",
+      "topic": "claims evidence",
+      "stem": "Poppy's phone is stolen from a café table while she's on holiday. Which evidence is her insurer most likely to ask for?",
+      "options": [
+        "A police report or crime reference and proof of ownership, such as the receipt",
+        "A medical report from her GP",
+        "A loss adjuster's fee agreement",
+        "A copy of last year's renewal notice"
+      ],
+      "answerIndex": 0,
+      "explanation": "For theft, insurers want proof the theft was reported and proof she owned the item and what it was worth; the other documents have nothing to do with showing this loss happened."
+    },
+    {
+      "id": "m09-q23",
+      "topic": "claims-made trigger",
+      "stem": "Under a claims-made policy, what triggers cover?",
+      "options": [
+        "The loss or damage happening during the policy period",
+        "The negligent act happening during the policy period",
+        "The claim first being made against the insured, and notified, during the policy period",
+        "The date the premium was paid"
+      ],
+      "answerIndex": 2,
+      "explanation": "Claims-made cover looks at when the claim arrives, not when the mistake happened (subject to the retroactive date). When the loss happens is the losses-occurring trigger."
+    },
+    {
+      "id": "m09-q24",
+      "topic": "claims-made classes",
+      "stem": "Which class of insurance is most typically written on a claims-made basis?",
+      "options": [
+        "Home buildings insurance",
+        "Employers' liability",
+        "Motor insurance",
+        "Professional indemnity"
+      ],
+      "answerIndex": 3,
+      "explanation": "Professional indemnity is classically claims-made because complaints about advice can surface years later. Employers' liability, motor and property respond to injury or damage occurring in the policy period."
+    },
+    {
+      "id": "m09-q25",
+      "topic": "retroactive date",
+      "stem": "A nutrition consultancy has a claims-made professional indemnity policy with a retroactive date of 1 March 2021. This year a former client brings a claim about advice given in 2019. What is the likely position?",
+      "options": [
+        "Not covered, because the advice was given before the retroactive date",
+        "Covered, because the claim was made during the current policy period",
+        "Covered, because injury claims are always dealt with on a losses-occurring basis",
+        "Partly covered, in proportion to the years since the advice"
+      ],
+      "answerIndex": 0,
+      "explanation": "A claims-made policy only covers work done on or after its retroactive date, even when the claim arrives in the policy period. That is why brokers fight to keep the original retroactive date at each renewal."
+    },
+    {
+      "id": "m09-q26",
+      "topic": "run-off cover",
+      "stem": "A physiotherapist retires and closes her private practice. Why might her broker suggest run-off cover?",
+      "options": [
+        "To cover injuries to her staff after the practice has closed",
+        "Because claims about her past work can still arrive after she stops, and a claims-made policy only responds if it is live when the claim is made",
+        "To keep her no-claims discount for when she returns to work",
+        "Because the FCA requires it for everyone who retires"
+      ],
+      "answerIndex": 1,
+      "explanation": "Without a live policy, a claims-made trigger leaves nothing to respond when a late claim arrives; run-off covers claims about past work for an agreed number of years after the business stops."
+    },
+    {
+      "id": "m09-q27",
+      "topic": "losses-occurring",
+      "stem": "Which statement about losses-occurring policies is true?",
+      "options": [
+        "They need a retroactive date to work",
+        "They only pay claims notified within the policy period",
+        "They are the usual basis for professional indemnity cover",
+        "They respond to loss or injury that happens during the policy period, even if the claim comes years later"
+      ],
+      "answerIndex": 3,
+      "explanation": "Losses-occurring cover looks at when the injury or damage happened, so the policy in force then pays even if the claim is made much later. Retroactive dates and notification-in-period belong to claims-made cover."
+    },
+    {
+      "id": "m09-q28",
+      "topic": "renewal transparency",
+      "stem": "Under FCA rules, what must a consumer's general insurance renewal notice show?",
+      "options": [
+        "The broker's commission rate in every case",
+        "The insurer's loss ratio for that product",
+        "Last year's premium alongside the renewal premium",
+        "The customer's credit score"
+      ],
+      "answerIndex": 2,
+      "explanation": "Showing last year's premium next to the new one lets customers see the change at a glance and decide whether to shop around. It sits alongside the home and motor rule that renewing customers can't be charged more than equivalent new customers."
+    },
+    {
+      "id": "m09-q29",
+      "topic": "no-claims discount",
+      "stem": "Poppy's sister makes an at-fault claim on her car insurance this year. What is the most likely effect at renewal?",
+      "options": [
+        "Her no-claims discount is reduced, unless she has protected it, and her premium is likely to rise",
+        "Her no-claims discount is unaffected until she has made three claims",
+        "Her insurer is required to refuse to renew",
+        "Nothing changes, because the claim has already been settled"
+      ],
+      "answerIndex": 0,
+      "explanation": "An at-fault claim usually cuts the discount built up over claim-free years. NCD protection can preserve the discount, but the underlying premium can still go up because the claim makes her look riskier."
+    },
+    {
+      "id": "m09-q30",
+      "topic": "broker at renewal",
+      "stem": "Which statement about a broker's role at renewal is true?",
+      "options": [
+        "The broker simply forwards the existing insurer's renewal invitation",
+        "The broker reviews the client's needs and claims history, presents the risk to insurers and compares terms before recommending",
+        "Brokers must not discuss a client's past claims with other insurers",
+        "The duty of fair presentation no longer applies once a policy is renewed"
+      ],
+      "answerIndex": 1,
+      "explanation": "Renewal is a planned review: needs, limits, claims history and risk improvements are all re-presented to the market. Past claims must be disclosed, and fair presentation applies afresh at each renewal."
+    }
+  ]
+}
