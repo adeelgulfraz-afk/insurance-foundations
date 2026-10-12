@@ -1,1 +1,564 @@
-{ "questions": [] }
+{
+  "questions": [
+    {
+      "id": "x-q01",
+      "module": "mixed",
+      "topic": "proximate cause + exclusions",
+      "stem": "Jess's café policy covers storm damage but excludes flood. A storm brings down a tree, which punches a hole in the roof, and heavy rain then pours through the hole and soaks the café's stock. How should the stock damage be treated?",
+      "options": [
+        "As flood damage, because water was the last thing to touch the stock",
+        "As storm damage, because the storm set off an unbroken chain that let the rain in",
+        "Split equally between storm and flood, because two causes were involved",
+        "As gradual damage, because rain getting into a building is never sudden"
+      ],
+      "answerIndex": 1,
+      "explanation": "Proximate cause looks for the dominant cause, not the last event: rain coming through a storm-damaged roof flows naturally from the storm, and it isn't flood (rising water from outside), so the flood exclusion doesn't bite."
+    },
+    {
+      "id": "x-q02",
+      "module": "mixed",
+      "topic": "proximate cause + exclusions + fair claims handling",
+      "stem": "Amir's travel policy excludes injury resulting from him being under the influence of alcohol. On holiday he falls from a hotel balcony and claims £6,000 of medical costs. The insurer suspects he'd been drinking. How should the claim be approached?",
+      "options": [
+        "Amir must prove he was completely sober, because it's for the policyholder to disprove an exclusion",
+        "The claim must be paid, because the fall, not the drink, was the event nearest the injury",
+        "The insurer can refuse simply because he had a drink that evening, however little",
+        "The insurer must show alcohol was the dominant cause of the fall; if it can, the exclusion applies and the costs aren't covered"
+      ],
+      "answerIndex": 3,
+      "explanation": "The policyholder proves an insured event; the insurer must prove an exclusion applies, which means showing the excluded cause was the proximate (dominant) cause, and fair claims handling means investigating that properly rather than assuming it."
+    },
+    {
+      "id": "x-q03",
+      "module": "mixed",
+      "topic": "fair presentation + proportionate remedies",
+      "stem": "Ravi's printing firm carelessly forgets to mention a previous fire when arranging its commercial property cover. It paid £1,500, but the insurer shows it would have charged £3,000. Ravi then claims £10,000 for a burst pipe. Under the Insurance Act 2015, what should the insurer pay?",
+      "options": [
+        "£5,000",
+        "£10,000",
+        "Nothing, and it keeps the premium",
+        "£8,500"
+      ],
+      "answerIndex": 0,
+      "explanation": "A careless breach where the insurer would have charged more leads to a proportionate cut: £1,500 is half of £3,000, so half of the £10,000 claim is paid."
+    },
+    {
+      "id": "x-q04",
+      "module": "mixed",
+      "topic": "fair presentation remedies + warranties under the Insurance Act 2015",
+      "stem": "The director of a removals company knows it has had three vehicle fires but deliberately leaves them out of the presentation to get cheaper commercial cover. After a warehouse theft, the insurer finds out about the fires. What can it do under the Insurance Act 2015?",
+      "options": [
+        "Pay the theft claim, because a breach that couldn't have increased the risk of theft is ignored",
+        "Reduce the theft claim in proportion to the extra premium it would have charged",
+        "Avoid the policy, refuse the theft claim and keep the premium, even though the fires had nothing to do with the theft",
+        "Avoid the policy but refund the full premium, because the theft is unrelated"
+      ],
+      "answerIndex": 2,
+      "explanation": "For a deliberate or reckless breach of fair presentation the insurer can avoid and keep the premium; the 'couldn't have increased the risk of this loss' rule belongs to risk-reducing terms like warranties, not to dishonest non-disclosure."
+    },
+    {
+      "id": "x-q05",
+      "module": "mixed",
+      "topic": "CIDRA remedies + renewal as a new contract",
+      "stem": "At renewal, Mia's home insurer sends her the facts it holds and asks her to tell it if anything has changed. During the year her partner, who lives with her, was convicted of burglary, but Mia carelessly doesn't update the insurer. It shows it would not have renewed at all. After a kitchen fire, what's the position under CIDRA?",
+      "options": [
+        "The insurer can avoid the policy and keep the premium, because the answer was wrong",
+        "The claim must be paid, because the conviction has nothing to do with a kitchen fire",
+        "The insurer can avoid the renewed policy and refuse the claim, but must return the premium for it",
+        "The insurer pays the claim reduced by the extra premium it would have charged"
+      ],
+      "answerIndex": 2,
+      "explanation": "Renewal is a new contract, and carelessly failing to update facts when the insurer asks can be a misrepresentation; where a careless misrepresentation means the insurer would never have offered cover, it can avoid but must refund the premium."
+    },
+    {
+      "id": "x-q06",
+      "module": "mixed",
+      "topic": "moratorium underwriting + CIDRA",
+      "stem": "Zara joins an individual PMI policy on moratorium terms, so she answers no medical questions. She had physio for back pain the year before joining. A friend warns her she should have mentioned it, or the insurer could cancel her policy for misrepresentation. Which is most accurate?",
+      "options": [
+        "No questions were asked, so there's no misrepresentation; her back is simply excluded under the moratorium until it qualifies to be covered",
+        "She has made a careless misrepresentation, so the insurer can treat the policy as if a back exclusion applied",
+        "She should have volunteered it, because consumers must disclose every material fact",
+        "The insurer can avoid the whole policy, because moratorium terms rely on members disclosing their history"
+      ],
+      "answerIndex": 0,
+      "explanation": "Under CIDRA a consumer's duty is to take reasonable care when answering the insurer's questions; moratorium cover asks none and instead excludes recent conditions automatically, applying the rules when a claim comes in."
+    },
+    {
+      "id": "x-q07",
+      "module": "mixed",
+      "topic": "group PMI + Insurance Act 2015 fair presentation",
+      "stem": "An employer moving its 60-person PMI scheme to a new insurer gives its broker the scheme's claims history but carelessly leaves out a large, ongoing cancer claim it knew about. Which law applies, and what remedy might the insurer have?",
+      "options": [
+        "CIDRA, because the people covered are individual employees",
+        "The Insurance Act 2015, and the insurer can avoid and keep the premium for any non-disclosure",
+        "None, because a medical history disregarded scheme ignores past claims",
+        "The Insurance Act 2015, and if the insurer would have charged more, it can reduce claims in proportion"
+      ],
+      "answerIndex": 3,
+      "explanation": "The employer is buying for business purposes, so the duty of fair presentation applies; a careless breach gets a proportionate remedy, and avoiding while keeping the premium is reserved for deliberate or reckless breaches."
+    },
+    {
+      "id": "x-q08",
+      "module": "mixed",
+      "topic": "average + renewal sum insured review",
+      "stem": "Ola's contents are insured for £30,000 under a policy with an average clause. Her renewal letter asked her to check the sum insured, but she didn't, and her contents are actually worth £50,000. A burglar takes £10,000 of items. Ignoring the excess, what does the insurer pay?",
+      "options": [
+        "£10,000",
+        "£6,000",
+        "£4,000",
+        "£3,000"
+      ],
+      "answerIndex": 1,
+      "explanation": "She insured £30,000 of £50,000, which is 60%, so average pays 60% of the £10,000 loss; renewal is exactly the moment to recheck sums insured."
+    },
+    {
+      "id": "x-q09",
+      "module": "mixed",
+      "topic": "reinstatement valuation + average",
+      "stem": "Sana's house would sell for £400,000 and would cost £250,000 to rebuild. She insures the building for £200,000 under a policy with an average clause. A storm causes £20,000 of damage. Ignoring the excess, what does the insurer pay?",
+      "options": [
+        "£20,000",
+        "£10,000",
+        "£4,000",
+        "£16,000"
+      ],
+      "answerIndex": 3,
+      "explanation": "Buildings are underinsured against the rebuild cost, not the sale price: £200,000 of £250,000 is 80%, so 80% of the £20,000 loss is paid."
+    },
+    {
+      "id": "x-q10",
+      "module": "mixed",
+      "topic": "cover notes + insurable interest",
+      "stem": "Ella buys a second-hand van, collecting it at 10am on Saturday. Her broker, which has the insurer's authority to issue cover notes, emails her one at 9am and she pays. At noon she's hit in a car park. The policy documents arrive the next Thursday. What's the position?",
+      "options": [
+        "She isn't covered until the policy document is issued, because that's when the contract is formed",
+        "She's covered: the cover note binds the insurer, and as the van's owner she had an insurable interest when the loss happened",
+        "She isn't covered, because her insurable interest only starts once the van is registered in her name",
+        "She's covered only if the insurer later ratifies the cover note"
+      ],
+      "answerIndex": 1,
+      "explanation": "A cover note issued with authority is binding temporary cover, and the policy only records a contract that already exists; ownership gives her an insurable interest at the time of loss, which is when property insurance needs it."
+    },
+    {
+      "id": "x-q11",
+      "module": "mixed",
+      "topic": "insurable interest + offer and counter-offer",
+      "stem": "Kai's company asks for £2 million of key person cover on its finance director. The insurer replies offering £600,000, the most it thinks reflects the company's realistic loss. What's the legal position?",
+      "options": [
+        "A contract for £2 million exists, because the company made the first offer",
+        "A contract for £600,000 exists automatically, because insurable interest caps the cover",
+        "The insurer's reply is a counter-offer, so there's no contract unless the company accepts £600,000",
+        "The proposal is void under the Life Assurance Act 1774, because £2 million exceeds the interest"
+      ],
+      "answerIndex": 2,
+      "explanation": "An employer's interest in a key person is limited to its realistic financial loss, so the insurer offers less; a reply on different terms is a counter-offer that kills the original proposal until accepted."
+    },
+    {
+      "id": "x-q12",
+      "module": "mixed",
+      "topic": "dual insurance + indemnity",
+      "stem": "Ben's guitar is insured under two similar instrument policies, one with a £2,000 sum insured and the other with £3,000. It's damaged and the agreed loss is £1,000. Using the sums insured method, what does Ben receive?",
+      "options": [
+        "£1,000 in total: £400 from the £2,000 policy and £600 from the £3,000 policy",
+        "£2,000 in total: £1,000 from each policy, because he paid both premiums",
+        "£1,000 in total: £500 from each policy, because the insurers share equally",
+        "£1,000 in total, all of it from the £3,000 policy, because it has the larger sum insured"
+      ],
+      "answerIndex": 0,
+      "explanation": "Indemnity means he's paid his loss once, and contribution shares it rateably: £2,000 of £5,000 total cover is 40%, so £400, and the other 60% is £600."
+    },
+    {
+      "id": "x-q13",
+      "module": "mixed",
+      "topic": "contribution + benefit policies",
+      "stem": "Which statement about having two policies that cover the same thing is true?",
+      "options": [
+        "Two personal accident policies paying fixed sums can both pay in full, but two contents policies covering the same stolen laptop share the loss",
+        "Two contents policies covering the same stolen laptop can both pay in full, because each was paid for separately",
+        "Contribution applies to life policies, so that a family isn't over-compensated",
+        "Two critical illness policies share one payout between them, so the total never exceeds the larger sum insured"
+      ],
+      "answerIndex": 0,
+      "explanation": "Contribution is a corollary of indemnity, so it applies where a policy pays the actual loss; benefit policies pay an agreed sum, so each pays in full."
+    },
+    {
+      "id": "x-q14",
+      "module": "mixed",
+      "topic": "subrogation + loss adjusters",
+      "stem": "The insurer's loss adjuster traces a fire at Jess's café to faulty work by an electrician. The insurer pays Jess's £40,000 claim in full. Which best describes what can happen next?",
+      "options": [
+        "The insurer recovers through contribution, because the electrician's liability insurer is a second insurer of the same loss",
+        "Jess must sue the electrician herself, because the insurer has no rights of its own against him",
+        "The insurer can use Jess's rights against the electrician to recover up to the £40,000 it paid",
+        "The loss adjuster takes over Jess's claim against the electrician, because adjusters act for both sides"
+      ],
+      "answerIndex": 2,
+      "explanation": "Once it has indemnified Jess, the insurer is subrogated to her rights against whoever caused the loss, up to what it paid; contribution is only between insurers of the same insured, and the adjuster works for the insurer."
+    },
+    {
+      "id": "x-q15",
+      "module": "mixed",
+      "topic": "subrogation + excess",
+      "stem": "Poppy's parked car is hit by a driver who admits fault. Her insurer pays the £2,000 repair bill less her £250 excess, so £1,750, and then recovers the full £2,000 from the other driver's insurer. What should happen to the extra £250?",
+      "options": [
+        "The insurer keeps it as a fee for pursuing the recovery",
+        "It goes to Poppy, because it covers her uninsured excess and the insurer can only keep what it paid",
+        "The insurer keeps it, because subrogation transfers all of Poppy's rights to it",
+        "It goes back to the other driver's insurer, because Poppy has already been indemnified"
+      ],
+      "answerIndex": 1,
+      "explanation": "Subrogation lets an insurer recover only up to what it actually paid; the excess was Poppy's own uninsured loss, so that part of the recovery belongs to her."
+    },
+    {
+      "id": "x-q16",
+      "module": "mixed",
+      "topic": "Consumer Duty + demands and needs",
+      "stem": "A broker's non-advised website sells travel insurance. Poppy's aunt, 74, declares a heart condition for a two-week trip to the USA, and the journey defaults her to its cheapest policy, which excludes pre-existing medical conditions. Which is most accurate?",
+      "options": [
+        "It's acceptable, because demands and needs only apply when a broker gives advice",
+        "It's acceptable as long as the exclusion is in the IPID, because disclosure alone meets the Consumer Duty",
+        "It only becomes a regulatory issue if she later claims and complains",
+        "The sale doesn't meet her demands and needs, and a journey that routinely does this risks foreseeable harm under the Consumer Duty"
+      ],
+      "answerIndex": 3,
+      "explanation": "Every sale, advised or not, must be consistent with the customer's demands and needs, and the Consumer Duty expects firms to avoid foreseeable harm, not just disclose the problem in small print."
+    },
+    {
+      "id": "x-q17",
+      "module": "mixed",
+      "topic": "Consumer Duty consumer support + claims process",
+      "stem": "An insurer lets customers buy home cover online in two minutes, but to claim they must print and post three forms, with no phone or email option. Poppy's friend gives up on a valid £400 claim. Which Consumer Duty outcome is most clearly in question?",
+      "options": [
+        "Price and value",
+        "Consumer support",
+        "Products and services",
+        "None, because she chose to stop claiming"
+      ],
+      "answerIndex": 1,
+      "explanation": "The consumer support outcome expects it to be as easy to claim, complain or cancel as it was to buy, so post-sale barriers that make customers give up are exactly what it targets."
+    },
+    {
+      "id": "x-q18",
+      "module": "mixed",
+      "topic": "suitability + income protection definitions",
+      "stem": "A broker recommends an income protection policy to a self-employed dental hygienist mainly because it's the cheapest. It only pays if she can't do any work at all, and the broker doesn't explain this. What's the main concern?",
+      "options": [
+        "The recommendation may well be unsuitable, as she could be left unpaid if she can't do her own job but could do other work",
+        "None, because price is the main factor in any recommendation",
+        "Suitability doesn't apply to protection, only demands and needs do",
+        "None, as long as she signed to say she'd read the policy wording"
+      ],
+      "answerIndex": 0,
+      "explanation": "A personal recommendation must be suitable for the client's needs, and for someone whose income depends on a specific skill an 'any occupation' definition is much weaker than 'own occupation', which needs explaining."
+    },
+    {
+      "id": "x-q19",
+      "module": "mixed",
+      "topic": "agency + commission disclosure",
+      "stem": "Dev's broker places his bakery's commercial cover and is paid 15% commission by the insurer. Dev asks: 'If the insurer pays you, aren't you really working for them?' What's the right answer?",
+      "options": [
+        "Yes: whoever pays the commission is the broker's principal",
+        "No, and because the broker works for Dev it never needs to mention commission",
+        "Yes, which is why a commercial client can't ask what the commission is",
+        "No: the broker normally acts as Dev's agent despite the commission, must tell him how it's paid, and must tell him the amount if he asks"
+      ],
+      "answerIndex": 3,
+      "explanation": "Being paid by the insurer doesn't change who a broker acts for; clients must be told the nature of the broker's pay, and commercial customers are entitled to know the commission amount on request."
+    },
+    {
+      "id": "x-q20",
+      "module": "mixed",
+      "topic": "delegated authority + conflicts of interest",
+      "stem": "Which statement about a broker that holds an insurer's binding authority is true?",
+      "options": [
+        "Holding a binding authority makes it the insurer's agent for everything, including advising the client",
+        "It no longer needs to consider whether other insurers would suit the client better",
+        "When it accepts a client's risk under that authority it acts for the insurer on that task, a potential conflict it must identify and manage",
+        "It no longer needs to disclose how it is paid, because the insurer sets the terms"
+      ],
+      "answerIndex": 2,
+      "explanation": "A broker is generally the client's agent but can act for the insurer on specific tasks like underwriting under delegated authority, which creates a conflict that must be prevented or managed."
+    },
+    {
+      "id": "x-q21",
+      "module": "mixed",
+      "topic": "claims-made + retroactive date at renewal",
+      "stem": "At renewal, Priya's broker moves her claims-made professional indemnity cover to a new insurer, which sets the retroactive date as the start of the new policy. Next month a former client complains about advice Priya gave two years ago. What's the likely position?",
+      "options": [
+        "The old policy responds, because the advice was given while it was in force",
+        "The new policy responds, because the claim is made during its period",
+        "Neither policy is likely to respond: the old one has expired, and the new one excludes work before its retroactive date",
+        "Both policies share the claim through contribution"
+      ],
+      "answerIndex": 2,
+      "explanation": "Claims-made cover responds to claims made in the policy period, back only to the retroactive date, so a broker switching insurer should try to keep the original retroactive date to avoid this gap."
+    },
+    {
+      "id": "x-q22",
+      "module": "mixed",
+      "topic": "losses-occurring + changing insurer at renewal",
+      "stem": "Jess's café had public liability cover with Insurer A until its 2025 renewal, when her broker moved her to Insurer B. Both policies are losses-occurring. A customer who slipped in the café in 2024 makes a claim in 2026. Which insurer should deal with it?",
+      "options": [
+        "Insurer B, because the claim was made during its policy",
+        "Neither, because the claim arrived after Insurer A's policy ended",
+        "Both, sharing the claim through contribution",
+        "Insurer A, because the injury happened while its policy was in force"
+      ],
+      "answerIndex": 3,
+      "explanation": "A losses-occurring policy responds to injury or damage that happens during its period, however late the claim arrives, so the insurer on risk in 2024 deals with it."
+    },
+    {
+      "id": "x-q23",
+      "module": "mixed",
+      "topic": "regulators + FOS and FSCS",
+      "stem": "Which statement correctly matches UK bodies to their jobs?",
+      "options": [
+        "The PRA supervises insurers' financial soundness; if an insurer fails anyway, the FSCS can pay eligible claims; disputes with a firm that's still trading go to the FOS",
+        "The FOS pays compensation when an insurer goes bust, and the FSCS rules on complaints",
+        "The FCA decides individual customers' complaints once a firm has issued its final response",
+        "The PRA handles complaints about brokers, because it regulates their financial soundness"
+      ],
+      "answerIndex": 0,
+      "explanation": "The PRA (Bank of England) looks after insurers' prudential soundness and the FCA regulates conduct; the Financial Ombudsman Service resolves complaints and the Financial Services Compensation Scheme pays when a firm can't."
+    },
+    {
+      "id": "x-q24",
+      "module": "mixed",
+      "topic": "FOS eligibility + warranties",
+      "stem": "Jess runs a café with four staff. Her insurer rejects a storm claim because she hadn't had her fire extinguishers serviced, as a policy term requires, and its final response stands by that. What's the best advice?",
+      "options": [
+        "She can't use the FOS, because it only hears complaints from individual consumers",
+        "She can take it to the FOS, which hears smaller businesses as well as consumers, and argue the breach couldn't have increased the risk of storm damage",
+        "She must complain to the FCA, which decides individual disputes",
+        "She should complain to the FSCS, because the insurer has refused to pay"
+      ],
+      "answerIndex": 1,
+      "explanation": "The FOS is open to smaller businesses after a final response, and under the Insurance Act 2015 an insurer can't rely on breach of a risk-reducing term that couldn't have increased the risk of the loss that actually happened."
+    },
+    {
+      "id": "x-q25",
+      "module": "mixed",
+      "topic": "Lloyd's market + broker placing",
+      "stem": "A cosmetic clinic needs medical malpractice cover that mainstream insurers won't write, so its broker arranges for it to be placed at Lloyd's. Which describes how this works?",
+      "options": [
+        "The broker buys the policy from the Corporation of Lloyd's, which carries the risk itself",
+        "A single managing agent provides all the capital and pays every claim",
+        "The members of Lloyd's negotiate the terms directly with the clinic",
+        "A Lloyd's broker presents the risk to a lead underwriter, other syndicates follow, and each syndicate pays its own share of any claim"
+      ],
+      "answerIndex": 3,
+      "explanation": "Lloyd's is a marketplace: business arrives through accredited brokers, a lead underwriter sets terms, followers take shares, and each syndicate, backed by its members' capital, pays its own part."
+    },
+    {
+      "id": "x-q26",
+      "module": "mixed",
+      "topic": "Lloyd's + wholesale broking + agency",
+      "stem": "A retail broker in Bristol uses a London Lloyd's broker to place a client's yacht cover with syndicates. When the Lloyd's broker negotiates terms with the underwriters, whose side is it on?",
+      "options": [
+        "The syndicates', because it is accredited by Lloyd's",
+        "The Corporation of Lloyd's, which oversees the market",
+        "The client's, as part of the broking chain acting for the buyer of the insurance",
+        "Nobody's, because it's a neutral go-between with no duties to either side"
+      ],
+      "answerIndex": 2,
+      "explanation": "A wholesale or Lloyd's broker sits in the broking chain on the buyer's side, so, like the retail broker, it owes its duties to the client, not to the underwriters."
+    },
+    {
+      "id": "x-q27",
+      "module": "mixed",
+      "topic": "benefit vs indemnity + PMI and cash plans",
+      "stem": "Poppy's colleague has PMI through work and her own cash plan paying £60 for every night spent as a hospital in-patient, NHS or private. PMI approves a four-night private stay for surgery costing £9,000. What is most likely to be paid?",
+      "options": [
+        "PMI pays £8,760 and the cash plan £240, because the two policies share the cost",
+        "PMI pays the £9,000 and the cash plan pays £240, because a fixed benefit isn't shared through contribution",
+        "Only PMI pays, because she can't claim twice for the same hospital stay",
+        "Only the cash plan pays, because it's the more specific insurance"
+      ],
+      "answerIndex": 1,
+      "explanation": "PMI is an indemnity policy paying actual treatment costs, while the cash plan pays a set benefit per night (4 × £60 = £240), so contribution doesn't apply between them."
+    },
+    {
+      "id": "x-q28",
+      "module": "mixed",
+      "topic": "benefit vs indemnity + critical illness and PMI",
+      "stem": "Which statement about health and protection products is true?",
+      "options": [
+        "Critical illness cover pays an agreed lump sum on a qualifying diagnosis, whereas PMI pays the actual cost of eligible treatment",
+        "Critical illness cover pays the hospital bills for treating the illness, up to the sum insured",
+        "PMI pays a fixed lump sum on diagnosis, whatever the treatment costs",
+        "Life cover is an indemnity policy, so it pays the person's lost future earnings"
+      ],
+      "answerIndex": 0,
+      "explanation": "Critical illness, income protection and life cover are benefit policies paying agreed sums; PMI works on indemnity lines, paying the real cost of treatment up to its limits."
+    },
+    {
+      "id": "x-q29",
+      "module": "mixed",
+      "topic": "conditions precedent + claims notification",
+      "stem": "A mid-sized building contractor's commercial policy makes it a condition precedent that any theft is reported to the insurer within 30 days. The firm reports a £15,000 plant theft four months later. What's the likely position?",
+      "options": [
+        "The insurer can refuse this theft claim, but the policy carries on for future claims",
+        "The insurer must pay, because late reporting couldn't have increased the risk of the theft",
+        "The insurer can treat the whole policy as void from the start",
+        "The insurer must pay in full, but can add an extra excess at renewal"
+      ],
+      "answerIndex": 0,
+      "explanation": "Breaking a condition precedent lets the insurer refuse the related claim without ending the policy; the 'couldn't have increased the risk' rule applies to risk-reducing terms like alarms, not to how a claim is reported."
+    },
+    {
+      "id": "x-q30",
+      "module": "mixed",
+      "topic": "warranties + broker advice",
+      "stem": "A broker places cover for Poppy's friend's jewellery shop with a warranty that all stock is locked in the safe outside opening hours. What should the broker make sure she understands?",
+      "options": [
+        "A breach would let the insurer cancel the policy back to the date it started",
+        "If she breaches the warranty, cover is suspended until it's put right, so stock left out overnight could leave a theft that night uninsured",
+        "Warranties only matter if the insurer asks about them again at renewal",
+        "A breach only reduces a claim in proportion to the extra premium the insurer would have charged"
+      ],
+      "answerIndex": 1,
+      "explanation": "Under the Insurance Act 2015 a breached warranty suspends cover until remedied, and explaining that clearly, in writing, is part of the broker's job of getting the client to understand the terms she must keep."
+    },
+    {
+      "id": "x-q31",
+      "module": "mixed",
+      "topic": "peril vs hazard + pricing",
+      "stem": "An insurer quoting for Jess's café notes a deep-fat fryer in the kitchen and old electrical wiring. How do these usually affect the quote?",
+      "options": [
+        "They're perils, so the insurer will automatically exclude fire",
+        "They're moral hazards, which only become relevant when a claim is made",
+        "They don't affect price, which depends only on the sum insured",
+        "They're physical hazards that make the peril of fire more likely, so the insurer may charge more, add conditions or ask for improvements"
+      ],
+      "answerIndex": 3,
+      "explanation": "A peril is the event (fire) and a hazard is what makes it more likely or worse; underwriters price and set terms by weighing up physical and moral hazards."
+    },
+    {
+      "id": "x-q32",
+      "module": "mixed",
+      "topic": "moral hazard + fair presentation",
+      "stem": "Ravi is arranging commercial property cover for his new company. His previous business made three fire claims in two years, and its insurer then refused to renew. The new insurer's form doesn't ask about previous businesses. What should he do?",
+      "options": [
+        "Leave it out, because it relates to a different company",
+        "Leave it out, because a business only has to answer the questions it's asked",
+        "Disclose it, because it's a material circumstance pointing to possible moral hazard and a business must volunteer material facts",
+        "Mention it only if the insurer asks about it during a claim"
+      ],
+      "answerIndex": 2,
+      "explanation": "A prudent insurer would want to know about a pattern that suggests moral hazard, and under the Insurance Act 2015 a business must disclose material circumstances whether or not it's asked."
+    },
+    {
+      "id": "x-q33",
+      "module": "mixed",
+      "topic": "vulnerable customers + special category data",
+      "stem": "During a renewal call, a long-standing client tells her health broker she's just been diagnosed with breast cancer and is finding the paperwork overwhelming. What should the broker do?",
+      "options": [
+        "Avoid writing anything down, because health information can never be kept on file",
+        "Pass the diagnosis to every insurer on its panel so they can tailor their quotes",
+        "Record what's needed to adapt its service, such as a named contact and simpler explanations, handling the health information as special category data with proper safeguards",
+        "Carry on as normal, because vulnerability only applies to elderly customers"
+      ],
+      "answerIndex": 2,
+      "explanation": "A diagnosis is a health driver of vulnerability that should change how the broker serves her, and health data is special category under UK GDPR, so it needs a lawful basis, an extra condition, minimal use and tight security."
+    },
+    {
+      "id": "x-q34",
+      "module": "mixed",
+      "topic": "data protection + group PMI renewal",
+      "stem": "Ahead of a group PMI renewal, an employer's HR director asks the broker for a list of employees who claimed last year and their diagnoses, to understand rising costs. What should the broker do?",
+      "options": [
+        "Share anonymised, aggregated claims trends rather than identifiable diagnoses",
+        "Share the full list, because the employer pays the premium and owns the scheme data",
+        "Share the full list, as long as it's sent by email marked confidential",
+        "Refuse to share any claims information, so the renewal isn't discussed with HR"
+      ],
+      "answerIndex": 0,
+      "explanation": "Employees' health data is special category and wasn't shared for HR to see, so data minimisation points to aggregated trends, which still let the broker and employer tackle the cost drivers at renewal."
+    },
+    {
+      "id": "x-q35",
+      "module": "mixed",
+      "topic": "peril vs hazard + proximate cause",
+      "stem": "An overloaded extension lead in Poppy's flat overheats and starts a fire that damages her living room. Her contents policy covers fire. Which statement is right?",
+      "options": [
+        "The extension lead is the peril, so this isn't a fire claim",
+        "Fire is the insured peril that caused the damage; the overloaded lead was a hazard that made a fire more likely",
+        "Because a hazard was present, the claim is automatically excluded",
+        "The lead is a moral hazard, so the insurer can refuse the claim"
+      ],
+      "answerIndex": 1,
+      "explanation": "Hazards make an insured peril more likely or worse; they matter for underwriting and pricing, but the loss here was still caused by fire, which the policy covers."
+    },
+    {
+      "id": "x-q36",
+      "module": "mixed",
+      "topic": "Consumer Duty consumer understanding + PMI exclusions",
+      "stem": "An insurer's PMI sales page lists dozens of benefits in large print, but the fact that ongoing care for chronic conditions isn't covered appears only in the full policy wording. Many members are surprised when long-term condition claims are declined. Which Consumer Duty outcome is most at risk?",
+      "options": [
+        "Price and value",
+        "Consumer support",
+        "None, because the exclusion is in the policy wording",
+        "Consumer understanding"
+      ],
+      "answerIndex": 3,
+      "explanation": "Consumer understanding expects firms to communicate key information, like PMI's standard exclusion of chronic conditions, clearly when customers are making decisions, not just bury it in the wording."
+    },
+    {
+      "id": "x-q37",
+      "module": "mixed",
+      "topic": "renewal as a new contract + fair presentation",
+      "stem": "Which statement about renewing a business's insurance is true?",
+      "options": [
+        "Renewal extends the original contract, so only facts given when it first started count",
+        "Because each renewal is a new contract, the business must make a fair presentation again, including incidents and changes during the year",
+        "At renewal the duty of fair presentation passes to the broker, so the business needn't check anything",
+        "Only claims that have been paid need mentioning, not incidents that might lead to claims"
+      ],
+      "answerIndex": 1,
+      "explanation": "An annual renewal forms a fresh contract, so the disclosure duty bites again; the broker helps gather and present the facts, but the duty stays with the business."
+    },
+    {
+      "id": "x-q38",
+      "module": "mixed",
+      "topic": "insurable interest + contribution + subrogation",
+      "stem": "Which statement about the rules that support indemnity is true?",
+      "options": [
+        "Subrogation lets a policyholder be paid by both their insurer and the person at fault, keeping both",
+        "Contribution lets an insurer pay less than its share whenever another insurer is involved",
+        "Insurable interest only matters for life policies, so it plays no part in indemnity",
+        "Insurable interest, contribution and subrogation all help stop an indemnity policy paying someone more than their actual loss"
+      ],
+      "answerIndex": 3,
+      "explanation": "No interest means no loss to indemnify, contribution stops double payment from two insurers, and subrogation stops double recovery from the insurer and the wrongdoer."
+    },
+    {
+      "id": "x-q39",
+      "module": "mixed",
+      "topic": "law of large numbers + group risk",
+      "stem": "A 500-employee firm's group income protection scheme covers everyone up to a free cover limit without medical questions, yet Poppy's own individual policy asked about her health. Why can the group scheme do this?",
+      "options": [
+        "Group schemes are benefit policies, so members' health doesn't affect the claims cost",
+        "Insurers are legally barred from asking employees health questions",
+        "Staff join because of their job, not their health, so the large pool is predictable enough to rely on the law of large numbers rather than underwriting each person",
+        "The employer has an unlimited insurable interest in each employee, which removes the need for underwriting"
+      ],
+      "answerIndex": 2,
+      "explanation": "Pooling many similar risks makes total claims predictable, and because people aren't choosing cover based on their own health there's less anti-selection, so medical evidence is only needed above the free cover limit."
+    },
+    {
+      "id": "x-q40",
+      "module": "mixed",
+      "topic": "policy limits + PMI outpatient cover",
+      "stem": "Poppy's brother's PMI has an annual outpatient limit of £1,000 and no excess. His outpatient consultations and scans this year cost £1,400. How much will the insurer pay?",
+      "options": [
+        "£1,000, leaving him to pay the remaining £400",
+        "£1,400, because PMI pays the actual cost of treatment",
+        "£600, because the £400 overspend is deducted from the limit",
+        "Nothing, because PMI never covers outpatient care"
+      ],
+      "answerIndex": 0,
+      "explanation": "PMI pays actual costs on indemnity lines, but only up to its limits; an inner limit like an outpatient cap is the most it pays for that part of the cover."
+    }
+  ]
+}
